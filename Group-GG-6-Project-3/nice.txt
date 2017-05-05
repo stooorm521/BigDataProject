@@ -1,0 +1,1209 @@
+$`10`
+$`10`$POStagged
+[1] "Computer/NNP Terminal/NNPS Systems/NNPS Inc/NNP said/VBD it/PRP has/VBZ completed/VBN the/DT sale/NN of/IN 200,000/CD shares/NNS of/IN its/PRP$ common/JJ stock/NN ,/, and/CC warrants/NNS to/TO acquire/VB an/DT additional/JJ one/CD mln/NN shares/NNS ,/, to/TO <Sedio/NNP N.V./NNP >/NNP of/IN Lugano/NNP ,/, Switzerland/NNP for/IN 50,000/CD dlrs/NNS ./. The/DT company/NN said/VBD the/DT warrants/NNS are/VBP exercisable/JJ for/IN five/CD years/NNS at/IN a/DT purchase/NN price/NN of/IN .125/CD dlrs/NNS per/IN share/NN ./. Computer/NNP Terminal/NNP said/VBD Sedio/NNP also/RB has/VBZ the/DT right/NN to/TO buy/VB additional/JJ shares/NNS and/CC increase/VB its/PRP$ total/NN holdings/NNS up/RB to/TO 40/CD pct/NN of/IN the/DT Computer/NNP Terminal/NNP 's/POS outstanding/JJ common/JJ stock/NN under/IN certain/JJ circumstances/NNS involving/VBG change/NN of/IN control/NN at/IN the/DT company/NN ./. The/DT company/NN said/VBD if/IN the/DT conditions/NNS occur/VBP the/DT warrants/NNS would/MD be/VB exercisable/JJ at/IN a/DT price/NN equal/JJ to/TO 75/CD pct/NN of/IN its/PRP$ common/JJ stock/NN 's/POS market/NN price/NN at/IN the/DT time/NN ,/, not/RB to/TO exceed/VB 1.50/CD dlrs/NNS per/IN share/NN ./. Computer/NN Terminal/NNP also/RB said/VBD it/PRP sold/VBD the/DT technolgy/NN rights/NNS to/TO its/PRP$ Dot/NNP Matrix/NNP impact/NN technology/NN ,/, including/VBG any/DT future/JJ improvements/NNS ,/, to/TO <Woodco/NNP Inc>/NNP of/IN Houston/NNP ,/, Tex/NNP ./. for/IN 200,000/CD dlrs/NNS ./. But/CC ,/, it/PRP said/VBD it/PRP would/MD continue/VB to/TO be/VB the/DT exclusive/JJ worldwide/JJ licensee/NN of/IN the/DT technology/NN for/IN Woodco/NNP ./. The/DT company/NN said/VBD the/DT moves/NNS were/VBD part/NN of/IN its/PRP$ reorganization/NN plan/NN and/CC would/MD help/VB pay/VB current/JJ operation/NN costs/NNS and/CC ensure/VB product/NN delivery/NN ./. Computer/NN Terminal/NNP makes/VBZ computer/NN generated/VBD labels/NNS ,/, forms/NNS ,/, tags/NNS and/CC ticket/NN printers/NNS and/CC terminals/NNS ./. Reuter/NNP"
+
+$`10`$POStags
+  [1] "NNP"  "NNPS" "NNPS" "NNP"  "VBD"  "PRP"  "VBZ"  "VBN"  "DT"   "NN"  
+ [11] "IN"   "CD"   "NNS"  "IN"   "PRP$" "JJ"   "NN"   ","    "CC"   "NNS" 
+ [21] "TO"   "VB"   "DT"   "JJ"   "CD"   "NN"   "NNS"  ","    "TO"   "NNP" 
+ [31] "NNP"  "NNP"  "IN"   "NNP"  ","    "NNP"  "IN"   "CD"   "NNS"  "."   
+ [41] "DT"   "NN"   "VBD"  "DT"   "NNS"  "VBP"  "JJ"   "IN"   "CD"   "NNS" 
+ [51] "IN"   "DT"   "NN"   "NN"   "IN"   "CD"   "NNS"  "IN"   "NN"   "."   
+ [61] "NNP"  "NNP"  "VBD"  "NNP"  "RB"   "VBZ"  "DT"   "NN"   "TO"   "VB"  
+ [71] "JJ"   "NNS"  "CC"   "VB"   "PRP$" "NN"   "NNS"  "RB"   "TO"   "CD"  
+ [81] "NN"   "IN"   "DT"   "NNP"  "NNP"  "POS"  "JJ"   "JJ"   "NN"   "IN"  
+ [91] "JJ"   "NNS"  "VBG"  "NN"   "IN"   "NN"   "IN"   "DT"   "NN"   "."   
+[101] "DT"   "NN"   "VBD"  "IN"   "DT"   "NNS"  "VBP"  "DT"   "NNS"  "MD"  
+[111] "VB"   "JJ"   "IN"   "DT"   "NN"   "JJ"   "TO"   "CD"   "NN"   "IN"  
+[121] "PRP$" "JJ"   "NN"   "POS"  "NN"   "NN"   "IN"   "DT"   "NN"   ","   
+[131] "RB"   "TO"   "VB"   "CD"   "NNS"  "IN"   "NN"   "."    "NN"   "NNP" 
+[141] "RB"   "VBD"  "PRP"  "VBD"  "DT"   "NN"   "NNS"  "TO"   "PRP$" "NNP" 
+[151] "NNP"  "NN"   "NN"   ","    "VBG"  "DT"   "JJ"   "NNS"  ","    "TO"  
+[161] "NNP"  "NNP"  "IN"   "NNP"  ","    "NNP"  "."    "IN"   "CD"   "NNS" 
+[171] "."    "CC"   ","    "PRP"  "VBD"  "PRP"  "MD"   "VB"   "TO"   "VB"  
+[181] "DT"   "JJ"   "JJ"   "NN"   "IN"   "DT"   "NN"   "IN"   "NNP"  "."   
+[191] "DT"   "NN"   "VBD"  "DT"   "NNS"  "VBD"  "NN"   "IN"   "PRP$" "NN"  
+[201] "NN"   "CC"   "MD"   "VB"   "VB"   "JJ"   "NN"   "NNS"  "CC"   "VB"  
+[211] "NN"   "NN"   "."    "NN"   "NNP"  "VBZ"  "NN"   "VBD"  "NNS"  ","   
+[221] "NNS"  ","    "NNS"  "CC"   "NN"   "NNS"  "CC"   "NNS"  "."    "NNP" 
+
+
+$`12`
+$`12`$POStagged
+[1] "Ohio/NNP Mattress/NNP Co/NNP said/VBD its/PRP$ first/JJ quarter/NN ,/, ending/VBG February/NNP 28/CD ,/, profits/NNS may/MD be/VB below/IN the/DT 2.4/CD mln/NN dlrs/NNS ,/, or/CC 15/CD cts/NNS a/DT share/NN ,/, earned/VBN in/IN the/DT first/JJ quarter/NN of/IN fiscal/JJ 1986/CD ./. The/DT company/NN said/VBD any/DT decline/NN would/MD be/VB due/JJ to/TO expenses/NNS related/VBN to/TO the/DT acquisitions/NNS in/IN the/DT middle/NN of/IN the/DT current/JJ quarter/NN of/IN seven/CD licensees/NNS of/IN Sealy/NNP Inc/NNP ,/, as/RB well/RB as/IN 82/CD pct/NN of/IN the/DT outstanding/JJ capital/NN stock/NN of/IN Sealy/NNP ./. Because/IN of/IN these/DT acquisitions/NNS ,/, it/PRP said/VBD ,/, first/JJ quarter/NN sales/NNS will/MD be/VB substantially/RB higher/JJR than/IN last/JJ year/NN 's/POS 67.1/CD mln/NN dlrs/NNS ./. Noting/VBG that/IN it/PRP typically/RB reports/VBZ first/JJ quarter/NN results/NNS in/IN late/JJ march/NN ,/, said/VBD the/DT report/NN is/VBZ likely/JJ to/TO be/VB issued/VBN in/IN early/JJ April/NNP this/DT year/NN ./. It/PRP said/VBD the/DT delay/NN is/VBZ due/JJ to/TO administrative/JJ considerations/NNS ,/, including/VBG conducting/VBG appraisals/NNS ,/, in/IN connection/NN with/IN the/DT acquisitions/NNS ./. Reuter/NNP"
+
+$`12`$POStags
+  [1] "NNP"  "NNP"  "NNP"  "VBD"  "PRP$" "JJ"   "NN"   ","    "VBG"  "NNP" 
+ [11] "CD"   ","    "NNS"  "MD"   "VB"   "IN"   "DT"   "CD"   "NN"   "NNS" 
+ [21] ","    "CC"   "CD"   "NNS"  "DT"   "NN"   ","    "VBN"  "IN"   "DT"  
+ [31] "JJ"   "NN"   "IN"   "JJ"   "CD"   "."    "DT"   "NN"   "VBD"  "DT"  
+ [41] "NN"   "MD"   "VB"   "JJ"   "TO"   "NNS"  "VBN"  "TO"   "DT"   "NNS" 
+ [51] "IN"   "DT"   "NN"   "IN"   "DT"   "JJ"   "NN"   "IN"   "CD"   "NNS" 
+ [61] "IN"   "NNP"  "NNP"  ","    "RB"   "RB"   "IN"   "CD"   "NN"   "IN"  
+ [71] "DT"   "JJ"   "NN"   "NN"   "IN"   "NNP"  "."    "IN"   "IN"   "DT"  
+ [81] "NNS"  ","    "PRP"  "VBD"  ","    "JJ"   "NN"   "NNS"  "MD"   "VB"  
+ [91] "RB"   "JJR"  "IN"   "JJ"   "NN"   "POS"  "CD"   "NN"   "NNS"  "."   
+[101] "VBG"  "IN"   "PRP"  "RB"   "VBZ"  "JJ"   "NN"   "NNS"  "IN"   "JJ"  
+[111] "NN"   ","    "VBD"  "DT"   "NN"   "VBZ"  "JJ"   "TO"   "VB"   "VBN" 
+[121] "IN"   "JJ"   "NNP"  "DT"   "NN"   "."    "PRP"  "VBD"  "DT"   "NN"  
+[131] "VBZ"  "JJ"   "TO"   "JJ"   "NNS"  ","    "VBG"  "VBG"  "NNS"  ","   
+[141] "IN"   "NN"   "IN"   "DT"   "NNS"  "."    "NNP" 
+
+
+$`44`
+$`44`$POStagged
+[1] "McLean/NNP Industries/NNPS Inc/NNP 's/POS United/NNP States/NNPS Lines/NNP Inc/NNP subsidiary/NN said/VBD it/PRP has/VBZ agreed/VBN in/IN principle/NN to/TO transfer/VB its/PRP$ South/NNP American/NNP service/NN by/IN arranging/VBG for/IN the/DT transfer/NN of/IN certain/JJ charters/NNS and/CC assets/NNS to/TO <Crowley/NNP Mariotime/NNP Corp>/NNP 's/POS American/NNP Transport/NNP Lines/NNP Inc/NNP subsidiary/NN ./. U.S./NNP Lines/NNP said/VBD negotiations/NNS on/IN the/DT contract/NN are/VBP expected/VBN to/TO be/VB completed/VBN within/IN the/DT next/JJ week/NN ./. Terms/NNS and/CC conditions/NNS of/IN the/DT contract/NN would/MD be/VB subject/JJ to/TO approval/NN of/IN various/JJ regulatory/JJ bodies/NNS ,/, including/VBG the/DT U.S./NNP Bankruptcy/NNP Court/NNP ./. Reuter/NNP"
+
+$`44`$POStags
+ [1] "NNP"  "NNPS" "NNP"  "POS"  "NNP"  "NNPS" "NNP"  "NNP"  "NN"   "VBD" 
+[11] "PRP"  "VBZ"  "VBN"  "IN"   "NN"   "TO"   "VB"   "PRP$" "NNP"  "NNP" 
+[21] "NN"   "IN"   "VBG"  "IN"   "DT"   "NN"   "IN"   "JJ"   "NNS"  "CC"  
+[31] "NNS"  "TO"   "NNP"  "NNP"  "NNP"  "POS"  "NNP"  "NNP"  "NNP"  "NNP" 
+[41] "NN"   "."    "NNP"  "NNP"  "VBD"  "NNS"  "IN"   "DT"   "NN"   "VBP" 
+[51] "VBN"  "TO"   "VB"   "VBN"  "IN"   "DT"   "JJ"   "NN"   "."    "NNS" 
+[61] "CC"   "NNS"  "IN"   "DT"   "NN"   "MD"   "VB"   "JJ"   "TO"   "NN"  
+[71] "IN"   "JJ"   "JJ"   "NNS"  ","    "VBG"  "DT"   "NNP"  "NNP"  "NNP" 
+[81] "."    "NNP" 
+
+
+$`45`
+$`45`$POStagged
+[1] "ChemLawn/NNP Corp/NNP <CHEM>/NNP could/MD attract/VB a/DT higher/JJR bid/NN than/IN the/DT 27/CD dlrs/NNS per/IN share/NN offered/VBN by/IN Waste/NNP Management/NNP Inc/NNP <WNX>/NNP ,/, Wall/NNP Street/NNP arbitrageurs/NNS said/VBD ./. Shares/NNP of/IN ChemLawn/NNP shot/VBD up/RB 11-5/8/CD to/TO 29-3/8/CD in/IN over-the-counter-/DT trading/NN with/IN 3.8/CD mln/NN of/IN the/DT company/NN 's/POS 10.1/CD mln/JJ shares/NNS changing/VBG hands/NNS by/IN late/JJ afternoon/NN ./. \"/'' This/DT company/NN could/MD go/VB for/IN 10/CD times/NNS cash/NN flow/NN or/CC 30/CD dlrs/NNS ,/, maybe/RB 32/CD dollars/NNS depending/VBG on/IN whether/IN there/EX is/VBZ a/DT competing/VBG bidder/NN ,/, \"/'' an/DT arbitrageur/NN said/VBD ./. Waste/NNP Management/NNP 's/POS tender/NN offer/NN ,/, announced/VBD before/IN the/DT opening/NN today/NN ,/, expires/VBZ March/NNP 25/CD ./. \"/'' This/DT is/VBZ totally/RB by/IN surprise/NN ,/, \"/'' said/VBD Debra/NNP Strohmaier/NNP ,/, a/DT ChemLawn/NNP spokeswoman/NN ./. The/DT company/NN 's/POS board/NN held/VBD a/DT regularly/RB scheduled/JJ meeting/NN today/NN and/CC was/VBD discussing/VBG the/DT Waste/NNP Management/NNP announcement/NN ./. She/PRP said/VBD a/DT statement/NN was/VBD expected/VBN but/CC it/PRP was/VBD not/RB certain/JJ when/WRB it/PRP would/MD be/VB ready/JJ ./. She/PRP was/VBD unable/JJ to/TO say/VB if/IN there/EX had/VBD been/VBN any/DT prior/JJ contact/NN between/IN Waste/NNP Management/NNP and/CC ChemLawn/NNP officials/NNS ./. \"/'' I/PRP think/VBP they/PRP will/MD resist/VB it/PRP ,/, \"/'' said/VBD Elliott/NNP Schlang/NNP ,/, analyst/NN at/IN Prescott/NNP ,/, Ball/NNP and/CC Turben/NNP Inc./NNP \"/'' Any/DT company/NN that/WDT does/VBZ n't/RB like/VB a/DT surprise/NN attack/NN would/MD ./. \"/'' Arbitrageurs/NNS pointed/VBN out/IN it/PRP is/VBZ difficult/JJ to/TO resist/VB tender/JJ offers/NNS for/IN any/DT and/CC all/DT shares/NNS for/IN cash/NN ./. Schlang/NNP said/VBD ChemLawn/NNP could/MD try/VB to/TO find/VB a/DT white/JJ knight/NN if/IN does/VBZ not/RB want/VB to/TO be/VB acquired/VBN by/IN Waste/NNP Management/NNP ./. Analyst/NNP Rosemarie/NNP Morbelli/NNP of/IN Ingalls/NNP and/CC Snyder/NNP said/VBD ServiceMaster/NNP Companies/NNS L.P./NNP <SVM>/NNP or/CC Rollins/NNP Inc/NNP <ROL>/NNP were/VBD examples/NNS of/IN companies/NNS that/WDT could/MD be/VB interested/JJ ./. ChemLawn/NNP ,/, with/IN about/IN two/CD mln/JJ customers/NNS ,/, is/VBZ the/DT largest/JJS U.S./NNP company/NN involved/VBN in/IN application/NN of/IN fertilizers/NNS ,/, pesticides/NNS and/CC herbicides/NNS on/IN lawns/NNS ./. Waste/NNP Management/NNP is/VBZ involved/VBN in/IN removal/NN of/IN wastes/NNS ./. Schlang/NNP said/VBD ChemLawn/NNP 's/POS customer/NN base/NN could/MD be/VB valuable/JJ to/TO another/DT company/NN that/WDT wants/VBZ to/TO capitalize/VB on/IN a/DT strong/JJ residential/JJ and/CC commercial/JJ distribution/NN system/NN ./. Both/DT Schlang/NNP and/CC Morbelli/NNP noted/VBD that/IN high/JJ growth/NN rates/NNS had/VBD catapulted/VBN ChemLawn/NNP 's/POS share/NN price/NN into/IN the/DT mid-30/NN 's/POS in/IN 1983/CD but/CC the/DT stock/NN languished/VBD as/IN the/DT rate/NN of/IN growth/NN slowed/VBD ./. Schlang/NNP said/VBD the/DT company/NN 's/POS profits/NNS are/VBP concentrated/VBN in/IN the/DT fourth/JJ quarter/NN ./. In/IN 1986/CD ChemLawn/NNP earned/VBD 1.19/CD dlrs/NNS per/IN share/NN for/IN the/DT full/JJ year/NN ,/, and/CC 2.58/CD dlrs/NNS in/IN the/DT fourth/JJ quarter/NN ./. Morbelli/NNP noted/VBD ChemLawn/NNP competes/VBZ with/IN thousands/NNS of/IN individual/JJ entrepreuers/NNS who/WP offer/VBP lawn/NN and/CC garden/NN care/NN sevice/NN ./. Reuter/NNP"
+
+$`45`$POStags
+  [1] "NNP" "NNP" "NNP" "MD"  "VB"  "DT"  "JJR" "NN"  "IN"  "DT"  "CD"  "NNS"
+ [13] "IN"  "NN"  "VBN" "IN"  "NNP" "NNP" "NNP" "NNP" ","   "NNP" "NNP" "NNS"
+ [25] "VBD" "."   "NNP" "IN"  "NNP" "VBD" "RB"  "CD"  "TO"  "CD"  "IN"  "DT" 
+ [37] "NN"  "IN"  "CD"  "NN"  "IN"  "DT"  "NN"  "POS" "CD"  "JJ"  "NNS" "VBG"
+ [49] "NNS" "IN"  "JJ"  "NN"  "."   "''"  "DT"  "NN"  "MD"  "VB"  "IN"  "CD" 
+ [61] "NNS" "NN"  "NN"  "CC"  "CD"  "NNS" ","   "RB"  "CD"  "NNS" "VBG" "IN" 
+ [73] "IN"  "EX"  "VBZ" "DT"  "VBG" "NN"  ","   "''"  "DT"  "NN"  "VBD" "."  
+ [85] "NNP" "NNP" "POS" "NN"  "NN"  ","   "VBD" "IN"  "DT"  "NN"  "NN"  ","  
+ [97] "VBZ" "NNP" "CD"  "."   "''"  "DT"  "VBZ" "RB"  "IN"  "NN"  ","   "''" 
+[109] "VBD" "NNP" "NNP" ","   "DT"  "NNP" "NN"  "."   "DT"  "NN"  "POS" "NN" 
+[121] "VBD" "DT"  "RB"  "JJ"  "NN"  "NN"  "CC"  "VBD" "VBG" "DT"  "NNP" "NNP"
+[133] "NN"  "."   "PRP" "VBD" "DT"  "NN"  "VBD" "VBN" "CC"  "PRP" "VBD" "RB" 
+[145] "JJ"  "WRB" "PRP" "MD"  "VB"  "JJ"  "."   "PRP" "VBD" "JJ"  "TO"  "VB" 
+[157] "IN"  "EX"  "VBD" "VBN" "DT"  "JJ"  "NN"  "IN"  "NNP" "NNP" "CC"  "NNP"
+[169] "NNS" "."   "''"  "PRP" "VBP" "PRP" "MD"  "VB"  "PRP" ","   "''"  "VBD"
+[181] "NNP" "NNP" ","   "NN"  "IN"  "NNP" ","   "NNP" "CC"  "NNP" "NNP" "''" 
+[193] "DT"  "NN"  "WDT" "VBZ" "RB"  "VB"  "DT"  "NN"  "NN"  "MD"  "."   "''" 
+[205] "NNS" "VBN" "IN"  "PRP" "VBZ" "JJ"  "TO"  "VB"  "JJ"  "NNS" "IN"  "DT" 
+[217] "CC"  "DT"  "NNS" "IN"  "NN"  "."   "NNP" "VBD" "NNP" "MD"  "VB"  "TO" 
+[229] "VB"  "DT"  "JJ"  "NN"  "IN"  "VBZ" "RB"  "VB"  "TO"  "VB"  "VBN" "IN" 
+[241] "NNP" "NNP" "."   "NNP" "NNP" "NNP" "IN"  "NNP" "CC"  "NNP" "VBD" "NNP"
+[253] "NNS" "NNP" "NNP" "CC"  "NNP" "NNP" "NNP" "VBD" "NNS" "IN"  "NNS" "WDT"
+[265] "MD"  "VB"  "JJ"  "."   "NNP" ","   "IN"  "IN"  "CD"  "JJ"  "NNS" ","  
+[277] "VBZ" "DT"  "JJS" "NNP" "NN"  "VBN" "IN"  "NN"  "IN"  "NNS" ","   "NNS"
+[289] "CC"  "NNS" "IN"  "NNS" "."   "NNP" "NNP" "VBZ" "VBN" "IN"  "NN"  "IN" 
+[301] "NNS" "."   "NNP" "VBD" "NNP" "POS" "NN"  "NN"  "MD"  "VB"  "JJ"  "TO" 
+[313] "DT"  "NN"  "WDT" "VBZ" "TO"  "VB"  "IN"  "DT"  "JJ"  "JJ"  "CC"  "JJ" 
+[325] "NN"  "NN"  "."   "DT"  "NNP" "CC"  "NNP" "VBD" "IN"  "JJ"  "NN"  "NNS"
+[337] "VBD" "VBN" "NNP" "POS" "NN"  "NN"  "IN"  "DT"  "NN"  "POS" "IN"  "CD" 
+[349] "CC"  "DT"  "NN"  "VBD" "IN"  "DT"  "NN"  "IN"  "NN"  "VBD" "."   "NNP"
+[361] "VBD" "DT"  "NN"  "POS" "NNS" "VBP" "VBN" "IN"  "DT"  "JJ"  "NN"  "."  
+[373] "IN"  "CD"  "NNP" "VBD" "CD"  "NNS" "IN"  "NN"  "IN"  "DT"  "JJ"  "NN" 
+[385] ","   "CC"  "CD"  "NNS" "IN"  "DT"  "JJ"  "NN"  "."   "NNP" "VBD" "NNP"
+[397] "VBZ" "IN"  "NNS" "IN"  "JJ"  "NNS" "WP"  "VBP" "NN"  "CC"  "NN"  "NN" 
+[409] "NN"  "."   "NNP"
+
+
+$`68`
+$`68`$POStagged
+[1] "CoFAB/NNP Inc/NNP said/VBD it/PRP acquired/VBD <Gulfex/NNP Inc>/NNP ,/, a/DT Houston-based/JJ fabricator/NN of/IN custom/NN high-pressure/JJ process/NN vessels/NNS for/IN the/DT energy/NN and/CC petrochemical/NN industries/NNS ./. CoFAB/NNP said/VBD its/PRP$ group/NN of/IN companies/NNS manufacture/VBP specialized/JJ cooling/NN and/CC lubricating/NN systems/NNS for/IN the/DT oil/NN and/CC gas/NN ,/, petrochemical/NN ,/, utility/NN ,/, pulp/NN and/CC paper/NN and/CC marine/NN industries/NNS ./. Reuter/NNP"
+
+$`68`$POStags
+ [1] "NNP"  "NNP"  "VBD"  "PRP"  "VBD"  "NNP"  "NNP"  ","    "DT"   "JJ"  
+[11] "NN"   "IN"   "NN"   "JJ"   "NN"   "NNS"  "IN"   "DT"   "NN"   "CC"  
+[21] "NN"   "NNS"  "."    "NNP"  "VBD"  "PRP$" "NN"   "IN"   "NNS"  "VBP" 
+[31] "JJ"   "NN"   "CC"   "NN"   "NNS"  "IN"   "DT"   "NN"   "CC"   "NN"  
+[41] ","    "NN"   ","    "NN"   ","    "NN"   "CC"   "NN"   "CC"   "NN"  
+[51] "NNS"  "."    "NNP" 
+
+
+$`96`
+$`96`$POStagged
+[1] "A/DT group/NN of/IN affiliated/JJ New/NNP York/NNP investment/NN firms/NNS said/VBD they/PRP lowered/VBD their/PRP$ stake/NN in/IN Cyclops/NNP Corp/NNP to/TO 260,500/CD shares/NNS ,/, or/CC 6.4/CD pct/NN of/IN the/DT total/JJ outstanding/JJ common/JJ stock/NN ,/, from/IN 370,500/CD shares/NNS ,/, or/CC 9.2/CD pct/NN ./. In/IN a/DT filing/NN with/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP ,/, the/DT group/NN ,/, led/VBN by/IN Mutual/NNP Shares/NNP Corp/NNP ,/, said/VBD it/PRP sold/VBD 110,000/CD Cyclops/NNP common/JJ shares/NNS on/IN Feb/NNP 17/CD and/CC 19/CD for/IN 10.0/CD mln/NN dlrs/NNS ./. Reuter/NNP"
+
+$`96`$POStags
+ [1] "DT"   "NN"   "IN"   "JJ"   "NNP"  "NNP"  "NN"   "NNS"  "VBD"  "PRP" 
+[11] "VBD"  "PRP$" "NN"   "IN"   "NNP"  "NNP"  "TO"   "CD"   "NNS"  ","   
+[21] "CC"   "CD"   "NN"   "IN"   "DT"   "JJ"   "JJ"   "JJ"   "NN"   ","   
+[31] "IN"   "CD"   "NNS"  ","    "CC"   "CD"   "NN"   "."    "IN"   "DT"  
+[41] "NN"   "IN"   "DT"   "NNPS" "CC"   "NNP"  "NNP"  ","    "DT"   "NN"  
+[51] ","    "VBN"  "IN"   "NNP"  "NNP"  "NNP"  ","    "VBD"  "PRP"  "VBD" 
+[61] "CD"   "NNP"  "JJ"   "NNS"  "IN"   "NNP"  "CD"   "CC"   "CD"   "IN"  
+[71] "CD"   "NN"   "NNS"  "."    "NNP" 
+
+
+$`110`
+$`110`$POStagged
+[1] "American/NNP Express/NNP Co/NNP remained/VBD silent/JJ on/IN market/NN rumors/NNS it/PRP would/MD spinoff/NN all/DT or/CC part/NN of/IN its/PRP$ Shearson/NNP Lehman/NNP Brothers/NNPS Inc/NNP ,/, but/CC some/DT analysts/NNS said/VBD the/DT company/NN may/MD be/VB considering/VBG such/JJ a/DT move/NN because/IN it/PRP is/VBZ unhappy/JJ with/IN the/DT market/NN value/NN of/IN its/PRP$ stock/NN ./. American/NNP Express/NNP stock/NN got/VBD a/DT lift/NN from/IN the/DT rumor/NN ,/, as/IN the/DT market/NN calculated/VBD a/DT partially/RB public/JJ Shearson/NNP may/MD command/VB a/DT good/JJ market/NN value/NN ,/, thereby/RB boosting/VBG the/DT total/JJ value/NN of/IN American/NNP Express/NNP ./. The/DT rumor/NN also/RB was/VBD accompanied/VBN by/IN talk/NN the/DT financial/JJ services/NNS firm/NN would/MD split/VB its/PRP$ stock/NN and/CC boost/VB its/PRP$ dividend/NN ./. American/NNP Express/NNP closed/VBD on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP at/IN 72-5/8/CD ,/, up/RB 4-1/8/CD on/IN heavy/JJ volume/NN ./. American/NNP Express/NNP would/MD not/RB comment/VB on/IN the/DT rumors/NNS or/CC its/PRP$ stock/NN activity/NN ./. Analysts/NNS said/VBD comments/NNS by/IN the/DT company/NN at/IN an/DT analysts/NNS '/POS meeting/NN Tuesday/NNP helped/VBD fuel/VB the/DT rumors/NNS as/IN did/VBD an/DT announcement/NN yesterday/NN of/IN management/NN changes/NNS ./. At/IN the/DT meeting/NN ,/, company/NN officials/NNS said/VBD American/NNP Express/NNP stock/NN is/VBZ undervalued/VBN and/CC does/VBZ not/RB fully/RB reflect/VB the/DT performance/NN of/IN Shearson/NNP ,/, according/VBG to/TO analysts/NNS ./. Yesterday/NN ,/, Shearson/NNP said/VBD it/PRP was/VBD elevating/VBG its/PRP$ chief/NN operating/VBG officer/NN ,/, Jeffery/NNP Lane/NNP ,/, to/TO the/DT added/VBN position/NN of/IN president/NN ,/, which/WDT had/VBD been/VBN vacant/JJ ./. It/PRP also/RB created/VBD four/CD new/JJ positions/NNS for/IN chairmen/NNS of/IN its/PRP$ operating/VBG divisions/NNS ./. Analysts/NNS speculated/VBD a/DT partial/JJ spinoff/NN would/MD make/VB most/RBS sense/NN ,/, contrary/NN to/TO one/CD variation/NN on/IN market/NN rumors/NNS of/IN a/DT total/JJ spinoff/NN ./. Some/DT analysts/NNS ,/, however/RB ,/, disagreed/VBD that/IN any/DT spinoff/NN of/IN Shearson/NNP would/MD be/VB good/JJ since/IN it/PRP is/VBZ a/DT strong/JJ profit/NN center/NN for/IN American/NNP Express/NNP ,/, contributing/VBG about/IN 20/CD pct/NN of/IN earnings/NNS last/JJ year/NN ./. \"/'' I/PRP think/VBP it/PRP is/VBZ highly/RB unlikely/JJ that/IN American/NNP Express/NNP is/VBZ going/VBG to/TO sell/VB shearson/NN ,/, \"/'' said/VBD Perrin/NNP Long/NNP of/IN Lipper/NNP Analytical/NNP ./. He/PRP questioned/VBD what/WP would/MD be/VB a/DT better/JJR investment/NN than/IN \"/`` a/DT very/RB profitable/JJ securities/NNS firm/NN ./. \"/'' Several/JJ analysts/NNS said/VBD American/NNP Express/NNP is/VBZ not/RB in/IN need/NN of/IN cash/NN ,/, which/WDT might/MD be/VB the/DT only/JJ reason/NN to/TO sell/VB a/DT part/NN of/IN a/DT strong/JJ asset/NN ./. But/CC others/NNS believe/VBP the/DT company/NN could/MD very/RB well/RB of/IN considered/VBN the/DT option/NN of/IN spinning/VBG out/IN part/NN of/IN Shearson/NNP ,/, and/CC one/CD rumor/NN suggests/VBZ selling/VBG about/IN 20/CD pct/NN of/IN it/PRP in/IN the/DT market/NN ./. Larry/NNP Eckenfelder/NNP of/IN Prudential-Bache/NNP Securities/NNPS said/VBD he/PRP believes/VBZ American/NNP Express/NNP could/MD have/VB considered/VBN a/DT partial/JJ spinoff/NN in/IN the/DT past/NN ./. \"/'' Shearson/NNP being/VBG as/RB profitable/JJ as/IN it/PRP is/VBZ would/MD have/VB fetched/VBN a/DT big/JJ premium/NN in/IN the/DT market/NN place/NN ./. Shearson/NNP 's/POS book/NN value/NN is/VBZ in/IN the/DT 1.4/CD mln/NN dlr/NN range/NN ./. Shearson/NNP in/IN the/DT market/NN place/NN would/MD probably/RB be/VB worth/JJ three/CD to/TO 3.5/CD bilion/CD dlrs/NNS in/IN terms/NNS of/IN market/NN capitalization/NN ,/, \"/'' said/VBD Eckenfelder/NNP ./. Some/DT analysts/NNS said/VBD American/NNP Express/NNP could/MD use/VB capital/NN since/IN it/PRP plans/VBZ to/TO expand/VB globally/RB ./. \"/`` They/PRP have/VBP enormous/JJ internal/JJ growth/NN plans/VBZ that/IN takes/VBZ capital/NN ./. You/PRP want/VBP your/PRP$ stock/NN to/TO reflect/VB realistic/JJ valuations/NNS to/TO enhance/VB your/PRP$ ability/NN to/TO make/VB all/DT kinds/NNS of/IN endeavors/NNS down/IN the/DT road/NN ,/, \"/'' said/VBD E.F./NNP Hutton/NNP Group/NNP analyst/NN Michael/NNP Lewis/NNP ./. \"/'' They/PRP 've/VBP outlined/VBN the/DT fact/NN that/IN they/PRP 're/VBP investing/VBG heavily/RB in/IN the/DT future/NN ,/, which/WDT goes/VBZ heavily/RB into/IN the/DT international/JJ arena/NN ,/, \"/'' said/VBD Lewis/NNP ./. \"/`` ...That/WP does/VBZ not/RB preclude/VB acquisitions/NNS and/CC divestitures/NNS along/IN the/DT way/NN ,/, \"/'' he/PRP said/VBD ./. Lewis/NNP said/VBD if/IN American/NNP Express/NNP reduced/VBD its/PRP$ exposure/NN to/TO the/DT brokerage/NN business/NN by/IN selling/VBG part/NN of/IN shearson/NN ,/, its/PRP$ stock/NN might/MD better/RB reflect/VB other/JJ assets/NNS ,/, such/JJ as/IN the/DT travel/NN related/VBN services/NNS business/NN ./. \"/'' It/PRP could/MD find/VB its/PRP$ true/JJ water/NN mark/NN with/IN a/DT lesser/JJR exposure/NN to/TO brokerage/NN ./. The/DT value/NN of/IN the/DT other/JJ components/NNS could/MD command/VB a/DT higher/JJR multiple/JJ because/IN they/PRP constitute/VBP a/DT higher/JJR percentage/NN of/IN the/DT total/JJ operating/NN earnings/NNS of/IN the/DT company/NN ,/, \"/'' he/PRP said/VBD ./. Lewis/NNP said/VBD Shearson/NNP contributed/VBD 316/CD mln/NN in/IN after-tax/JJ operating/NN earnings/NNS ,/, up/RB from/IN about/IN 200/CD mln/NN dlrs/NNS in/IN 1985/CD ./. Reuter/NNP"
+
+$`110`$POStags
+  [1] "NNP"  "NNP"  "NNP"  "VBD"  "JJ"   "IN"   "NN"   "NNS"  "PRP"  "MD"  
+ [11] "NN"   "DT"   "CC"   "NN"   "IN"   "PRP$" "NNP"  "NNP"  "NNPS" "NNP" 
+ [21] ","    "CC"   "DT"   "NNS"  "VBD"  "DT"   "NN"   "MD"   "VB"   "VBG" 
+ [31] "JJ"   "DT"   "NN"   "IN"   "PRP"  "VBZ"  "JJ"   "IN"   "DT"   "NN"  
+ [41] "NN"   "IN"   "PRP$" "NN"   "."    "NNP"  "NNP"  "NN"   "VBD"  "DT"  
+ [51] "NN"   "IN"   "DT"   "NN"   ","    "IN"   "DT"   "NN"   "VBD"  "DT"  
+ [61] "RB"   "JJ"   "NNP"  "MD"   "VB"   "DT"   "JJ"   "NN"   "NN"   ","   
+ [71] "RB"   "VBG"  "DT"   "JJ"   "NN"   "IN"   "NNP"  "NNP"  "."    "DT"  
+ [81] "NN"   "RB"   "VBD"  "VBN"  "IN"   "NN"   "DT"   "JJ"   "NNS"  "NN"  
+ [91] "MD"   "VB"   "PRP$" "NN"   "CC"   "VB"   "PRP$" "NN"   "."    "NNP" 
+[101] "NNP"  "VBD"  "IN"   "DT"   "NNP"  "NNP"  "NNP"  "NNP"  "IN"   "CD"  
+[111] ","    "RB"   "CD"   "IN"   "JJ"   "NN"   "."    "NNP"  "NNP"  "MD"  
+[121] "RB"   "VB"   "IN"   "DT"   "NNS"  "CC"   "PRP$" "NN"   "NN"   "."   
+[131] "NNS"  "VBD"  "NNS"  "IN"   "DT"   "NN"   "IN"   "DT"   "NNS"  "POS" 
+[141] "NN"   "NNP"  "VBD"  "VB"   "DT"   "NNS"  "IN"   "VBD"  "DT"   "NN"  
+[151] "NN"   "IN"   "NN"   "NNS"  "."    "IN"   "DT"   "NN"   ","    "NN"  
+[161] "NNS"  "VBD"  "NNP"  "NNP"  "NN"   "VBZ"  "VBN"  "CC"   "VBZ"  "RB"  
+[171] "RB"   "VB"   "DT"   "NN"   "IN"   "NNP"  ","    "VBG"  "TO"   "NNS" 
+[181] "."    "NN"   ","    "NNP"  "VBD"  "PRP"  "VBD"  "VBG"  "PRP$" "NN"  
+[191] "VBG"  "NN"   ","    "NNP"  "NNP"  ","    "TO"   "DT"   "VBN"  "NN"  
+[201] "IN"   "NN"   ","    "WDT"  "VBD"  "VBN"  "JJ"   "."    "PRP"  "RB"  
+[211] "VBD"  "CD"   "JJ"   "NNS"  "IN"   "NNS"  "IN"   "PRP$" "VBG"  "NNS" 
+[221] "."    "NNS"  "VBD"  "DT"   "JJ"   "NN"   "MD"   "VB"   "RBS"  "NN"  
+[231] ","    "NN"   "TO"   "CD"   "NN"   "IN"   "NN"   "NNS"  "IN"   "DT"  
+[241] "JJ"   "NN"   "."    "DT"   "NNS"  ","    "RB"   ","    "VBD"  "IN"  
+[251] "DT"   "NN"   "IN"   "NNP"  "MD"   "VB"   "JJ"   "IN"   "PRP"  "VBZ" 
+[261] "DT"   "JJ"   "NN"   "NN"   "IN"   "NNP"  "NNP"  ","    "VBG"  "IN"  
+[271] "CD"   "NN"   "IN"   "NNS"  "JJ"   "NN"   "."    "''"   "PRP"  "VBP" 
+[281] "PRP"  "VBZ"  "RB"   "JJ"   "IN"   "NNP"  "NNP"  "VBZ"  "VBG"  "TO"  
+[291] "VB"   "NN"   ","    "''"   "VBD"  "NNP"  "NNP"  "IN"   "NNP"  "NNP" 
+[301] "."    "PRP"  "VBD"  "WP"   "MD"   "VB"   "DT"   "JJR"  "NN"   "IN"  
+[311] "``"   "DT"   "RB"   "JJ"   "NNS"  "NN"   "."    "''"   "JJ"   "NNS" 
+[321] "VBD"  "NNP"  "NNP"  "VBZ"  "RB"   "IN"   "NN"   "IN"   "NN"   ","   
+[331] "WDT"  "MD"   "VB"   "DT"   "JJ"   "NN"   "TO"   "VB"   "DT"   "NN"  
+[341] "IN"   "DT"   "JJ"   "NN"   "."    "CC"   "NNS"  "VBP"  "DT"   "NN"  
+[351] "MD"   "RB"   "RB"   "IN"   "VBN"  "DT"   "NN"   "IN"   "VBG"  "IN"  
+[361] "NN"   "IN"   "NNP"  ","    "CC"   "CD"   "NN"   "VBZ"  "VBG"  "IN"  
+[371] "CD"   "NN"   "IN"   "PRP"  "IN"   "DT"   "NN"   "."    "NNP"  "NNP" 
+[381] "IN"   "NNP"  "NNPS" "VBD"  "PRP"  "VBZ"  "NNP"  "NNP"  "MD"   "VB"  
+[391] "VBN"  "DT"   "JJ"   "NN"   "IN"   "DT"   "NN"   "."    "''"   "NNP" 
+[401] "VBG"  "RB"   "JJ"   "IN"   "PRP"  "VBZ"  "MD"   "VB"   "VBN"  "DT"  
+[411] "JJ"   "NN"   "IN"   "DT"   "NN"   "NN"   "."    "NNP"  "POS"  "NN"  
+[421] "NN"   "VBZ"  "IN"   "DT"   "CD"   "NN"   "NN"   "NN"   "."    "NNP" 
+[431] "IN"   "DT"   "NN"   "NN"   "MD"   "RB"   "VB"   "JJ"   "CD"   "TO"  
+[441] "CD"   "CD"   "NNS"  "IN"   "NNS"  "IN"   "NN"   "NN"   ","    "''"  
+[451] "VBD"  "NNP"  "."    "DT"   "NNS"  "VBD"  "NNP"  "NNP"  "MD"   "VB"  
+[461] "NN"   "IN"   "PRP"  "VBZ"  "TO"   "VB"   "RB"   "."    "``"   "PRP" 
+[471] "VBP"  "JJ"   "JJ"   "NN"   "VBZ"  "IN"   "VBZ"  "NN"   "."    "PRP" 
+[481] "VBP"  "PRP$" "NN"   "TO"   "VB"   "JJ"   "NNS"  "TO"   "VB"   "PRP$"
+[491] "NN"   "TO"   "VB"   "DT"   "NNS"  "IN"   "NNS"  "IN"   "DT"   "NN"  
+[501] ","    "''"   "VBD"  "NNP"  "NNP"  "NNP"  "NN"   "NNP"  "NNP"  "."   
+[511] "''"   "PRP"  "VBP"  "VBN"  "DT"   "NN"   "IN"   "PRP"  "VBP"  "VBG" 
+[521] "RB"   "IN"   "DT"   "NN"   ","    "WDT"  "VBZ"  "RB"   "IN"   "DT"  
+[531] "JJ"   "NN"   ","    "''"   "VBD"  "NNP"  "."    "``"   "WP"   "VBZ" 
+[541] "RB"   "VB"   "NNS"  "CC"   "NNS"  "IN"   "DT"   "NN"   ","    "''"  
+[551] "PRP"  "VBD"  "."    "NNP"  "VBD"  "IN"   "NNP"  "NNP"  "VBD"  "PRP$"
+[561] "NN"   "TO"   "DT"   "NN"   "NN"   "IN"   "VBG"  "NN"   "IN"   "NN"  
+[571] ","    "PRP$" "NN"   "MD"   "RB"   "VB"   "JJ"   "NNS"  ","    "JJ"  
+[581] "IN"   "DT"   "NN"   "VBN"  "NNS"  "NN"   "."    "''"   "PRP"  "MD"  
+[591] "VB"   "PRP$" "JJ"   "NN"   "NN"   "IN"   "DT"   "JJR"  "NN"   "TO"  
+[601] "NN"   "."    "DT"   "NN"   "IN"   "DT"   "JJ"   "NNS"  "MD"   "VB"  
+[611] "DT"   "JJR"  "JJ"   "IN"   "PRP"  "VBP"  "DT"   "JJR"  "NN"   "IN"  
+[621] "DT"   "JJ"   "NN"   "NNS"  "IN"   "DT"   "NN"   ","    "''"   "PRP" 
+[631] "VBD"  "."    "NNP"  "VBD"  "NNP"  "VBD"  "CD"   "NN"   "IN"   "JJ"  
+[641] "NN"   "NNS"  ","    "RB"   "IN"   "IN"   "CD"   "NN"   "NNS"  "IN"  
+[651] "CD"   "."    "NNP" 
+
+
+$`125`
+$`125`$POStagged
+[1] "Industrial/JJ Equity/NNP (/-LRB- Pacific/NNP )/-RRB- Ltd/NNP ,/, a/DT Hong/NNP Kong/NNP investment/NN firm/NN ,/, said/VBD it/PRP raised/VBD its/PRP$ stake/NN in/IN Wrather/NNP Corp/NNP to/TO 816,000/CD shares/NNS ,/, or/CC 11.3/CD pct/NN of/IN the/DT total/JJ outstanding/JJ common/JJ stock/NN ,/, from/IN 453,300/CD shares/NNS ,/, or/CC 6.3/CD pct/NN ./. In/IN a/DT filing/NN with/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP ,/, Industrial/NNP Equity/NNP ,/, which/WDT is/VBZ principally/RB owned/VBN by/IN Brierley/NNP Investments/NNP Ltd/NNP ,/, a/DT publicly/RB held/VBN New/NNP Zealand/NNP company/NN ,/, said/VBD it/PRP bought/VBD 362,700/CD Wrather/NNP common/JJ shares/NNS between/IN Feb/NNP 13/CD and/CC 24/CD for/IN 6.6/CD mln/NN dlrs/NNS ./. When/WRB it/PRP first/RB disclosed/VBD its/PRP$ stake/NN in/IN Wrather/NNP earlier/RBR this/DT month/NN ,/, it/PRP said/VBD it/PRP bought/VBD the/DT stock/NN for/IN investment/NN purposes/NNS ./. Reuter/NNP"
+
+$`125`$POStags
+  [1] "JJ"    "NNP"   "-LRB-" "NNP"   "-RRB-" "NNP"   ","     "DT"    "NNP"  
+ [10] "NNP"   "NN"    "NN"    ","     "VBD"   "PRP"   "VBD"   "PRP$"  "NN"   
+ [19] "IN"    "NNP"   "NNP"   "TO"    "CD"    "NNS"   ","     "CC"    "CD"   
+ [28] "NN"    "IN"    "DT"    "JJ"    "JJ"    "JJ"    "NN"    ","     "IN"   
+ [37] "CD"    "NNS"   ","     "CC"    "CD"    "NN"    "."     "IN"    "DT"   
+ [46] "NN"    "IN"    "DT"    "NNPS"  "CC"    "NNP"   "NNP"   ","     "NNP"  
+ [55] "NNP"   ","     "WDT"   "VBZ"   "RB"    "VBN"   "IN"    "NNP"   "NNP"  
+ [64] "NNP"   ","     "DT"    "RB"    "VBN"   "NNP"   "NNP"   "NN"    ","    
+ [73] "VBD"   "PRP"   "VBD"   "CD"    "NNP"   "JJ"    "NNS"   "IN"    "NNP"  
+ [82] "CD"    "CC"    "CD"    "IN"    "CD"    "NN"    "NNS"   "."     "WRB"  
+ [91] "PRP"   "RB"    "VBD"   "PRP$"  "NN"    "IN"    "NNP"   "RBR"   "DT"   
+[100] "NN"    ","     "PRP"   "VBD"   "PRP"   "VBD"   "DT"    "NN"    "IN"   
+[109] "NN"    "NNS"   "."     "NNP"  
+
+
+$`128`
+$`128`$POStagged
+[1] "Liebert/NNP Corp/NNP said/VBD its/PRP$ shareholders/NNS approved/VBD the/DT merger/NN of/IN a/DT wholly-owned/JJ subsidiary/NN of/IN Emerson/NNP Electric/NNP Co/NNP <EMR>/NNP ./. Under/IN the/DT terms/NNS of/IN the/DT merger/NN ,/, each/DT Liebert/NNP shareholder/NN will/MD receive/VB .3322/CD shares/NNS of/IN Emerson/NNP stock/NN for/IN each/DT Liebert/NNP share/NN ./. Reuter/NNP"
+
+$`128`$POStags
+ [1] "NNP"  "NNP"  "VBD"  "PRP$" "NNS"  "VBD"  "DT"   "NN"   "IN"   "DT"  
+[11] "JJ"   "NN"   "IN"   "NNP"  "NNP"  "NNP"  "NNP"  "."    "IN"   "DT"  
+[21] "NNS"  "IN"   "DT"   "NN"   ","    "DT"   "NNP"  "NN"   "MD"   "VB"  
+[31] "CD"   "NNS"  "IN"   "NNP"  "NN"   "IN"   "DT"   "NNP"  "NN"   "."   
+[41] "NNP" 
+
+
+$`134`
+$`134`$POStagged
+[1] "Gulf/NNP Applied/NNP Technologies/NNP Inc/NNP said/VBD it/PRP sold/VBD its/PRP$ subsidiaries/NNS engaged/VBN in/IN pipeline/NN and/CC terminal/NN operations/NNS for/IN 12.2/CD mln/NN dlrs/NNS ./. The/DT company/NN said/VBD the/DT sale/NN is/VBZ subject/JJ to/TO certain/JJ post/NN closing/NN adjustments/NNS ,/, which/WDT it/PRP did/VBD not/RB explain/VB ./. Reuter/NNP"
+
+$`134`$POStags
+ [1] "NNP"  "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "VBD"  "PRP$" "NNS"  "VBN" 
+[11] "IN"   "NN"   "CC"   "NN"   "NNS"  "IN"   "CD"   "NN"   "NNS"  "."   
+[21] "DT"   "NN"   "VBD"  "DT"   "NN"   "VBZ"  "JJ"   "TO"   "JJ"   "NN"  
+[31] "NN"   "NNS"  ","    "WDT"  "PRP"  "VBD"  "RB"   "VB"   "."    "NNP" 
+
+
+$`135`
+$`135`$POStagged
+[1] "A/DT group/NN of/IN affiliated/VBN Miami-based/JJ investment/NN firms/NNS led/VBN by/IN Fundamental/NNP Management/NNP Corp/NNP said/VBD it/PRP raised/VBD its/PRP$ stake/NN in/IN Robeson/NNP Industries/NNP Corp/NNP to/TO 238,000/CD shares/NNS ,/, or/CC 14.6/CD pct/NN of/IN the/DT total/JJ ,/, from/IN 205,000/CD or/CC 12.8/CD pct/NN ./. In/IN a/DT filing/NN with/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP ,/, the/DT group/NN said/VBD it/PRP bought/VBD 32,800/CD Robeson/NNP common/JJ shares/NNS between/IN Jan/NNP 26/CD and/CC Feb/NNP 9/CD for/IN 175,691/CD dlrs/NNS ./. The/DT group/NN said/VBD it/PRP may/MD buy/VB more/JJR shares/NNS and/CC plans/NNS to/TO study/VB Robeson/NNP 's/POS operations/NNS ./. Afterwards/NNS it/PRP may/MD recommend/VB that/IN management/NN make/VBP changes/NNS in/IN its/PRP$ operations/NNS ./. Fundamental/NNP Management/NNP Chairman/NNP Carl/NNP Singer/NNP was/VBD recently/RB elected/VBN to/TO the/DT Robeson/NNP board/NN ./. Reuter/NNP"
+
+$`135`$POStags
+  [1] "DT"   "NN"   "IN"   "VBN"  "JJ"   "NN"   "NNS"  "VBN"  "IN"   "NNP" 
+ [11] "NNP"  "NNP"  "VBD"  "PRP"  "VBD"  "PRP$" "NN"   "IN"   "NNP"  "NNP" 
+ [21] "NNP"  "TO"   "CD"   "NNS"  ","    "CC"   "CD"   "NN"   "IN"   "DT"  
+ [31] "JJ"   ","    "IN"   "CD"   "CC"   "CD"   "NN"   "."    "IN"   "DT"  
+ [41] "NN"   "IN"   "DT"   "NNPS" "CC"   "NNP"  "NNP"  ","    "DT"   "NN"  
+ [51] "VBD"  "PRP"  "VBD"  "CD"   "NNP"  "JJ"   "NNS"  "IN"   "NNP"  "CD"  
+ [61] "CC"   "NNP"  "CD"   "IN"   "CD"   "NNS"  "."    "DT"   "NN"   "VBD" 
+ [71] "PRP"  "MD"   "VB"   "JJR"  "NNS"  "CC"   "NNS"  "TO"   "VB"   "NNP" 
+ [81] "POS"  "NNS"  "."    "NNS"  "PRP"  "MD"   "VB"   "IN"   "NN"   "VBP" 
+ [91] "NNS"  "IN"   "PRP$" "NNS"  "."    "NNP"  "NNP"  "NNP"  "NNP"  "NNP" 
+[101] "VBD"  "RB"   "VBN"  "TO"   "DT"   "NNP"  "NN"   "."    "NNP" 
+
+
+$`153`
+$`153`$POStagged
+[1] "A/DT senior/JJ official/NN of/IN Drexel/NNP Burnham/NNP Lambert/NNP Inc/NNP and/CC his/PRP$ father/NN told/VBD the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP they/PRP have/VBP acquired/VBN 258,591/CD shares/NNS of/IN Epsilon/NNP Data/NNP Management/NNP Inc/NNP ,/, or/CC 9.4/CD pct/NN of/IN the/DT total/JJ outstanding/JJ ./. Kenneth/NNP Thomas/NNP ,/, senior/JJ vice/NN president-investments/NNS at/IN Drexel/NNP 's/POS Los/NNP Angeles/NNP office/NN ,/, and/CC his/PRP$ father/NN ,/, retired/VBD university/NN professor/NN C.A./NNP Thomas/NNP ,/, said/VBD they/PRP bought/VBD the/DT stake/NN for/IN 2.1/CD mln/NN dlrs/NNS primarily/RB for/IN investment/NN purposes/NNS ./. They/PRP said/VBD they/PRP may/MD buy/VB more/JJR stock/NN or/CC sell/VB some/DT or/CC all/DT of/IN their/PRP$ stake/NN ,/, depending/VBG on/IN market/NN conditions/NNS ,/, but/CC have/VBP no/DT plans/NNS to/TO seek/VB control/NN of/IN the/DT company/NN ./. Reuter/NNP"
+
+$`153`$POStags
+  [1] "DT"   "JJ"   "NN"   "IN"   "NNP"  "NNP"  "NNP"  "NNP"  "CC"   "PRP$"
+ [11] "NN"   "VBD"  "DT"   "NNPS" "CC"   "NNP"  "NNP"  "PRP"  "VBP"  "VBN" 
+ [21] "CD"   "NNS"  "IN"   "NNP"  "NNP"  "NNP"  "NNP"  ","    "CC"   "CD"  
+ [31] "NN"   "IN"   "DT"   "JJ"   "JJ"   "."    "NNP"  "NNP"  ","    "JJ"  
+ [41] "NN"   "NNS"  "IN"   "NNP"  "POS"  "NNP"  "NNP"  "NN"   ","    "CC"  
+ [51] "PRP$" "NN"   ","    "VBD"  "NN"   "NN"   "NNP"  "NNP"  ","    "VBD" 
+ [61] "PRP"  "VBD"  "DT"   "NN"   "IN"   "CD"   "NN"   "NNS"  "RB"   "IN"  
+ [71] "NN"   "NNS"  "."    "PRP"  "VBD"  "PRP"  "MD"   "VB"   "JJR"  "NN"  
+ [81] "CC"   "VB"   "DT"   "CC"   "DT"   "IN"   "PRP$" "NN"   ","    "VBG" 
+ [91] "IN"   "NN"   "NNS"  ","    "CC"   "VBP"  "DT"   "NNS"  "TO"   "VB"  
+[101] "NN"   "IN"   "DT"   "NN"   "."    "NNP" 
+
+
+$`157`
+$`157`$POStagged
+[1] "Nova/NNP ,/, the/DT Canadian/JJ company/NN that/WDT owns/VBZ 56/CD pct/NN of/IN Husky/NNP Oil/NNP Ltd/NNP ,/, said/VBD it/PRP received/VBD government/NN approval/NN for/IN a/DT transaction/NN under/IN which/WDT </NNP Union/NNP Faith/NNP Canada/NNP Holding/NNP Ltd>/NNP would/MD buy/VB a/DT 43/CD pct/NN stake/NN in/IN Husky/NNP ./. Nova/NNP said/VBD the/DT Minister/NNP of/IN Regional/NNP and/CC Industrial/NNP Expansion/NNP ,/, Michel/NNP Cote/NNP ,/, ruled/VBD that/IN Union/NNP Faith/NNP 's/POS purchase/NN of/IN the/DT Husky/NNP stake/NN would/MD not/RB result/VB in/IN Husky/NNP ceding/NN control/NN to/TO a/DT non-Canadian/JJ company/NN ./. It/PRP said/VBD this/DT ruling/NN was/VBD a/DT key/JJ condition/NN in/IN completing/VBG the/DT deal/NN ./. Union/NNP Faith/NNP is/VBZ equally/RB owned/VBN by/IN </NNP Hutchison/NNP Whampoa/NNP Ltd>/NNP and/CC <Hong/NNP Kong/NNP Electric/NNP Holdings/NNPS Ltd>/NNP ./. Under/IN the/DT agreement/NN with/IN Union/NNP Faith/NNP ,/, Husky/NNP will/MD become/VB a/DT private/JJ company/NN with/IN Union/NNP Faith/NNP and/CC Nova/NNP each/DT holding/VBG 43/CD pct/NN of/IN its/PRP$ stock/NN ./. Nine/CD pct/NN of/IN Husky/NNP would/MD be/VB owned/VBN by/IN relatives/NNS of/IN Li/NNP Ka-Shing/NNP ,/, chairman/NN of/IN Hutchison/NNP ,/, and/CC five/CD pct/NN by/IN the/DT Canadian/NNP Imperial/NNP Bank/NNP of/IN Commerice/NNP ./. Reuter/NNP"
+
+$`157`$POStags
+  [1] "NNP"  ","    "DT"   "JJ"   "NN"   "WDT"  "VBZ"  "CD"   "NN"   "IN"  
+ [11] "NNP"  "NNP"  "NNP"  ","    "VBD"  "PRP"  "VBD"  "NN"   "NN"   "IN"  
+ [21] "DT"   "NN"   "IN"   "WDT"  "NNP"  "NNP"  "NNP"  "NNP"  "NNP"  "NNP" 
+ [31] "MD"   "VB"   "DT"   "CD"   "NN"   "NN"   "IN"   "NNP"  "."    "NNP" 
+ [41] "VBD"  "DT"   "NNP"  "IN"   "NNP"  "CC"   "NNP"  "NNP"  ","    "NNP" 
+ [51] "NNP"  ","    "VBD"  "IN"   "NNP"  "NNP"  "POS"  "NN"   "IN"   "DT"  
+ [61] "NNP"  "NN"   "MD"   "RB"   "VB"   "IN"   "NNP"  "NN"   "NN"   "TO"  
+ [71] "DT"   "JJ"   "NN"   "."    "PRP"  "VBD"  "DT"   "NN"   "VBD"  "DT"  
+ [81] "JJ"   "NN"   "IN"   "VBG"  "DT"   "NN"   "."    "NNP"  "NNP"  "VBZ" 
+ [91] "RB"   "VBN"  "IN"   "NNP"  "NNP"  "NNP"  "NNP"  "CC"   "NNP"  "NNP" 
+[101] "NNP"  "NNPS" "NNP"  "."    "IN"   "DT"   "NN"   "IN"   "NNP"  "NNP" 
+[111] ","    "NNP"  "MD"   "VB"   "DT"   "JJ"   "NN"   "IN"   "NNP"  "NNP" 
+[121] "CC"   "NNP"  "DT"   "VBG"  "CD"   "NN"   "IN"   "PRP$" "NN"   "."   
+[131] "CD"   "NN"   "IN"   "NNP"  "MD"   "VB"   "VBN"  "IN"   "NNS"  "IN"  
+[141] "NNP"  "NNP"  ","    "NN"   "IN"   "NNP"  ","    "CC"   "CD"   "NN"  
+[151] "IN"   "DT"   "NNP"  "NNP"  "NNP"  "IN"   "NNP"  "."    "NNP" 
+
+
+$`162`
+$`162`$POStagged
+[1] "Suffield/NNP Financial/NNP Corp/NNP said/VBD the/DT Federal/NNP Reserve/NNP Board/NNP approved/VBD its/PRP$ application/NN to/TO acquire/VB Coastal/NNP Bancorp/NNP <CSBK>/NNP ,/, Portland/NNP ,/, Me/PRP ./. Suffield/NNP said/VBD it/PRP still/RB needs/VBZ the/DT approval/NN of/IN the/DT superintendent/NN of/IN Maine/NNP 's/POS banking/NN department/NN ./. Reuter/NNP"
+
+$`162`$POStags
+ [1] "NNP"  "NNP"  "NNP"  "VBD"  "DT"   "NNP"  "NNP"  "NNP"  "VBD"  "PRP$"
+[11] "NN"   "TO"   "VB"   "NNP"  "NNP"  "NNP"  ","    "NNP"  ","    "PRP" 
+[21] "."    "NNP"  "VBD"  "PRP"  "RB"   "VBZ"  "DT"   "NN"   "IN"   "DT"  
+[31] "NN"   "IN"   "NNP"  "POS"  "NN"   "NN"   "."    "NNP" 
+
+
+$`185`
+$`185`$POStagged
+[1] "<Versatile/JJ Corp>/NNP said/VBD it/PRP agreed/VBD in/IN principle/NN to/TO sell/VB its/PRP$ Alberta-based/JJ Versatile/NNP Noble/NNP Cultivators/NNPS Co/NNP division/NN to/TO Vicon/NNP Inc/NNP ,/, of/IN Ontario/NNP ,/, for/IN undisclosed/JJ terms/NNS ./. The/DT division/NN manufactures/VBZ tillage/NN and/CC spraying/VBG equipment/NN ./. Reuter/NNP"
+
+$`185`$POStags
+ [1] "JJ"   "NNP"  "VBD"  "PRP"  "VBD"  "IN"   "NN"   "TO"   "VB"   "PRP$"
+[11] "JJ"   "NNP"  "NNP"  "NNPS" "NNP"  "NN"   "TO"   "NNP"  "NNP"  ","   
+[21] "IN"   "NNP"  ","    "IN"   "JJ"   "NNS"  "."    "DT"   "NN"   "VBZ" 
+[31] "NN"   "CC"   "VBG"  "NN"   "."    "NNP" 
+
+
+$`186`
+$`186`$POStagged
+[1] "(/-LRB- Groupe/NNP Videotron/NNP Ltd)/NNP said/VBD it/PRP agreed/VBD to/TO buy/VB 50/CD pct/NN of/IN (/-LRB- Groupe/NNP Promexpo/NNP Inc/NNP )/-RRB- ,/, a/DT company/NN which/WDT specializes/VBZ in/IN product/NN exhibits/NNS ,/, for/IN three/CD mln/NN dlrs/NNS ./. Reuter/NNP"
+
+$`186`$POStags
+ [1] "-LRB-" "NNP"   "NNP"   "NNP"   "VBD"   "PRP"   "VBD"   "TO"    "VB"   
+[10] "CD"    "NN"    "IN"    "-LRB-" "NNP"   "NNP"   "NNP"   "-RRB-" ","    
+[19] "DT"    "NN"    "WDT"   "VBZ"   "IN"    "NN"    "NNS"   ","     "IN"   
+[28] "CD"    "NN"    "NNS"   "."     "NNP"  
+
+
+$`199`
+$`199`$POStagged
+[1] "Circuit/NNP Systems/NNPS Inc/NNP said/VBD it/PRP has/VBZ bought/VBN all/DT of/IN the/DT stock/NN of/IN (/-LRB- Ionic/NNP Industries/NNPS Inc/NNP )/-RRB- in/IN exchange/NN for/IN 3,677,272/CD shares/NNS of/IN its/PRP$ common/JJ ./. Following/VBG the/DT exchange/NN there/EX will/MD be/VB 4,969,643/CD shares/NNS of/IN Circuit/NNP Systems/NNPS stock/NN outstanding/JJ ./. Ionic/NNP holders/NNS will/MD own/VB about/IN 74/CD pct/NN of/IN the/DT outstanding/JJ stock/NN of/IN Circuit/NNP Systems/NNP ,/, it/PRP said/VBD ./. Ionic/NNP ,/, a/DT maker/NN of/IN circuit/NN boards/NNS ,/, had/VBD revenues/NNS of/IN 8.4/CD mln/NN dlrs/NNS and/CC pretax/JJ profits/NNS of/IN 232,000/CD dlrs/NNS in/IN 1986/CD ,/, up/RB from/IN revenues/NNS of/IN 5.9/CD mln/NN and/CC pretax/JJ profits/NNS of/IN 204,000/CD dlrs/NNS in/IN 1985/CD ,/, Circuit/NNP Systems/NNP said/VBD ./. Reuter/NNP"
+
+$`199`$POStags
+  [1] "NNP"   "NNPS"  "NNP"   "VBD"   "PRP"   "VBZ"   "VBN"   "DT"    "IN"   
+ [10] "DT"    "NN"    "IN"    "-LRB-" "NNP"   "NNPS"  "NNP"   "-RRB-" "IN"   
+ [19] "NN"    "IN"    "CD"    "NNS"   "IN"    "PRP$"  "JJ"    "."     "VBG"  
+ [28] "DT"    "NN"    "EX"    "MD"    "VB"    "CD"    "NNS"   "IN"    "NNP"  
+ [37] "NNPS"  "NN"    "JJ"    "."     "NNP"   "NNS"   "MD"    "VB"    "IN"   
+ [46] "CD"    "NN"    "IN"    "DT"    "JJ"    "NN"    "IN"    "NNP"   "NNP"  
+ [55] ","     "PRP"   "VBD"   "."     "NNP"   ","     "DT"    "NN"    "IN"   
+ [64] "NN"    "NNS"   ","     "VBD"   "NNS"   "IN"    "CD"    "NN"    "NNS"  
+ [73] "CC"    "JJ"    "NNS"   "IN"    "CD"    "NNS"   "IN"    "CD"    ","    
+ [82] "RB"    "IN"    "NNS"   "IN"    "CD"    "NN"    "CC"    "JJ"    "NNS"  
+ [91] "IN"    "CD"    "NNS"   "IN"    "CD"    ","     "NNP"   "NNP"   "VBD"  
+[100] "."     "NNP"  
+
+
+$`260`
+$`260`$POStagged
+[1] "Toshin/NNP Steel/NNP Co/NNP Ltd/NNP <TOSS.T>/NN and/CC <Azuma/NNP Steel/NNP Co/NNP Ltd>/NNP ,/, affiliates/NNS of/IN Nippon/NNP Kokan/NNP KK/NNP <NKKT.T>/NNP ,/, are/VBP considering/VBG a/DT merger/NN ,/, company/NN spokesmen/NNS said/VBD ./. Toshin/NNP Steel/NNP ,/, owned/VBD 41.9/CD pct/NN by/IN Nippon/NNP Kokan/NNP ,/, and/CC Azuma/NNP Steel/NNP ,/, owned/VBD 41.3/CD pct/NN by/IN Nippon/NNP Kokan/NNP ,/, are/VBP expected/VBN to/TO decide/VB by/IN the/DT end/NN of/IN March/NNP ,/, they/PRP said/VBD ./. Both/DT firms/NNS have/VBP been/VBN struggling/VBG with/IN losses/NNS caused/VBN by/IN the/DT recession/NN in/IN the/DT steel/NN industry/NN and/CC the/DT yen/NN 's/POS appreciation/NN ./. Azuma/NNP Steel/NNP 's/POS current/JJ losses/NNS are/VBP estimated/VBN at/IN 3.1/CD billion/CD yen/NNS in/IN the/DT year/NN ending/VBG March/NNP 31/CD against/IN a/DT 6.99/CD billion/CD loss/NN a/DT year/NN earlier/RBR ,/, a/DT spokesman/NN said/VBD ./. The/DT firm/NN employs/VBZ 1,100/CD workers/NNS Toshin/NNP Steel/NNP ,/, with/IN 1,700/CD workers/NNS ,/, has/VBZ given/VBN no/DT forecast/NN for/IN the/DT year/NN ending/VBG March/NNP 31/CD ./. But/CC industry/NN sources/NNS said/VBD they/PRP expected/VBD the/DT company/NN to/TO show/VB current/JJ losses/NNS of/IN about/IN five/CD billion/CD yen/NNS or/CC more/JJR in/IN 1986/8/CD 7/CD compared/VBN with/IN a/DT 2.98/CD billion/CD loss/NN in/IN 1985/86/CD ./. REUTER/NN"
+
+$`260`$POStags
+  [1] "NNP" "NNP" "NNP" "NNP" "NN"  "CC"  "NNP" "NNP" "NNP" "NNP" ","   "NNS"
+ [13] "IN"  "NNP" "NNP" "NNP" "NNP" ","   "VBP" "VBG" "DT"  "NN"  ","   "NN" 
+ [25] "NNS" "VBD" "."   "NNP" "NNP" ","   "VBD" "CD"  "NN"  "IN"  "NNP" "NNP"
+ [37] ","   "CC"  "NNP" "NNP" ","   "VBD" "CD"  "NN"  "IN"  "NNP" "NNP" ","  
+ [49] "VBP" "VBN" "TO"  "VB"  "IN"  "DT"  "NN"  "IN"  "NNP" ","   "PRP" "VBD"
+ [61] "."   "DT"  "NNS" "VBP" "VBN" "VBG" "IN"  "NNS" "VBN" "IN"  "DT"  "NN" 
+ [73] "IN"  "DT"  "NN"  "NN"  "CC"  "DT"  "NN"  "POS" "NN"  "."   "NNP" "NNP"
+ [85] "POS" "JJ"  "NNS" "VBP" "VBN" "IN"  "CD"  "CD"  "NNS" "IN"  "DT"  "NN" 
+ [97] "VBG" "NNP" "CD"  "IN"  "DT"  "CD"  "CD"  "NN"  "DT"  "NN"  "RBR" ","  
+[109] "DT"  "NN"  "VBD" "."   "DT"  "NN"  "VBZ" "CD"  "NNS" "NNP" "NNP" ","  
+[121] "IN"  "CD"  "NNS" ","   "VBZ" "VBN" "DT"  "NN"  "IN"  "DT"  "NN"  "VBG"
+[133] "NNP" "CD"  "."   "CC"  "NN"  "NNS" "VBD" "PRP" "VBD" "DT"  "NN"  "TO" 
+[145] "VB"  "JJ"  "NNS" "IN"  "IN"  "CD"  "CD"  "NNS" "CC"  "JJR" "IN"  "CD" 
+[157] "CD"  "VBN" "IN"  "DT"  "CD"  "CD"  "NN"  "IN"  "CD"  "."   "NN" 
+
+
+$`302`
+$`302`$POStagged
+[1] "Sweden/NNP 's/POS Wallenberg/NNP group/NN fought/VBD back/RB a/DT bid/NN by/IN the/DT London-based/JJ Swedish/JJ financier/NN Erik/NNP Penser/NNP to/TO secure/VB a/DT large/JJ stake/NN in/IN Swedish/NNP Match/NNP <SMBS/NNP ST>/NNP ,/, one/CD of/IN the/DT companies/NNS at/IN the/DT core/NN of/IN their/PRP$ business/NN empire/NN ./. A/DT statement/NN issued/VBN by/IN the/DT Wallenberg/NNP holding/NN companies/NNS AB/NNP Investor/NNP and/CC Forvaltnings/NNP AB/NNP Providentia/NNP said/VBD they/PRP had/VBD taken/VBN over/IN an/DT option/NN held/VBN by/IN Nobel/NNP Industrier/NNP Sweden/NNP AB/NNP to/TO acquire/VB 33/CD pct/NN of/IN the/DT voting/NN rights/NNS in/IN Swedish/JJ Match/NNP ./. Thre/NNP Wallenbergs/NNP paid/VBD Nobel/NNP Industrier/NNP <NOBL/NNP ST>/NNP ,/, in/IN which/WDT Penser/NNP group/NN has/VBZ a/DT 72/CD pct/NN stake/NN ,/, about/IN 20/CD pct/NN over/IN the/DT market/NN price/NN for/IN the/DT Swedish/NNP Match/NNP option/NN ,/, the/DT statement/NN said/VBD ./. Swedish/NNP Match/NNP 's/POS B/NNP shares/NNS open/JJ to/TO foreign/JJ buyers/NNS closed/VBD at/IN 424/CD crowns/NNS on/IN Friday/NNP ./. The/DT A/NNP shares/NNS --/: with/IN increased/VBN voting/NN rights/NNS --/: closed/VBD at/IN 450/CD crowns/NNS for/IN the/DT restricted/VBN and/CC 455/CD for/IN the/DT free/JJ shares/NNS ./. The/DT statement/NN said/VBD the/DT deal/NN increased/VBD Investor/NNP 's/POS stake/NN to/TO 49.4/CD pct/NN of/IN the/DT voting/NN rights/NNS and/CC 14.8/CD pct/NN of/IN the/DT share/NN capital/NN while/IN Providentia/NNP is/VBZ left/VBN holding/VBG 34.1/CD pct/NN of/IN the/DT voting/NN rights/NNS and/CC 14.5/CD pct/NN of/IN the/DT share/NN capital/NN in/IN Swedish/JJ Match/NNP ./. The/DT Wallenbergs/NNPS '/POS stake/NN in/IN Swedish/NNP Match/NNP had/VBD previously/RB amounted/VBN to/TO 52/CD pct/NN of/IN the/DT voting/NN rights/NNS in/IN the/DT company/NN ./. The/DT Swedish/NNP Match/NNP deal/NN will/MD cost/VB the/DT Wallenbergs/NNS about/IN 400/CD mln/NN crowns/NNS ,/, share/NN analysts/NNS said/VBD ,/, making/VBG it/PRP one/CD of/IN the/DT most/RBS expensise/JJ moves/NNS the/DT group/NN has/VBZ undertaken/VBN in/IN the/DT last/JJ four/CD years/NNS to/TO defend/VB its/PRP$ far-flung/JJ interests/NNS from/IN outside/JJ predators/NNS ./. The/DT Wallenbergs/NNP originally/RB sold/VBD Nobel/NNP Industrier/NNP ,/, an/DT arms/NNS and/CC chemicals/NNS group/NN ,/, to/TO Penser/NNP in/IN 1984/CD to/TO pay/VB for/IN buying/VBG Volvo/NNP <VOLV/NNP ST>/NNP out/IN of/IN two/CD other/JJ key/JJ group/NN companies/NNS ,/, Atlas/NNP Copco/NNP <ASTS/NNPS ST>/NNP and/CC Stora/NNP Koppabergs/NNP <SKPS/NNP ST>/NNP ./. Since/IN then/RB ,/, the/DT Wallenbergs/NNP were/VBD ousted/VBN as/IN the/DT largest/JJS shareholders/NNS in/IN SKF/NNP (/-LRB- SKFR/NNP ST>/NNP by/IN Skanska/NNP AB/NNP <SKBS/NNP ST>/NNP and/CC Frederik/NNP Lundberg/NNP wrested/VBD control/NN of/IN Incentive/NNP AB/NNP from/IN them/PRP ./. Lundberg/NNP ,/, a/DT Zurich-based/JJ Swedish/JJ property/NN tycoon/NN ,/, also/RB managed/VBD to/TO acquire/VB a/DT 25/CD pct/NN stake/NN in/IN another/DT Wallenberg/NNP company/NN ,/, the/DT diary/NN equipment/NN firm/NN Alfa/NNP -Laval/NNP AB/NNP <ALFS/NNP ST>/NNP ./. During/IN 1986/CD ,/, the/DT Wallenbergs/NNP have/VBP been/VBN concentrating/VBG on/IN building/VBG up/RP their/PRP$ stake/NN in/IN Investor/NNP and/CC Providentia/NNP to/TO prevent/VB any/DT raid/NN on/IN the/DT heart/NN of/IN their/PRP$ business/NN empire/NN ./. But/CC analysts/NNS say/VBP the/DT Wallenbergs/NNP '/POS position/NN in/IN the/DT electrical/JJ engineering/NN firm/NN ASEA/NNP AB/NNP <ASEA/NNP ST>/NNP is/VBZ also/RB too/RB small/JJ at/IN 12.6/CD pct/NN of/IN the/DT voting/NN rights/NNS and/CC there/EX has/VBZ been/VBN growing/VBG speculation/NN that/IN the/DT group/NN will/MD be/VB forced/VBN to/TO sell/VB off/RP fringe/NN interests/NNS to/TO protect/VB its/PRP$ core/NN activities/NNS ./. REUTER/NN"
+
+$`302`$POStags
+  [1] "NNP"   "POS"   "NNP"   "NN"    "VBD"   "RB"    "DT"    "NN"    "IN"   
+ [10] "DT"    "JJ"    "JJ"    "NN"    "NNP"   "NNP"   "TO"    "VB"    "DT"   
+ [19] "JJ"    "NN"    "IN"    "NNP"   "NNP"   "NNP"   "NNP"   ","     "CD"   
+ [28] "IN"    "DT"    "NNS"   "IN"    "DT"    "NN"    "IN"    "PRP$"  "NN"   
+ [37] "NN"    "."     "DT"    "NN"    "VBN"   "IN"    "DT"    "NNP"   "NN"   
+ [46] "NNS"   "NNP"   "NNP"   "CC"    "NNP"   "NNP"   "NNP"   "VBD"   "PRP"  
+ [55] "VBD"   "VBN"   "IN"    "DT"    "NN"    "VBN"   "IN"    "NNP"   "NNP"  
+ [64] "NNP"   "NNP"   "TO"    "VB"    "CD"    "NN"    "IN"    "DT"    "NN"   
+ [73] "NNS"   "IN"    "JJ"    "NNP"   "."     "NNP"   "NNP"   "VBD"   "NNP"  
+ [82] "NNP"   "NNP"   "NNP"   ","     "IN"    "WDT"   "NNP"   "NN"    "VBZ"  
+ [91] "DT"    "CD"    "NN"    "NN"    ","     "IN"    "CD"    "NN"    "IN"   
+[100] "DT"    "NN"    "NN"    "IN"    "DT"    "NNP"   "NNP"   "NN"    ","    
+[109] "DT"    "NN"    "VBD"   "."     "NNP"   "NNP"   "POS"   "NNP"   "NNS"  
+[118] "JJ"    "TO"    "JJ"    "NNS"   "VBD"   "IN"    "CD"    "NNS"   "IN"   
+[127] "NNP"   "."     "DT"    "NNP"   "NNS"   ":"     "IN"    "VBN"   "NN"   
+[136] "NNS"   ":"     "VBD"   "IN"    "CD"    "NNS"   "IN"    "DT"    "VBN"  
+[145] "CC"    "CD"    "IN"    "DT"    "JJ"    "NNS"   "."     "DT"    "NN"   
+[154] "VBD"   "DT"    "NN"    "VBD"   "NNP"   "POS"   "NN"    "TO"    "CD"   
+[163] "NN"    "IN"    "DT"    "NN"    "NNS"   "CC"    "CD"    "NN"    "IN"   
+[172] "DT"    "NN"    "NN"    "IN"    "NNP"   "VBZ"   "VBN"   "VBG"   "CD"   
+[181] "NN"    "IN"    "DT"    "NN"    "NNS"   "CC"    "CD"    "NN"    "IN"   
+[190] "DT"    "NN"    "NN"    "IN"    "JJ"    "NNP"   "."     "DT"    "NNPS" 
+[199] "POS"   "NN"    "IN"    "NNP"   "NNP"   "VBD"   "RB"    "VBN"   "TO"   
+[208] "CD"    "NN"    "IN"    "DT"    "NN"    "NNS"   "IN"    "DT"    "NN"   
+[217] "."     "DT"    "NNP"   "NNP"   "NN"    "MD"    "VB"    "DT"    "NNS"  
+[226] "IN"    "CD"    "NN"    "NNS"   ","     "NN"    "NNS"   "VBD"   ","    
+[235] "VBG"   "PRP"   "CD"    "IN"    "DT"    "RBS"   "JJ"    "NNS"   "DT"   
+[244] "NN"    "VBZ"   "VBN"   "IN"    "DT"    "JJ"    "CD"    "NNS"   "TO"   
+[253] "VB"    "PRP$"  "JJ"    "NNS"   "IN"    "JJ"    "NNS"   "."     "DT"   
+[262] "NNP"   "RB"    "VBD"   "NNP"   "NNP"   ","     "DT"    "NNS"   "CC"   
+[271] "NNS"   "NN"    ","     "TO"    "NNP"   "IN"    "CD"    "TO"    "VB"   
+[280] "IN"    "VBG"   "NNP"   "NNP"   "NNP"   "IN"    "IN"    "CD"    "JJ"   
+[289] "JJ"    "NN"    "NNS"   ","     "NNP"   "NNP"   "NNPS"  "NNP"   "CC"   
+[298] "NNP"   "NNP"   "NNP"   "NNP"   "."     "IN"    "RB"    ","     "DT"   
+[307] "NNP"   "VBD"   "VBN"   "IN"    "DT"    "JJS"   "NNS"   "IN"    "NNP"  
+[316] "-LRB-" "NNP"   "NNP"   "IN"    "NNP"   "NNP"   "NNP"   "NNP"   "CC"   
+[325] "NNP"   "NNP"   "VBD"   "NN"    "IN"    "NNP"   "NNP"   "IN"    "PRP"  
+[334] "."     "NNP"   ","     "DT"    "JJ"    "JJ"    "NN"    "NN"    ","    
+[343] "RB"    "VBD"   "TO"    "VB"    "DT"    "CD"    "NN"    "NN"    "IN"   
+[352] "DT"    "NNP"   "NN"    ","     "DT"    "NN"    "NN"    "NN"    "NNP"  
+[361] "NNP"   "NNP"   "NNP"   "NNP"   "."     "IN"    "CD"    ","     "DT"   
+[370] "NNP"   "VBP"   "VBN"   "VBG"   "IN"    "VBG"   "RP"    "PRP$"  "NN"   
+[379] "IN"    "NNP"   "CC"    "NNP"   "TO"    "VB"    "DT"    "NN"    "IN"   
+[388] "DT"    "NN"    "IN"    "PRP$"  "NN"    "NN"    "."     "CC"    "NNS"  
+[397] "VBP"   "DT"    "NNP"   "POS"   "NN"    "IN"    "DT"    "JJ"    "NN"   
+[406] "NN"    "NNP"   "NNP"   "NNP"   "NNP"   "VBZ"   "RB"    "RB"    "JJ"   
+[415] "IN"    "CD"    "NN"    "IN"    "DT"    "NN"    "NNS"   "CC"    "EX"   
+[424] "VBZ"   "VBN"   "VBG"   "NN"    "IN"    "DT"    "NN"    "MD"    "VB"   
+[433] "VBN"   "TO"    "VB"    "RP"    "NN"    "NNS"   "TO"    "VB"    "PRP$" 
+[442] "NN"    "NNS"   "."     "NN"   
+
+
+$`304`
+$`304`$POStagged
+[1] "<SHV/NNP (/-LRB- United/NNP Kingdom/NNP )/-RRB- Holding/NNP Co/NNP Ltd>/NNP said/VBD it/PRP was/VBD making/VBG a/DT tender/NN offer/NN for/IN up/RB to/TO 33/CD mln/NN ordinary/JJ shares/NNS in/IN Imperial/NNP Continental/NNP Gas/NNP Association/NNP .<ICGS.L>/NN ./. It/PRP said/VBD in/IN a/DT statement/NN the/DT offer/NN was/VBD on/IN the/DT basis/NN of/IN 700p/CD for/IN each/DT IC/NN Gas/NNP ordinary/JJ and/CC 252p/JJ for/IN every/DT one/CD stg/JJ nominal/NN of/IN IC/NN Gas/NNP loan/NN stock/NN ./. SHV/NNP already/RB holds/VBZ 6.8/CD mln/NN IC/NN Gas/NNP ordinary/JJ stock/NN units/NNS representing/VBG around/RB 4.9/CD pct/NN of/IN the/DT current/JJ issued/JJ share/NN capital/NN ./. Successful/JJ completion/NN of/IN the/DT offer/NN would/MD increase/VB SHV/NNP 's/POS stake/NN in/IN IC/NNP Gas/NNP to/TO 39.8/CD mln/NN shares/NNS ,/, representing/VBG around/IN 27.9/CD pct/NN of/IN issued/VBN share/NN capital/NN ,/, it/PRP said/VBD ./. The/DT offer/NN capitalises/NNS IC/NN Gas/NNP at/IN around/IN one/CD billion/CD stg/NN ./. It/PRP said/VBD it/PRP was/VBD tendering/VBG for/IN both/DT ordinary/JJ stock/NN and/CC loan/NN stock/NN ,/, which/WDT when/WRB fully/RB converted/VBN ,/, gave/VBD a/DT total/NN of/IN 33/CD mln/NN IC/NN Gas/NNP ordinary/JJ ./. It/PRP is/VBZ making/VBG the/DT tender/NN offer/NN through/IN N.M./NNP Rothschilds/NNPS ./. IC/NNP Gas/NNP said/VBD in/IN a/DT statement/NN it/PRP noted/VBD the/DT SHV/NNP tender/NN offer/NN and/CC the/DT terms/NNS were/VBD being/VBG considered/VBN ./. It/PRP said/VBD a/DT further/JJ statement/NN would/MD be/VB made/VBN as/RB soon/RB as/IN possible/JJ ./. REUTER.../''"
+
+$`304`$POStags
+  [1] "NNP"   "-LRB-" "NNP"   "NNP"   "-RRB-" "NNP"   "NNP"   "NNP"   "VBD"  
+ [10] "PRP"   "VBD"   "VBG"   "DT"    "NN"    "NN"    "IN"    "RB"    "TO"   
+ [19] "CD"    "NN"    "JJ"    "NNS"   "IN"    "NNP"   "NNP"   "NNP"   "NNP"  
+ [28] "NN"    "."     "PRP"   "VBD"   "IN"    "DT"    "NN"    "DT"    "NN"   
+ [37] "VBD"   "IN"    "DT"    "NN"    "IN"    "CD"    "IN"    "DT"    "NN"   
+ [46] "NNP"   "JJ"    "CC"    "JJ"    "IN"    "DT"    "CD"    "JJ"    "NN"   
+ [55] "IN"    "NN"    "NNP"   "NN"    "NN"    "."     "NNP"   "RB"    "VBZ"  
+ [64] "CD"    "NN"    "NN"    "NNP"   "JJ"    "NN"    "NNS"   "VBG"   "RB"   
+ [73] "CD"    "NN"    "IN"    "DT"    "JJ"    "JJ"    "NN"    "NN"    "."    
+ [82] "JJ"    "NN"    "IN"    "DT"    "NN"    "MD"    "VB"    "NNP"   "POS"  
+ [91] "NN"    "IN"    "NNP"   "NNP"   "TO"    "CD"    "NN"    "NNS"   ","    
+[100] "VBG"   "IN"    "CD"    "NN"    "IN"    "VBN"   "NN"    "NN"    ","    
+[109] "PRP"   "VBD"   "."     "DT"    "NN"    "NNS"   "NN"    "NNP"   "IN"   
+[118] "IN"    "CD"    "CD"    "NN"    "."     "PRP"   "VBD"   "PRP"   "VBD"  
+[127] "VBG"   "IN"    "DT"    "JJ"    "NN"    "CC"    "NN"    "NN"    ","    
+[136] "WDT"   "WRB"   "RB"    "VBN"   ","     "VBD"   "DT"    "NN"    "IN"   
+[145] "CD"    "NN"    "NN"    "NNP"   "JJ"    "."     "PRP"   "VBZ"   "VBG"  
+[154] "DT"    "NN"    "NN"    "IN"    "NNP"   "NNPS"  "."     "NNP"   "NNP"  
+[163] "VBD"   "IN"    "DT"    "NN"    "PRP"   "VBD"   "DT"    "NNP"   "NN"   
+[172] "NN"    "CC"    "DT"    "NNS"   "VBD"   "VBG"   "VBN"   "."     "PRP"  
+[181] "VBD"   "DT"    "JJ"    "NN"    "MD"    "VB"    "VBN"   "RB"    "RB"   
+[190] "IN"    "JJ"    "."     "''"   
+
+
+$`315`
+$`315`$POStagged
+[1] "<Sale/NN Tilney/NNP Plc>/NNP said/VBD it/PRP has/VBZ purchased/VBN 80/CD pct/NN of/IN the/DT ordinary/JJ share/NN capital/NN of/IN <B/NN and/CC R/NN International/NNP Inc./NNP >/NN ,/, a/DT U.S./NNP Insurance/NNP broker/NN ,/, for/IN 5.6/CD mln/NN dlrs/NNS ./. Sale/NN is/VBZ paying/VBG 3.6/CD mln/NN dlrs/NNS in/IN cash/NN on/IN completion/NN ,/, with/IN the/DT balance/NN plus/CC interest/NN to/TO be/VB paid/VBN in/IN equal/JJ instalments/NNS over/IN the/DT next/JJ six/CD years/NNS ./. B/NN and/CC R/NN posted/VBD pretax/JJ profit/NN of/IN 855,000/CD dlrs/NNS in/IN the/DT year/NN to/TO Dec/NNP 31/CD ,/, 1986/CD when/WRB it/PRP had/VBD net/JJ tangible/JJ assets/NNS of/IN 563,000/CD dlrs/NNS ./. REUTER/NN"
+
+$`315`$POStags
+ [1] "NN"  "NNP" "NNP" "VBD" "PRP" "VBZ" "VBN" "CD"  "NN"  "IN"  "DT"  "JJ" 
+[13] "NN"  "NN"  "IN"  "NN"  "CC"  "NN"  "NNP" "NNP" "NN"  ","   "DT"  "NNP"
+[25] "NNP" "NN"  ","   "IN"  "CD"  "NN"  "NNS" "."   "NN"  "VBZ" "VBG" "CD" 
+[37] "NN"  "NNS" "IN"  "NN"  "IN"  "NN"  ","   "IN"  "DT"  "NN"  "CC"  "NN" 
+[49] "TO"  "VB"  "VBN" "IN"  "JJ"  "NNS" "IN"  "DT"  "JJ"  "CD"  "NNS" "."  
+[61] "NN"  "CC"  "NN"  "VBD" "JJ"  "NN"  "IN"  "CD"  "NNS" "IN"  "DT"  "NN" 
+[73] "TO"  "NNP" "CD"  ","   "CD"  "WRB" "PRP" "VBD" "JJ"  "JJ"  "NNS" "IN" 
+[85] "CD"  "NNS" "."   "NN" 
+
+
+$`331`
+$`331`$POStagged
+[1] "<Exco/NNP International/NNP Plc>/NNP ,/, a/DT subsidiary/NN of/IN British/NNP and/CC Commonwealth/NNP Shipping/NNP Co/NNP Plc/NNP <BCOM.L>/NN ,/, said/VBD it/PRP had/VBD agreed/VBN in/IN principle/NN to/TO buy/VB an/DT 80/CD pct/JJ stake/NN in/IN <RM/NNP J/NNP Holdings/NNP Corp>/NNP for/IN about/IN 79/CD mln/NN dlrs/NNS ./. Exco/NNP Chairman/NNP Richard/NNP Lacy/NNP told/VBD Reuters/NNP the/DT acquisition/NN was/VBD being/VBG made/VBN from/IN Bank/NNP of/IN New/NNP York/NNP Co/NNP Inc/NNP <BK.N>/NN ,/, which/WDT currently/RB holds/VBZ a/DT 50.1/CD pct/NN ,/, and/CC from/IN RMJ/NNP partners/NNS who/WP hold/VBP the/DT remainder/NN ./. Bank/NNP of/IN New/NNP York/NNP and/CC the/DT partners/NNS will/MD retain/VB about/IN 10/CD pct/NN each/DT and/CC these/DT stakes/NNS will/MD be/VB bought/VBN over/IN the/DT next/JJ six/CD years/NNS ./. RMJ/NN is/VBZ the/DT holding/VBG company/NN of/IN RMJ/NNP Securities/NNPS ,/, one/CD of/IN the/DT largest/JJS U.S./NNP Government/NN securities/NNS brokers/NNS ./. It/PRP is/VBZ also/RB involved/VBN in/IN broking/VBG notes/NNS ,/, obligations/NNS and/CC other/JJ instruments/NNS sponsored/VBN by/IN U.S./NNP Federal/NNP agencies/NNS ./. Lacy/NN said/VBD Exco/NNP had/VBD been/VBN considering/VBG buying/VBG a/DT U.S./NNP Government/NN securities/NNS broker/NN for/IN the/DT past/JJ four/CD years/NNS and/CC had/VBD made/VBN an/DT offer/NN for/IN RMJ/NNP when/WRB it/PRP was/VBD sold/VBN by/IN Security/NNP Pacific/NNP Corp/NNP <SPC.N>/NNP in/IN 1985/CD ./. RMJ/NNP was/VBD then/RB valued/VBN at/IN about/IN 50/CD mln/NN dlrs/NNS ./. B/NNP and/CC C/NNP managing/NN director/NN Peter/NNP Goldie/NNP said/VBD RMJ/NNP would/MD be/VB bought/VBN at/IN about/IN the/DT same/JJ multiple/JJ as/IN Exco/NNP ,/, suggesting/VBG net/JJ income/NN of/IN around/RB 16/CD mln/NN dlrs/NNS ./. The/DT company/NN 's/POS earnings/NNS had/VBD not/RB been/VBN hit/VBN by/IN the/DT halving/NN of/IN brokerage/NN fees/NNS some/DT 14/CD months/NNS ago/RB as/IN volumes/NNS had/VBD since/IN doubled/VBN ./. Lacy/NNP said/VBD that/IN RMJ/NNP employed/VBD some/DT 300/CD people/NNS ,/, with/IN 200/CD in/IN the/DT brokerage/NN business/NN and/CC about/IN 70/CD in/IN its/PRP$ <SMS/NNP >/NNP unit/NN ,/, which/WDT provided/VBD computer/NN software/NN for/IN the/DT financial/JJ services/NNS community/NN ./. RMJ/NN Securities/NNP had/VBD offices/NNS in/IN New/NNP York/NNP ,/, where/WRB total/JJ market/NN turnover/NN of/IN U.S./NNP Government/NNP securities/NNS was/VBD 110/CD billion/CD dlrs/NNS a/DT day/NN ,/, and/CC in/IN London/NNP where/WRB it/PRP has/VBZ 15/CD billion/CD ./. It/PRP was/VBD also/RB given/VBN permission/NN last/JJ week/NN to/TO open/VB an/DT office/NN in/IN Tokyo/NNP where/WRB total/JJ market/NN turnover/NN had/VBD lifted/VBN rapidly/RB to/TO about/IN five/CD billion/CD dlrs/NNS a/DT day/NN ./. The/DT acquisition/NN would/MD contribute/VB between/IN five/CD and/CC 10/CD pct/NN of/IN B/NNP and/CC C/NNP 's/POS share/NN earnings/NNS in/IN 1987/CD on/IN a/DT proforma/FW basis/NN ./. REUTER/NN"
+
+$`331`$POStags
+  [1] "NNP"  "NNP"  "NNP"  ","    "DT"   "NN"   "IN"   "NNP"  "CC"   "NNP" 
+ [11] "NNP"  "NNP"  "NNP"  "NN"   ","    "VBD"  "PRP"  "VBD"  "VBN"  "IN"  
+ [21] "NN"   "TO"   "VB"   "DT"   "CD"   "JJ"   "NN"   "IN"   "NNP"  "NNP" 
+ [31] "NNP"  "NNP"  "IN"   "IN"   "CD"   "NN"   "NNS"  "."    "NNP"  "NNP" 
+ [41] "NNP"  "NNP"  "VBD"  "NNP"  "DT"   "NN"   "VBD"  "VBG"  "VBN"  "IN"  
+ [51] "NNP"  "IN"   "NNP"  "NNP"  "NNP"  "NNP"  "NN"   ","    "WDT"  "RB"  
+ [61] "VBZ"  "DT"   "CD"   "NN"   ","    "CC"   "IN"   "NNP"  "NNS"  "WP"  
+ [71] "VBP"  "DT"   "NN"   "."    "NNP"  "IN"   "NNP"  "NNP"  "CC"   "DT"  
+ [81] "NNS"  "MD"   "VB"   "IN"   "CD"   "NN"   "DT"   "CC"   "DT"   "NNS" 
+ [91] "MD"   "VB"   "VBN"  "IN"   "DT"   "JJ"   "CD"   "NNS"  "."    "NN"  
+[101] "VBZ"  "DT"   "VBG"  "NN"   "IN"   "NNP"  "NNPS" ","    "CD"   "IN"  
+[111] "DT"   "JJS"  "NNP"  "NN"   "NNS"  "NNS"  "."    "PRP"  "VBZ"  "RB"  
+[121] "VBN"  "IN"   "VBG"  "NNS"  ","    "NNS"  "CC"   "JJ"   "NNS"  "VBN" 
+[131] "IN"   "NNP"  "NNP"  "NNS"  "."    "NN"   "VBD"  "NNP"  "VBD"  "VBN" 
+[141] "VBG"  "VBG"  "DT"   "NNP"  "NN"   "NNS"  "NN"   "IN"   "DT"   "JJ"  
+[151] "CD"   "NNS"  "CC"   "VBD"  "VBN"  "DT"   "NN"   "IN"   "NNP"  "WRB" 
+[161] "PRP"  "VBD"  "VBN"  "IN"   "NNP"  "NNP"  "NNP"  "NNP"  "IN"   "CD"  
+[171] "."    "NNP"  "VBD"  "RB"   "VBN"  "IN"   "IN"   "CD"   "NN"   "NNS" 
+[181] "."    "NNP"  "CC"   "NNP"  "NN"   "NN"   "NNP"  "NNP"  "VBD"  "NNP" 
+[191] "MD"   "VB"   "VBN"  "IN"   "IN"   "DT"   "JJ"   "JJ"   "IN"   "NNP" 
+[201] ","    "VBG"  "JJ"   "NN"   "IN"   "RB"   "CD"   "NN"   "NNS"  "."   
+[211] "DT"   "NN"   "POS"  "NNS"  "VBD"  "RB"   "VBN"  "VBN"  "IN"   "DT"  
+[221] "NN"   "IN"   "NN"   "NNS"  "DT"   "CD"   "NNS"  "RB"   "IN"   "NNS" 
+[231] "VBD"  "IN"   "VBN"  "."    "NNP"  "VBD"  "IN"   "NNP"  "VBD"  "DT"  
+[241] "CD"   "NNS"  ","    "IN"   "CD"   "IN"   "DT"   "NN"   "NN"   "CC"  
+[251] "IN"   "CD"   "IN"   "PRP$" "NNP"  "NNP"  "NN"   ","    "WDT"  "VBD" 
+[261] "NN"   "NN"   "IN"   "DT"   "JJ"   "NNS"  "NN"   "."    "NN"   "NNP" 
+[271] "VBD"  "NNS"  "IN"   "NNP"  "NNP"  ","    "WRB"  "JJ"   "NN"   "NN"  
+[281] "IN"   "NNP"  "NNP"  "NNS"  "VBD"  "CD"   "CD"   "NNS"  "DT"   "NN"  
+[291] ","    "CC"   "IN"   "NNP"  "WRB"  "PRP"  "VBZ"  "CD"   "CD"   "."   
+[301] "PRP"  "VBD"  "RB"   "VBN"  "NN"   "JJ"   "NN"   "TO"   "VB"   "DT"  
+[311] "NN"   "IN"   "NNP"  "WRB"  "JJ"   "NN"   "NN"   "VBD"  "VBN"  "RB"  
+[321] "TO"   "IN"   "CD"   "CD"   "NNS"  "DT"   "NN"   "."    "DT"   "NN"  
+[331] "MD"   "VB"   "IN"   "CD"   "CC"   "CD"   "NN"   "IN"   "NNP"  "CC"  
+[341] "NNP"  "POS"  "NN"   "NNS"  "IN"   "CD"   "IN"   "DT"   "FW"   "NN"  
+[351] "."    "NN"  
+
+
+$`334`
+$`334`$POStagged
+[1] "<Coloroll/NNP Group/NNP Plc>/NNP said/VBD it/PRP has/VBZ entered/VBN into/IN a/DT conditional/JJ agreement/NN to/TO acquire/VB the/DT business/NN and/CC assets/NNS of/IN <Wallco/NNP Inc>/NNP and/CC related/VBN companies/NNS for/IN 14.5/CD mln/NN dlrs/NNS ./. Miami-based/JJ Wallco/NNP manufactures/VBZ and/CC distributes/VBZ wallcoverings/NNS and/CC showed/VBD a/DT pretax/JJ profit/NN of/IN 1.5/CD mln/JJ dlrs/NNS on/IN turnover/NN of/IN 37/CD mln/NN in/IN the/DT year/NN ending/VBG June/NNP 1986/CD ./. The/DT total/JJ U.S./NNP Market/NNP was/VBD estimated/VBN to/TO be/VB worth/JJ 840/CD mln/NN dlrs/NNS in/IN 1986/CD ,/, having/VBG grown/VBN by/IN 47/CD pct/NN in/IN the/DT previous/JJ five/CD years/NNS ,/, Coloroll/NNP said/VBD ./. The/DT combined/VBN sales/NNS and/CC profit/NN of/IN the/DT enlarged/JJ Coloroll/NNP U.S./NNP Business/NNP would/MD be/VB 67/CD mln/NN and/CC four/CD mln/NN dlrs/NNS respectively/RB ./. REUTER/NN"
+
+$`334`$POStags
+  [1] "NNP" "NNP" "NNP" "VBD" "PRP" "VBZ" "VBN" "IN"  "DT"  "JJ"  "NN"  "TO" 
+ [13] "VB"  "DT"  "NN"  "CC"  "NNS" "IN"  "NNP" "NNP" "CC"  "VBN" "NNS" "IN" 
+ [25] "CD"  "NN"  "NNS" "."   "JJ"  "NNP" "VBZ" "CC"  "VBZ" "NNS" "CC"  "VBD"
+ [37] "DT"  "JJ"  "NN"  "IN"  "CD"  "JJ"  "NNS" "IN"  "NN"  "IN"  "CD"  "NN" 
+ [49] "IN"  "DT"  "NN"  "VBG" "NNP" "CD"  "."   "DT"  "JJ"  "NNP" "NNP" "VBD"
+ [61] "VBN" "TO"  "VB"  "JJ"  "CD"  "NN"  "NNS" "IN"  "CD"  ","   "VBG" "VBN"
+ [73] "IN"  "CD"  "NN"  "IN"  "DT"  "JJ"  "CD"  "NNS" ","   "NNP" "VBD" "."  
+ [85] "DT"  "VBN" "NNS" "CC"  "NN"  "IN"  "DT"  "JJ"  "NNP" "NNP" "NNP" "MD" 
+ [97] "VB"  "CD"  "NN"  "CC"  "CD"  "NN"  "NNS" "RB"  "."   "NN" 
+
+
+$`361`
+$`361`$POStagged
+[1] "Scientific/NNP Micro/NNP Systems/NNPS Inc/NNP said/VBD it/PRP has/VBZ acquired/VBN Supermac/NNP Technology/NNP ,/, a/DT rapidly/RB growing/VBG supplier/NN of/IN enhancement/NN products/NNS and/CC disc/JJ drive/NN subsystems/NNS for/IN the/DT Apple/NNP personal/JJ computer/NN market/NN ./. Scientific/NNP Micro/NNP said/VBD it/PRP acquired/VBD all/PDT the/DT common/JJ stock/NN of/IN Supermac/NNP in/IN exchange/NN for/IN 1.05/CD mln/JJ shares/NNS of/IN its/PRP$ own/JJ common/JJ stock/NN ./. The/DT stock/NN closed/VBD at/IN 5.50/CD dlrs/NNS bid/NN on/IN Friday/NNP ./. Supermac/NNP ,/, a/DT privately/RB held/VBN firm/NN based/VBN in/IN Mountain/NNP View/NNP ,/, California/NNP ,/, as/IN is/VBZ Scientific/NNP Micro/NNP ,/, reported/VBD a/DT net/JJ profit/NN of/IN 300,000/CD dlrs/NNS on/IN revenue/NN of/IN 9.5/CD mln/NN dlrs/VBD in/IN fiscal/JJ 1986/CD ./. It/PRP expects/VBZ its/PRP$ revenue/NN to/TO approximately/RB double/VB in/IN 1987/CD ./. Reuter/NNP"
+
+$`361`$POStags
+  [1] "NNP"  "NNP"  "NNPS" "NNP"  "VBD"  "PRP"  "VBZ"  "VBN"  "NNP"  "NNP" 
+ [11] ","    "DT"   "RB"   "VBG"  "NN"   "IN"   "NN"   "NNS"  "CC"   "JJ"  
+ [21] "NN"   "NNS"  "IN"   "DT"   "NNP"  "JJ"   "NN"   "NN"   "."    "NNP" 
+ [31] "NNP"  "VBD"  "PRP"  "VBD"  "PDT"  "DT"   "JJ"   "NN"   "IN"   "NNP" 
+ [41] "IN"   "NN"   "IN"   "CD"   "JJ"   "NNS"  "IN"   "PRP$" "JJ"   "JJ"  
+ [51] "NN"   "."    "DT"   "NN"   "VBD"  "IN"   "CD"   "NNS"  "NN"   "IN"  
+ [61] "NNP"  "."    "NNP"  ","    "DT"   "RB"   "VBN"  "NN"   "VBN"  "IN"  
+ [71] "NNP"  "NNP"  ","    "NNP"  ","    "IN"   "VBZ"  "NNP"  "NNP"  ","   
+ [81] "VBD"  "DT"   "JJ"   "NN"   "IN"   "CD"   "NNS"  "IN"   "NN"   "IN"  
+ [91] "CD"   "NN"   "VBD"  "IN"   "JJ"   "CD"   "."    "PRP"  "VBZ"  "PRP$"
+[101] "NN"   "TO"   "RB"   "VB"   "IN"   "CD"   "."    "NNP" 
+
+
+$`362`
+$`362`$POStagged
+[1] "American/NNP Express/NNP Co/NNP ,/, rumored/VBN to/TO be/VB considering/VBG a/DT spinoff/NN of/IN part/NN of/IN Shearson/NNP Lehman/NNP Brothers/NNPS Inc/NNP ,/, said/VBD it/PRP is/VBZ studying/VBG a/DT range/NN of/IN options/NNS for/IN its/PRP$ brokerage/NN unit/NN that/WDT could/MD improve/VB Shearon/NNP 's/POS access/NN to/TO capital/NN and/CC help/VB it/PRP meet/VB broadening/JJ international/JJ competition/NN ./. In/IN a/DT joint/JJ statement/NN ,/, American/NNP Express/NNP and/CC Shearson/NNP said/VBD the/DT actions/NNS under/IN consideration/NN are/VBP an/DT integral/JJ part/NN of/IN American/NNP Express/NNP '/POS worldwide/JJ financial/JJ services/NNS strategy/NN and/CC that/IN the/DT two/CD companies/NNS have/VBP been/VBN having/VBG both/DT internal/JJ and/CC external/JJ discussions/NNS on/IN the/DT matters/NNS ./. American/NNP Express/NNP said/VBD no/DT decision/NN has/VBZ been/VBN reached/VBN on/IN the/DT strategic/JJ options/NNS and/CC that/IN it/PRP and/CC Shearson/NNP could/MD ultimately/RB decide/VB to/TO follow/VB growth/NN plans/NNS already/RB in/IN place/NN ./. Last/JJ week/NN ,/, rumors/NNS circulated/VBN on/IN Wall/NNP Street/NNP that/IN the/DT financial/JJ services/NNS giant/NN was/VBD considering/VBG a/DT spinoff/NN of/IN part/NN of/IN Shearson/NNP and/CC there/EX was/VBD speculation/NN it/PRP may/MD be/VB considering/VBG selling/VBG a/DT stake/NN to/TO a/DT Japanese/JJ firm/NN ./. Analysts/NNS said/VBD the/DT speculation/NN also/RB focused/VBD on/IN American/NNP Express/NNP selling/NN 20/CD pct/NN of/IN the/DT profitable/JJ brokerage/NN firm/NN to/TO the/DT public/NN ./. There/EX was/VBD some/DT speculation/NN that/IN American/NNP Express/NNP had/VBD also/RB considered/VBN a/DT total/JJ spinoff/NN of/IN Shearson/NNP ,/, but/CC the/DT plan/NN was/VBD considered/VBN highly/RB unlikely/JJ ,/, analysts/NNS said/VBD ./. American/NNP Express/NNP said/VBD in/IN the/DT statement/NN on/IN Sunday/NNP that/IN it/PRP will/MD not/RB comment/VB on/IN rumors/NNS and/CC speculation/NN and/CC a/DT spokesman/NN would/MD not/RB go/VB beyond/IN the/DT statement/NN ./. The/DT company/NN also/RB remained/VBD silent/JJ last/JJ Thursday/NNP and/CC Friday/NNP ,/, as/IN rumors/NNS drove/VBD American/NNP Express/NNP stock/NN up/IN a/DT total/NN of/IN 5-1/2/CD dlrs/NNS in/IN two/CD days/NNS to/TO bring/VB it/PRP to/TO a/DT Friday/NNP close/NN at/IN 74./DT It/PRP said/VBD it/PRP issued/VBD the/DT statement/NN on/IN Sunday/NNP because/IN a/DT similar/JJ statement/NN was/VBD being/VBG circulated/VBN to/TO employees/NNS ./. Analysts/NNS have/VBP been/VBN divided/VBN on/IN whether/IN it/PRP makes/VBZ sense/NN for/IN American/NNP Express/NNP to/TO give/VB up/RP a/DT stake/NN in/IN the/DT wholly-owned/JJ brokerage/NN ,/, which/WDT improved/VBD its/PRP$ after-tax/JJ earnings/NNS by/IN about/IN 50/CD pct/NN in/IN the/DT last/JJ year/NN ./. Some/DT analysts/NNS said/VBD American/NNP Express/NNP may/MD consider/VB spinning/VBG off/IN part/NN of/IN Shearson/NNP because/IN it/PRP is/VBZ concerned/VBN that/IN its/PRP$ stock/NN price/NN does/VBZ not/RB fully/RB reflect/VB the/DT value/NN of/IN the/DT brokerage/NN firm/NN ./. Shearson/NNP contributed/VBD 316/CD mln/NN dlrs/NNS of/IN American/NNP Express/NNP '/POS 1.25/CD billion/CD dlr/NN net/NN in/IN 1986/CD ./. American/NNP Express/NNP '/POS ambitious/JJ plans/NNS for/IN international/JJ growth/NN may/MD be/VB also/RB enhanced/VBN by/IN the/DT added/JJ cash/NN that/IN spinning/VBG out/IN part/NN of/IN Shearson/NNP would/MD bring/VB ./. Analysts/NNS speculated/VBD that/IN all/DT of/IN Shearson/NNP would/MD have/VB a/DT market/NN value/NN of/IN about/IN 3.5/CD billion/CD dlrs/NNS ./. To/TO some/DT however/RB ,/, the/DT need/NN for/IN added/JJ capital/NN is/VBZ puzzling/JJ ./. \"(/JJ American/NNP )/-RRB- Express/NNP is/VBZ in/IN a/DT position/NN where/WRB they/PRP can/MD raise/VB capital/NN if/IN they/PRP need/VBP to/TO ,/, \"/'' said/VBD Larry/NNP Eckenfelder/NNP of/IN Prudential-Bache/NNP Securities/NNPS ./. Analysts/NNS said/VBD rumors/NNS were/VBD fed/VBN by/IN the/DT reorganization/NN of/IN Shearson/NNP management/NN Wednesday/NNP ./. Chief/NNP operating/VBG officer/NN Jeffrey/NNP Lane/NNP got/VBD the/DT added/VBN ,/, previously/RB vacant/JJ ,/, post/NN of/IN president/NN ./. The/DT reorganization/NN also/RB created/VBD four/CD new/JJ positions/NNS for/IN chairmen/NNS of/IN Shearson/NNP 's/POS operating/VBG divisions/NNS ,/, a/DT move/NN analysts/NNS speculated/VBD would/MD allow/VB Shearson/NNP to/TO be/VB a/DT stand/NN alone/JJ company/NN ./. Analysts/NNS ,/, contacted/VBD on/IN Sunday/NNP said/VBD the/DT statement/NN does/VBZ little/RB to/TO clarify/VB last/JJ week/NN 's/POS market/NN speculation/NN ./. It/PRP does/VBZ confirm/VB ,/, however/RB ,/, that/IN the/DT financial/JJ services/NNS firm/NN ,/, which/WDT unsuccessfully/RB attempted/VBD to/TO expand/VB Shearson/NNP with/IN a/DT major/JJ acquisition/NN last/JJ year/NN ,/, is/VBZ looking/VBG beyond/IN its/PRP$ own/JJ walls/NNS for/IN growth/NN and/CC positioning/NN in/IN the/DT global/JJ market/NN competition/NN ./. Late/RB last/JJ year/NN ,/, Shearson/NNP 's/POS takeover/NN offer/NN to/TO the/DT E.F./NNP Hutton/NNP Group/NNP Inc/NNP was/VBD rejected/VBN by/IN Hutton/NNP ,/, and/CC analysts/NNS said/VBD there/EX had/VBD been/VBN speculation/NN that/IN Shearson/NNP also/RB was/VBD rebuffed/VBN when/WRB it/PRP approached/VBD another/DT major/JJ Wall/NNP Street/NNP brokerage/NN ./. Reuter/NNP"
+
+$`362`$POStags
+  [1] "NNP"   "NNP"   "NNP"   ","     "VBN"   "TO"    "VB"    "VBG"   "DT"   
+ [10] "NN"    "IN"    "NN"    "IN"    "NNP"   "NNP"   "NNPS"  "NNP"   ","    
+ [19] "VBD"   "PRP"   "VBZ"   "VBG"   "DT"    "NN"    "IN"    "NNS"   "IN"   
+ [28] "PRP$"  "NN"    "NN"    "WDT"   "MD"    "VB"    "NNP"   "POS"   "NN"   
+ [37] "TO"    "NN"    "CC"    "VB"    "PRP"   "VB"    "JJ"    "JJ"    "NN"   
+ [46] "."     "IN"    "DT"    "JJ"    "NN"    ","     "NNP"   "NNP"   "CC"   
+ [55] "NNP"   "VBD"   "DT"    "NNS"   "IN"    "NN"    "VBP"   "DT"    "JJ"   
+ [64] "NN"    "IN"    "NNP"   "NNP"   "POS"   "JJ"    "JJ"    "NNS"   "NN"   
+ [73] "CC"    "IN"    "DT"    "CD"    "NNS"   "VBP"   "VBN"   "VBG"   "DT"   
+ [82] "JJ"    "CC"    "JJ"    "NNS"   "IN"    "DT"    "NNS"   "."     "NNP"  
+ [91] "NNP"   "VBD"   "DT"    "NN"    "VBZ"   "VBN"   "VBN"   "IN"    "DT"   
+[100] "JJ"    "NNS"   "CC"    "IN"    "PRP"   "CC"    "NNP"   "MD"    "RB"   
+[109] "VB"    "TO"    "VB"    "NN"    "NNS"   "RB"    "IN"    "NN"    "."    
+[118] "JJ"    "NN"    ","     "NNS"   "VBN"   "IN"    "NNP"   "NNP"   "IN"   
+[127] "DT"    "JJ"    "NNS"   "NN"    "VBD"   "VBG"   "DT"    "NN"    "IN"   
+[136] "NN"    "IN"    "NNP"   "CC"    "EX"    "VBD"   "NN"    "PRP"   "MD"   
+[145] "VB"    "VBG"   "VBG"   "DT"    "NN"    "TO"    "DT"    "JJ"    "NN"   
+[154] "."     "NNS"   "VBD"   "DT"    "NN"    "RB"    "VBD"   "IN"    "NNP"  
+[163] "NNP"   "NN"    "CD"    "NN"    "IN"    "DT"    "JJ"    "NN"    "NN"   
+[172] "TO"    "DT"    "NN"    "."     "EX"    "VBD"   "DT"    "NN"    "IN"   
+[181] "NNP"   "NNP"   "VBD"   "RB"    "VBN"   "DT"    "JJ"    "NN"    "IN"   
+[190] "NNP"   ","     "CC"    "DT"    "NN"    "VBD"   "VBN"   "RB"    "JJ"   
+[199] ","     "NNS"   "VBD"   "."     "NNP"   "NNP"   "VBD"   "IN"    "DT"   
+[208] "NN"    "IN"    "NNP"   "IN"    "PRP"   "MD"    "RB"    "VB"    "IN"   
+[217] "NNS"   "CC"    "NN"    "CC"    "DT"    "NN"    "MD"    "RB"    "VB"   
+[226] "IN"    "DT"    "NN"    "."     "DT"    "NN"    "RB"    "VBD"   "JJ"   
+[235] "JJ"    "NNP"   "CC"    "NNP"   ","     "IN"    "NNS"   "VBD"   "NNP"  
+[244] "NNP"   "NN"    "IN"    "DT"    "NN"    "IN"    "CD"    "NNS"   "IN"   
+[253] "CD"    "NNS"   "TO"    "VB"    "PRP"   "TO"    "DT"    "NNP"   "NN"   
+[262] "IN"    "DT"    "PRP"   "VBD"   "PRP"   "VBD"   "DT"    "NN"    "IN"   
+[271] "NNP"   "IN"    "DT"    "JJ"    "NN"    "VBD"   "VBG"   "VBN"   "TO"   
+[280] "NNS"   "."     "NNS"   "VBP"   "VBN"   "VBN"   "IN"    "IN"    "PRP"  
+[289] "VBZ"   "NN"    "IN"    "NNP"   "NNP"   "TO"    "VB"    "RP"    "DT"   
+[298] "NN"    "IN"    "DT"    "JJ"    "NN"    ","     "WDT"   "VBD"   "PRP$" 
+[307] "JJ"    "NNS"   "IN"    "IN"    "CD"    "NN"    "IN"    "DT"    "JJ"   
+[316] "NN"    "."     "DT"    "NNS"   "VBD"   "NNP"   "NNP"   "MD"    "VB"   
+[325] "VBG"   "IN"    "NN"    "IN"    "NNP"   "IN"    "PRP"   "VBZ"   "VBN"  
+[334] "IN"    "PRP$"  "NN"    "NN"    "VBZ"   "RB"    "RB"    "VB"    "DT"   
+[343] "NN"    "IN"    "DT"    "NN"    "NN"    "."     "NNP"   "VBD"   "CD"   
+[352] "NN"    "NNS"   "IN"    "NNP"   "NNP"   "POS"   "CD"    "CD"    "NN"   
+[361] "NN"    "IN"    "CD"    "."     "NNP"   "NNP"   "POS"   "JJ"    "NNS"  
+[370] "IN"    "JJ"    "NN"    "MD"    "VB"    "RB"    "VBN"   "IN"    "DT"   
+[379] "JJ"    "NN"    "IN"    "VBG"   "IN"    "NN"    "IN"    "NNP"   "MD"   
+[388] "VB"    "."     "NNS"   "VBD"   "IN"    "DT"    "IN"    "NNP"   "MD"   
+[397] "VB"    "DT"    "NN"    "NN"    "IN"    "IN"    "CD"    "CD"    "NNS"  
+[406] "."     "TO"    "DT"    "RB"    ","     "DT"    "NN"    "IN"    "JJ"   
+[415] "NN"    "VBZ"   "JJ"    "."     "JJ"    "NNP"   "-RRB-" "NNP"   "VBZ"  
+[424] "IN"    "DT"    "NN"    "WRB"   "PRP"   "MD"    "VB"    "NN"    "IN"   
+[433] "PRP"   "VBP"   "TO"    ","     "''"    "VBD"   "NNP"   "NNP"   "IN"   
+[442] "NNP"   "NNPS"  "."     "NNS"   "VBD"   "NNS"   "VBD"   "VBN"   "IN"   
+[451] "DT"    "NN"    "IN"    "NNP"   "NN"    "NNP"   "."     "NNP"   "VBG"  
+[460] "NN"    "NNP"   "NNP"   "VBD"   "DT"    "VBN"   ","     "RB"    "JJ"   
+[469] ","     "NN"    "IN"    "NN"    "."     "DT"    "NN"    "RB"    "VBD"  
+[478] "CD"    "JJ"    "NNS"   "IN"    "NNS"   "IN"    "NNP"   "POS"   "VBG"  
+[487] "NNS"   ","     "DT"    "NN"    "NNS"   "VBD"   "MD"    "VB"    "NNP"  
+[496] "TO"    "VB"    "DT"    "NN"    "JJ"    "NN"    "."     "NNS"   ","    
+[505] "VBD"   "IN"    "NNP"   "VBD"   "DT"    "NN"    "VBZ"   "RB"    "TO"   
+[514] "VB"    "JJ"    "NN"    "POS"   "NN"    "NN"    "."     "PRP"   "VBZ"  
+[523] "VB"    ","     "RB"    ","     "IN"    "DT"    "JJ"    "NNS"   "NN"   
+[532] ","     "WDT"   "RB"    "VBD"   "TO"    "VB"    "NNP"   "IN"    "DT"   
+[541] "JJ"    "NN"    "JJ"    "NN"    ","     "VBZ"   "VBG"   "IN"    "PRP$" 
+[550] "JJ"    "NNS"   "IN"    "NN"    "CC"    "NN"    "IN"    "DT"    "JJ"   
+[559] "NN"    "NN"    "."     "RB"    "JJ"    "NN"    ","     "NNP"   "POS"  
+[568] "NN"    "NN"    "TO"    "DT"    "NNP"   "NNP"   "NNP"   "NNP"   "VBD"  
+[577] "VBN"   "IN"    "NNP"   ","     "CC"    "NNS"   "VBD"   "EX"    "VBD"  
+[586] "VBN"   "NN"    "IN"    "NNP"   "RB"    "VBD"   "VBN"   "WRB"   "PRP"  
+[595] "VBD"   "DT"    "JJ"    "NNP"   "NNP"   "NN"    "."     "NNP"  
+
+
+$`366`
+$`366`$POStagged
+[1] "Ropak/NNP Corp/NNP said/VBD it/PRP received/VBD and/CC accepted/VBD about/IN 456,968/CD common/JJ shares/NNS and/CC 527,035/CD Series/NNP A/NNP convertible/JJ preferred/JJ shares/NNS of/IN Buckhorn/NNP Inc/NNP at/IN four/CD dlrs/NNS and/CC 5.75/CD dlrs/NNS each/DT respectively/RB in/IN response/NN to/TO its/PRP$ tender/NN offer/NN that/WDT expired/VBD Friday/NNP ,/, and/CC it/PRP now/RB owns/VBZ 34.4/CD pct/NN of/IN Buckhorn/NNP voting/VBG power/NN ./. The/DT company/NN had/VBD owned/VBN 63,000/CD common/JJ and/CC 25,100/CD preferred/JJ shares/NNS before/IN starting/VBG the/DT hostile/JJ tender/NN ./. Ropak/NNP said/VBD it/PRP is/VBZ borrowing/VBG the/DT funds/NNS needed/VBD to/TO buy/VB the/DT Buckhorn/NNP shares/NNS from/IN its/PRP$ bank/NN lender/NN and/CC will/MD not/RB need/VB to/TO use/VB any/DT funds/NNS that/IN another/DT bank/NN had/VBD committed/VBN to/TO provide/VB under/IN a/DT margin/NN loan/NN ./. Ropak/NNP said/VBD it/PRP waived/VBD minimum/JJ acceptance/NN requirements/NNS to/TO buy/VB the/DT shares/NNS and/CC intends/VBZ to/TO evaluate/VB a/DT number/NN of/IN possible/JJ ways/NNS of/IN completing/VBG an/DT acquisition/NN of/IN Buckhorn/NNP ./. It/PRP said/VBD it/PRP hopes/VBZ that/IN Buckhorn/NNP 's/POS board/NN will/MD reevaluate/VB its/PRP$ position/NN and/CC enter/VB into/IN meaningful/JJ negotiations/NNS ./. Reuter/NNP"
+
+$`366`$POStags
+  [1] "NNP"  "NNP"  "VBD"  "PRP"  "VBD"  "CC"   "VBD"  "IN"   "CD"   "JJ"  
+ [11] "NNS"  "CC"   "CD"   "NNP"  "NNP"  "JJ"   "JJ"   "NNS"  "IN"   "NNP" 
+ [21] "NNP"  "IN"   "CD"   "NNS"  "CC"   "CD"   "NNS"  "DT"   "RB"   "IN"  
+ [31] "NN"   "TO"   "PRP$" "NN"   "NN"   "WDT"  "VBD"  "NNP"  ","    "CC"  
+ [41] "PRP"  "RB"   "VBZ"  "CD"   "NN"   "IN"   "NNP"  "VBG"  "NN"   "."   
+ [51] "DT"   "NN"   "VBD"  "VBN"  "CD"   "JJ"   "CC"   "CD"   "JJ"   "NNS" 
+ [61] "IN"   "VBG"  "DT"   "JJ"   "NN"   "."    "NNP"  "VBD"  "PRP"  "VBZ" 
+ [71] "VBG"  "DT"   "NNS"  "VBD"  "TO"   "VB"   "DT"   "NNP"  "NNS"  "IN"  
+ [81] "PRP$" "NN"   "NN"   "CC"   "MD"   "RB"   "VB"   "TO"   "VB"   "DT"  
+ [91] "NNS"  "IN"   "DT"   "NN"   "VBD"  "VBN"  "TO"   "VB"   "IN"   "DT"  
+[101] "NN"   "NN"   "."    "NNP"  "VBD"  "PRP"  "VBD"  "JJ"   "NN"   "NNS" 
+[111] "TO"   "VB"   "DT"   "NNS"  "CC"   "VBZ"  "TO"   "VB"   "DT"   "NN"  
+[121] "IN"   "JJ"   "NNS"  "IN"   "VBG"  "DT"   "NN"   "IN"   "NNP"  "."   
+[131] "PRP"  "VBD"  "PRP"  "VBZ"  "IN"   "NNP"  "POS"  "NN"   "MD"   "VB"  
+[141] "PRP$" "NN"   "CC"   "VB"   "IN"   "JJ"   "NNS"  "."    "NNP" 
+
+
+$`369`
+$`369`$POStagged
+[1] "Penril/NNP Corp/NNP said/VBD it/PRP is/VBZ seeking/VBG to/TO sell/VB its/PRP$ Triplett/NNP Electrical/NNP Instrument/NNP Corp/NNP subsidiary/NN in/IN Bluffton/NNP ,/, Ohio/NNP ,/, and/CC Triplett/NNP 's/POS Alltest/NNP division/NN in/IN Hoffman/NNP Estates/NNP ,/, Ill./NNP ,/, as/IN part/NN of/IN a/DT plan/NN to/TO concentrate/VB on/IN its/PRP$ three/CD profitable/JJ division/NN and/CC reduce/VB its/PRP$ debt/NN load/NN ./. The/DT company/NN also/RB said/VBD it/PRP is/VBZ evaluating/VBG a/DT plan/NN to/TO satisfy/VB its/PRP$ obligations/NNS under/IN its/PRP$ 10-7/8/CD pct/JJ subordinated/JJ notes/NNS but/CC gave/VBD no/DT details/NNS ./. Interest/NN on/IN the/DT notes/NNS is/VBZ due/JJ today/NN ./. Penril/NNP further/RB said/VBD director/NN Clifford/NNP L./NNP Alexander/NNP Jr./NNP has/VBZ resigned/VBN from/IN the/DT board/NN ./. It/PRP gave/VBD no/DT reason/NN ./. Penril/NNP said/VBD shareholders/NNS at/IN the/DT annual/JJ meeting/NN approved/VBD the/DT limitation/NN of/IN directors/NNS '/POS liability/NN ./. Reuter/NNP"
+
+$`369`$POStags
+  [1] "NNP"  "NNP"  "VBD"  "PRP"  "VBZ"  "VBG"  "TO"   "VB"   "PRP$" "NNP" 
+ [11] "NNP"  "NNP"  "NNP"  "NN"   "IN"   "NNP"  ","    "NNP"  ","    "CC"  
+ [21] "NNP"  "POS"  "NNP"  "NN"   "IN"   "NNP"  "NNP"  ","    "NNP"  ","   
+ [31] "IN"   "NN"   "IN"   "DT"   "NN"   "TO"   "VB"   "IN"   "PRP$" "CD"  
+ [41] "JJ"   "NN"   "CC"   "VB"   "PRP$" "NN"   "NN"   "."    "DT"   "NN"  
+ [51] "RB"   "VBD"  "PRP"  "VBZ"  "VBG"  "DT"   "NN"   "TO"   "VB"   "PRP$"
+ [61] "NNS"  "IN"   "PRP$" "CD"   "JJ"   "JJ"   "NNS"  "CC"   "VBD"  "DT"  
+ [71] "NNS"  "."    "NN"   "IN"   "DT"   "NNS"  "VBZ"  "JJ"   "NN"   "."   
+ [81] "NNP"  "RB"   "VBD"  "NN"   "NNP"  "NNP"  "NNP"  "NNP"  "VBZ"  "VBN" 
+ [91] "IN"   "DT"   "NN"   "."    "PRP"  "VBD"  "DT"   "NN"   "."    "NNP" 
+[101] "VBD"  "NNS"  "IN"   "DT"   "JJ"   "NN"   "VBD"  "DT"   "NN"   "IN"  
+[111] "NNS"  "POS"  "NN"   "."    "NNP" 
+
+
+$`371`
+$`371`$POStagged
+[1] "Dale/NNP Burdett/NNP Inc/NNP said/VBD it/PRP faces/VBZ damages/NNS claims/NNS totalling/VBG about/IN 420,000/CD dlrs/NNS from/IN the/DT former/JJ owners/NNS of/IN Burdett/NNP Publications/NNPS Inc./NNP The/DT company/NN said/VBD on/IN February/NNP 20/CD ,/, 1986/CD ,/, its/PRP$ predecessor/NN Nolex/NNP Development/NNP Inc/NNP acquired/VBD Burdett/NNP Publications/NNPS Inc/NNP in/IN an/DT exchange/NN of/IN 17/CD mln/CD common/JJ shares/NNS for/IN all/DT Burdett/NNP Publications/NNP shares/NNS ,/, but/CC the/DT transaction/NN was/VBD not/RB qualified/VBN with/IN the/DT California/NNP Department/NNP of/IN Corporations/NNP ./. As/IN a/DT result/NN ,/, it/PRP said/VBD ,/, the/DT former/JJ Burdett/NNP Publications/NNPS owners/NNS have/VBP a/DT claim/NN for/IN damages/NNS against/IN Dale/NNP Burdett/NNP as/IN successor/NN to/TO Nolex/NNP for/IN one/CD yuear/NN starting/VBG January/NNP 21/CD ,/, 1987/CD ,/, with/IN the/DT damages/NNS measured/VBN by/IN the/DT difference/NN in/IN values/NNS of/IN shares/NNS exchanged/VBD plus/IN interest/NN from/IN February/NNP 20/CD ,/, 1986/CD ./. Reuter/NNP"
+
+$`371`$POStags
+  [1] "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "VBZ"  "NNS"  "NNS"  "VBG"  "IN"  
+ [11] "CD"   "NNS"  "IN"   "DT"   "JJ"   "NNS"  "IN"   "NNP"  "NNPS" "NNP" 
+ [21] "DT"   "NN"   "VBD"  "IN"   "NNP"  "CD"   ","    "CD"   ","    "PRP$"
+ [31] "NN"   "NNP"  "NNP"  "NNP"  "VBD"  "NNP"  "NNPS" "NNP"  "IN"   "DT"  
+ [41] "NN"   "IN"   "CD"   "CD"   "JJ"   "NNS"  "IN"   "DT"   "NNP"  "NNP" 
+ [51] "NNS"  ","    "CC"   "DT"   "NN"   "VBD"  "RB"   "VBN"  "IN"   "DT"  
+ [61] "NNP"  "NNP"  "IN"   "NNP"  "."    "IN"   "DT"   "NN"   ","    "PRP" 
+ [71] "VBD"  ","    "DT"   "JJ"   "NNP"  "NNPS" "NNS"  "VBP"  "DT"   "NN"  
+ [81] "IN"   "NNS"  "IN"   "NNP"  "NNP"  "IN"   "NN"   "TO"   "NNP"  "IN"  
+ [91] "CD"   "NN"   "VBG"  "NNP"  "CD"   ","    "CD"   ","    "IN"   "DT"  
+[101] "NNS"  "VBN"  "IN"   "DT"   "NN"   "IN"   "NNS"  "IN"   "NNS"  "VBD" 
+[111] "IN"   "NN"   "IN"   "NNP"  "CD"   ","    "CD"   "."    "NNP" 
+
+
+$`372`
+$`372`$POStagged
+[1] "New/NNP Jersey-based/JJ overnight/JJ messenger/NN Purolator/NNP Courier/NNP Corp/NNP said/VBD it/PRP has/VBZ agreed/VBN to/TO be/VB acquired/VBN for/IN about/IN 265/CD mln/NN dlrs/NNS by/IN a/DT company/NN formed/VBN by/IN E.F./NNP Hutton/NNP LBO/NNP Inc/NNP and/CC certain/JJ managers/NNS of/IN Purolator/NNP 's/POS U.S./NNP courier/NN business/NN ./. Analysts/NNS have/VBP said/VBD that/IN Purolator/NNP has/VBZ been/VBN for/IN sale/NN for/IN some/DT time/NN ./. Purolator/NN announced/VBD earlier/JJR it/PRP was/VBD mulling/VBG a/DT takeover/NN bid/NN ,/, but/CC analysts/NNS wrongly/RB predicted/VBD the/DT offer/NN was/VBD from/IN another/DT courier/NN company/NN ./. Hutton/NNP LBO/NNP ,/, a/DT wholly/RB owned/VBN subsidiary/NN of/IN E.F./NNP Hutton/NNP Group/NNP Inc/NNP ,/, will/MD be/VB majority/NN owner/NN of/IN the/DT company/NN ./. Hutton/NNP said/VBD the/DT acquiring/VBG company/NN ,/, PC/NNP Acquisition/NNP Inc/NNP ,/, is/VBZ paying/VBG 35/CD dlrs/NNS cash/NN per/IN share/NN for/IN 83/CD pct/NN of/IN Purolator/NNP 's/POS stock/NN in/IN a/DT tender/NN offer/NN to/TO begin/VB Thursday/NNP ./. The/DT rest/NN of/IN the/DT shares/NNS will/MD be/VB purchased/VBN for/IN securities/NNS and/CC warrants/NNS to/TO buy/VB stock/NN in/IN a/DT subsidiary/NN of/IN PC/NNP Acquisition/NNP ,/, containing/VBG Purolator/NNP 's/POS U.S./NNP courier/NN operations/NNS ./. If/IN all/PDT the/DT shares/NNS of/IN Purolator/NNP are/VBP tendered/VBN ,/, shareholders/NNS would/MD receive/VB for/IN each/DT share/NN 29/CD dlrs/NNS cash/NN ,/, six/CD dlrs/NNS in/IN debentures/NNS ,/, and/CC a/DT warrant/NN to/TO buy/VB shares/NNS in/IN a/DT subsidiary/NN of/IN PC/NN Acquisition/NNP containing/VBG the/DT U.S./NNP courier/NN operations/NNS ./. Hutton/NNP said/VBD in/IN the/DT merger/NN shareholders/NNS would/MD get/VB 46/CD mln/NN dlrs/NNS aggregate/JJ amount/NN of/IN guaranteed/VBN debentures/NNS due/JJ 2002/CD of/IN PC/NN Acquisition/NNP and/CC warrants/NNS to/TO buy/VB 15/CD pct/NN of/IN the/DT common/JJ stock/NN of/IN the/DT PC/NN courier/NN subsidiary/NN ./. Hutton/NNP said/VBD the/DT company/NN has/VBZ valued/VBN the/DT warrants/NNS at/IN two/CD to/TO three/CD dlrs/NNS per/IN share/NN ./. Purolator/NNP 's/POS stock/NN price/NN closed/VBD at/IN 35.125/CD dlrs/NNS on/IN Friday/NNP ./. While/IN some/DT analysts/NNS estimated/VBD the/DT company/NN was/VBD worth/JJ in/IN the/DT mid/JJ 30s/NNS ,/, at/IN least/JJS one/CD said/VBD it/PRP would/MD be/VB worth/JJ 38/CD to/TO 42/CD dlrs/NNS ./. This/DT follows/VBZ sales/NNS of/IN two/CD other/JJ Purolator/NNP units/NNS ./. It/PRP agreed/VBD recently/RB to/TO sell/VB its/PRP$ Canadian/JJ Courier/NNP unit/NN to/TO Onex/NNP Capital/NNP for/IN 170/CD mln/NN dlrs/NNS ,/, and/CC previously/RB sold/VBN its/PRP$ auto/NN filters/NNS business/NN ./. Purolator/NNP retains/VBZ its/PRP$ Stant/NNP division/NN ,/, which/WDT makes/VBZ closure/NN caps/NNS for/IN radiators/NNS and/CC gas/NN tanks/NNS ./. A/DT Hutton/NNP spokesman/NN said/VBD the/DT firm/NN is/VBZ reviewing/VBG its/PRP$ options/NNS on/IN Stant/NNP ./. Purolator/NNP 's/POS courier/NN business/NN has/VBZ been/VBN lagging/VBG that/IN of/IN its/PRP$ U.S./NNP rivals/NNS because/IN of/IN the/DT high/JJ price/NN it/PRP paid/VBD in/IN the/DT past/JJ several/JJ years/NNS to/TO add/VB air/NN delivery/NN to/TO its/PRP$ ground/NN fleet/NN ./. E.F./NNP Hutton/NNP will/MD provide/VB 279/CD mln/JJ dlrs/NNS of/IN its/PRP$ funds/NNS to/TO complete/VB the/DT transaction/NN ./. This/DT so-called/JJ \"bridge/NN \"/'' financing/NN will/MD be/VB replaced/VBN later/RB with/IN long-term/JJ debt/NN most/RBS likely/JJ in/IN the/DT form/NN of/IN bank/NN loans/NNS ,/, Hutton/NNP said/VBD ./. Hutton/NNP LBO/NNP is/VBZ committed/VBN to/TO keeping/VBG the/DT courier/NN business/NN ,/, its/PRP$ president/NN Warren/NNP Idsal/NNP said/VBD ./. \"/`` Purolator/NNP lost/VBD 120/CD mln/NN dlrs/NNS over/IN the/DT last/JJ two/CD years/NNS largely/RB due/JJ to/TO U.S./NNP courier/NN operations/NNS ,/, which/WDT we/PRP believe/VBP the/DT management/NN is/VBZ turning/VBG around/RP ./. We/PRP belive/VBP it/PRP will/MD be/VB a/DT very/RB serious/JJ competitor/NN in/IN the/DT future/NN ,/, \"/'' said/VBD Idsal/NNP ./. William/NNP Taggart/NNP ,/, chief/JJ executive/JJ officer/NN of/IN U.S./NNP Courier/NNP division/NN ,/, will/MD be/VB chief/JJ executive/JJ officer/NN of/IN the/DT new/JJ company/NN ./. The/DT tender/NN offer/NN will/MD be/VB conditioned/VBN on/IN a/DT minimum/NN of/IN two/CD thirds/NNS of/IN the/DT common/JJ stock/NN being/VBG tendered/VBN and/CC not/RB withdrawn/VBN to/TO the/DT expiration/NN of/IN the/DT offer/NN as/RB well/RB as/IN certain/JJ other/JJ conditions/NNS ./. The/DT offer/NN will/MD begin/VB Thursday/NNP ,/, subject/NN to/TO clearances/NNS from/IN the/DT staff/NN of/IN the/DT Interstate/NNP Commerce/NNP Commission/NNP and/CC will/MD expire/VB 20/CD business/NN days/NNS after/IN commencement/NN unless/IN extended/VBN ./. Reuter/NNP"
+
+$`372`$POStags
+  [1] "NNP"  "JJ"   "JJ"   "NN"   "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "VBZ" 
+ [11] "VBN"  "TO"   "VB"   "VBN"  "IN"   "IN"   "CD"   "NN"   "NNS"  "IN"  
+ [21] "DT"   "NN"   "VBN"  "IN"   "NNP"  "NNP"  "NNP"  "NNP"  "CC"   "JJ"  
+ [31] "NNS"  "IN"   "NNP"  "POS"  "NNP"  "NN"   "NN"   "."    "NNS"  "VBP" 
+ [41] "VBD"  "IN"   "NNP"  "VBZ"  "VBN"  "IN"   "NN"   "IN"   "DT"   "NN"  
+ [51] "."    "NN"   "VBD"  "JJR"  "PRP"  "VBD"  "VBG"  "DT"   "NN"   "NN"  
+ [61] ","    "CC"   "NNS"  "RB"   "VBD"  "DT"   "NN"   "VBD"  "IN"   "DT"  
+ [71] "NN"   "NN"   "."    "NNP"  "NNP"  ","    "DT"   "RB"   "VBN"  "NN"  
+ [81] "IN"   "NNP"  "NNP"  "NNP"  "NNP"  ","    "MD"   "VB"   "NN"   "NN"  
+ [91] "IN"   "DT"   "NN"   "."    "NNP"  "VBD"  "DT"   "VBG"  "NN"   ","   
+[101] "NNP"  "NNP"  "NNP"  ","    "VBZ"  "VBG"  "CD"   "NNS"  "NN"   "IN"  
+[111] "NN"   "IN"   "CD"   "NN"   "IN"   "NNP"  "POS"  "NN"   "IN"   "DT"  
+[121] "NN"   "NN"   "TO"   "VB"   "NNP"  "."    "DT"   "NN"   "IN"   "DT"  
+[131] "NNS"  "MD"   "VB"   "VBN"  "IN"   "NNS"  "CC"   "NNS"  "TO"   "VB"  
+[141] "NN"   "IN"   "DT"   "NN"   "IN"   "NNP"  "NNP"  ","    "VBG"  "NNP" 
+[151] "POS"  "NNP"  "NN"   "NNS"  "."    "IN"   "PDT"  "DT"   "NNS"  "IN"  
+[161] "NNP"  "VBP"  "VBN"  ","    "NNS"  "MD"   "VB"   "IN"   "DT"   "NN"  
+[171] "CD"   "NNS"  "NN"   ","    "CD"   "NNS"  "IN"   "NNS"  ","    "CC"  
+[181] "DT"   "NN"   "TO"   "VB"   "NNS"  "IN"   "DT"   "NN"   "IN"   "NN"  
+[191] "NNP"  "VBG"  "DT"   "NNP"  "NN"   "NNS"  "."    "NNP"  "VBD"  "IN"  
+[201] "DT"   "NN"   "NNS"  "MD"   "VB"   "CD"   "NN"   "NNS"  "JJ"   "NN"  
+[211] "IN"   "VBN"  "NNS"  "JJ"   "CD"   "IN"   "NN"   "NNP"  "CC"   "NNS" 
+[221] "TO"   "VB"   "CD"   "NN"   "IN"   "DT"   "JJ"   "NN"   "IN"   "DT"  
+[231] "NN"   "NN"   "NN"   "."    "NNP"  "VBD"  "DT"   "NN"   "VBZ"  "VBN" 
+[241] "DT"   "NNS"  "IN"   "CD"   "TO"   "CD"   "NNS"  "IN"   "NN"   "."   
+[251] "NNP"  "POS"  "NN"   "NN"   "VBD"  "IN"   "CD"   "NNS"  "IN"   "NNP" 
+[261] "."    "IN"   "DT"   "NNS"  "VBD"  "DT"   "NN"   "VBD"  "JJ"   "IN"  
+[271] "DT"   "JJ"   "NNS"  ","    "IN"   "JJS"  "CD"   "VBD"  "PRP"  "MD"  
+[281] "VB"   "JJ"   "CD"   "TO"   "CD"   "NNS"  "."    "DT"   "VBZ"  "NNS" 
+[291] "IN"   "CD"   "JJ"   "NNP"  "NNS"  "."    "PRP"  "VBD"  "RB"   "TO"  
+[301] "VB"   "PRP$" "JJ"   "NNP"  "NN"   "TO"   "NNP"  "NNP"  "IN"   "CD"  
+[311] "NN"   "NNS"  ","    "CC"   "RB"   "VBN"  "PRP$" "NN"   "NNS"  "NN"  
+[321] "."    "NNP"  "VBZ"  "PRP$" "NNP"  "NN"   ","    "WDT"  "VBZ"  "NN"  
+[331] "NNS"  "IN"   "NNS"  "CC"   "NN"   "NNS"  "."    "DT"   "NNP"  "NN"  
+[341] "VBD"  "DT"   "NN"   "VBZ"  "VBG"  "PRP$" "NNS"  "IN"   "NNP"  "."   
+[351] "NNP"  "POS"  "NN"   "NN"   "VBZ"  "VBN"  "VBG"  "IN"   "IN"   "PRP$"
+[361] "NNP"  "NNS"  "IN"   "IN"   "DT"   "JJ"   "NN"   "PRP"  "VBD"  "IN"  
+[371] "DT"   "JJ"   "JJ"   "NNS"  "TO"   "VB"   "NN"   "NN"   "TO"   "PRP$"
+[381] "NN"   "NN"   "."    "NNP"  "NNP"  "MD"   "VB"   "CD"   "JJ"   "NNS" 
+[391] "IN"   "PRP$" "NNS"  "TO"   "VB"   "DT"   "NN"   "."    "DT"   "JJ"  
+[401] "NN"   "''"   "NN"   "MD"   "VB"   "VBN"  "RB"   "IN"   "JJ"   "NN"  
+[411] "RBS"  "JJ"   "IN"   "DT"   "NN"   "IN"   "NN"   "NNS"  ","    "NNP" 
+[421] "VBD"  "."    "NNP"  "NNP"  "VBZ"  "VBN"  "TO"   "VBG"  "DT"   "NN"  
+[431] "NN"   ","    "PRP$" "NN"   "NNP"  "NNP"  "VBD"  "."    "``"   "NNP" 
+[441] "VBD"  "CD"   "NN"   "NNS"  "IN"   "DT"   "JJ"   "CD"   "NNS"  "RB"  
+[451] "JJ"   "TO"   "NNP"  "NN"   "NNS"  ","    "WDT"  "PRP"  "VBP"  "DT"  
+[461] "NN"   "VBZ"  "VBG"  "RP"   "."    "PRP"  "VBP"  "PRP"  "MD"   "VB"  
+[471] "DT"   "RB"   "JJ"   "NN"   "IN"   "DT"   "NN"   ","    "''"   "VBD" 
+[481] "NNP"  "."    "NNP"  "NNP"  ","    "JJ"   "JJ"   "NN"   "IN"   "NNP" 
+[491] "NNP"  "NN"   ","    "MD"   "VB"   "JJ"   "JJ"   "NN"   "IN"   "DT"  
+[501] "JJ"   "NN"   "."    "DT"   "NN"   "NN"   "MD"   "VB"   "VBN"  "IN"  
+[511] "DT"   "NN"   "IN"   "CD"   "NNS"  "IN"   "DT"   "JJ"   "NN"   "VBG" 
+[521] "VBN"  "CC"   "RB"   "VBN"  "TO"   "DT"   "NN"   "IN"   "DT"   "NN"  
+[531] "RB"   "RB"   "IN"   "JJ"   "JJ"   "NNS"  "."    "DT"   "NN"   "MD"  
+[541] "VB"   "NNP"  ","    "NN"   "TO"   "NNS"  "IN"   "DT"   "NN"   "IN"  
+[551] "DT"   "NNP"  "NNP"  "NNP"  "CC"   "MD"   "VB"   "CD"   "NN"   "NNS" 
+[561] "IN"   "NN"   "IN"   "VBN"  "."    "NNP" 
+
+
+$`376`
+$`376`$POStagged
+[1] "Financial/NNP Corp/NNP of/IN Santa/NNP Barbara/NNP said/VBD it/PRP has/VBZ signed/VBN a/DT definitive/JJ agreement/NN to/TO purchase/VB Stanwell/NNP Financial/NNP ,/, the/DT lending/NN operations/NNS unit/NN of/IN mortgage/NN banking/NN company/NN <Stanwell/NNP Mortgage/NNP >/NNP ,/, for/IN undisclosed/JJ terms/NNS ./. Reuter/NNP"
+
+$`376`$POStags
+ [1] "NNP" "NNP" "IN"  "NNP" "NNP" "VBD" "PRP" "VBZ" "VBN" "DT"  "JJ"  "NN" 
+[13] "TO"  "VB"  "NNP" "NNP" ","   "DT"  "NN"  "NNS" "NN"  "IN"  "NN"  "NN" 
+[25] "NN"  "NNP" "NNP" "NNP" ","   "IN"  "JJ"  "NNS" "."   "NNP"
+
+
+$`379`
+$`379`$POStagged
+[1] "<Four/NN Seasons/NNS Hotels/NNP >/NNP said/VBD it/PRP and/CC <VMS/NNP Realty/NNP Partners/NNP >/NNP of/IN Chicago/NNP have/VBP agreed/VBN to/TO purchase/VB the/DT Santa/NNP Barbara/NNP Biltmore/NNP Hotel/NNP from/IN Marriott/NNP Corp/NNP for/IN an/DT undisclosed/JJ amount/NN ./. It/PRP said/VBD the/DT venture/NN will/MD rename/VB the/DT hotel/NN the/DT Four/CD Seasons/NNPS Biltmore/NNP at/IN Santa/NNP Barbara/NNP and/CC invest/VB over/IN 13/CD mln/NN dlrs/NNS in/IN improvements/NNS on/IN the/DT 228-room/JJ property/NN ./. Reuter/NNP"
+
+$`379`$POStags
+ [1] "NN"   "NNS"  "NNP"  "NNP"  "VBD"  "PRP"  "CC"   "NNP"  "NNP"  "NNP" 
+[11] "NNP"  "IN"   "NNP"  "VBP"  "VBN"  "TO"   "VB"   "DT"   "NNP"  "NNP" 
+[21] "NNP"  "NNP"  "IN"   "NNP"  "NNP"  "IN"   "DT"   "JJ"   "NN"   "."   
+[31] "PRP"  "VBD"  "DT"   "NN"   "MD"   "VB"   "DT"   "NN"   "DT"   "CD"  
+[41] "NNPS" "NNP"  "IN"   "NNP"  "NNP"  "CC"   "VB"   "IN"   "CD"   "NN"  
+[51] "NNS"  "IN"   "NNS"  "IN"   "DT"   "JJ"   "NN"   "."    "NNP" 
+
+
+$`387`
+$`387`$POStagged
+[1] "Investor/NNP David/NNP F./NNP La/NNP Roche/NNP of/IN North/NNP Kingstown/NNP ,/, R.I./NNP ,/, said/VBD he/PRP is/VBZ offering/VBG to/TO purchase/VB 170,000/CD common/JJ shares/NNS of/IN NECO/NNP Enterprises/NNPS Inc/NNP at/IN 26/CD dlrs/NNS each/DT ./. He/PRP said/VBD the/DT successful/JJ completion/NN of/IN the/DT offer/NN ,/, plus/CC shares/NNS he/PRP already/RB owns/VBZ ,/, would/MD give/VB him/PRP 50.5/CD pct/NN of/IN NECO/NNP 's/POS 962,016/CD common/JJ shares/NNS ./. La/NNP Roche/NNP said/VBD he/PRP may/MD buy/VB more/JJR ,/, and/CC possible/JJ all/DT NECO/NNP shares/NNS ./. He/PRP said/VBD the/DT offer/NN and/CC withdrawal/NN rights/NNS will/MD expire/VB at/IN 1630/CD EST/2130/CD gmt/NN ,/, March/NNP 30/CD ,/, 1987/CD ./. Reuter/NNP"
+
+$`387`$POStags
+ [1] "NNP"  "NNP"  "NNP"  "NNP"  "NNP"  "IN"   "NNP"  "NNP"  ","    "NNP" 
+[11] ","    "VBD"  "PRP"  "VBZ"  "VBG"  "TO"   "VB"   "CD"   "JJ"   "NNS" 
+[21] "IN"   "NNP"  "NNPS" "NNP"  "IN"   "CD"   "NNS"  "DT"   "."    "PRP" 
+[31] "VBD"  "DT"   "JJ"   "NN"   "IN"   "DT"   "NN"   ","    "CC"   "NNS" 
+[41] "PRP"  "RB"   "VBZ"  ","    "MD"   "VB"   "PRP"  "CD"   "NN"   "IN"  
+[51] "NNP"  "POS"  "CD"   "JJ"   "NNS"  "."    "NNP"  "NNP"  "VBD"  "PRP" 
+[61] "MD"   "VB"   "JJR"  ","    "CC"   "JJ"   "DT"   "NNP"  "NNS"  "."   
+[71] "PRP"  "VBD"  "DT"   "NN"   "CC"   "NN"   "NNS"  "MD"   "VB"   "IN"  
+[81] "CD"   "CD"   "NN"   ","    "NNP"  "CD"   ","    "CD"   "."    "NNP" 
+
+
+$`389`
+$`389`$POStagged
+[1] "<Senior/NNP Engineering/NNP Group/NNP Plc>/NNP said/VBD it/PRP reached/VBD agreement/NN with/IN <Cronus/NNP Industries/NNP Inc>/NNP to/TO acquire/VB the/DT whole/JJ share/NN capital/NN of/IN <South/NNP Western/NNP Engineering/NNP Co>/NNP for/IN 12.5/CD mln/NN dlrs/VBZ cash/NN ./. This/DT sum/NN is/VBZ being/VBG financed/VBN by/IN a/DT term/NN loan/NN ./. South/NNP Western/NNP is/VBZ one/CD of/IN the/DT U.S./NNP 's/POS leading/VBG manufacturers/NNS of/IN heat/NN transfer/NN equipment/NN ,/, with/IN a/DT turnover/NN of/IN 54.86/CD mln/NN dlrs/NNS and/CC pre-tax/JJ profits/NNS of/IN 1.72/CD mln/NN in/IN 1986/CD ./. Completion/NN of/IN the/DT deal/NN is/VBZ conditional/JJ on/IN approval/NN under/IN U.S./NNP Hart-Scott-Rodino/NNP regulations/NNS which/WDT is/VBZ expected/VBN within/IN 30/CD days/NNS ./. Some/DT 350,000/CD dlrs/NNS is/VBZ payable/JJ immediately/RB ,/, 12/CD mln/NN dlrs/NNS payable/JJ on/IN completion/NN with/IN the/DT balance/NN due/JJ by/IN June/NNP 30/CD ,/, 1987/CD ./. Reuter/NNP"
+
+$`389`$POStags
+  [1] "NNP" "NNP" "NNP" "NNP" "VBD" "PRP" "VBD" "NN"  "IN"  "NNP" "NNP" "NNP"
+ [13] "TO"  "VB"  "DT"  "JJ"  "NN"  "NN"  "IN"  "NNP" "NNP" "NNP" "NNP" "IN" 
+ [25] "CD"  "NN"  "VBZ" "NN"  "."   "DT"  "NN"  "VBZ" "VBG" "VBN" "IN"  "DT" 
+ [37] "NN"  "NN"  "."   "NNP" "NNP" "VBZ" "CD"  "IN"  "DT"  "NNP" "POS" "VBG"
+ [49] "NNS" "IN"  "NN"  "NN"  "NN"  ","   "IN"  "DT"  "NN"  "IN"  "CD"  "NN" 
+ [61] "NNS" "CC"  "JJ"  "NNS" "IN"  "CD"  "NN"  "IN"  "CD"  "."   "NN"  "IN" 
+ [73] "DT"  "NN"  "VBZ" "JJ"  "IN"  "NN"  "IN"  "NNP" "NNP" "NNS" "WDT" "VBZ"
+ [85] "VBN" "IN"  "CD"  "NNS" "."   "DT"  "CD"  "NNS" "VBZ" "JJ"  "RB"  ","  
+ [97] "CD"  "NN"  "NNS" "JJ"  "IN"  "NN"  "IN"  "DT"  "NN"  "JJ"  "IN"  "NNP"
+[109] "CD"  ","   "CD"  "."   "NNP"
+
+
+$`393`
+$`393`$POStagged
+[1] "Viacom/NNP International/NNP Inc/NNP said/VBD it/PRP received/VBD revised/VBN merger/NN offers/NNS from/IN <National/NNP Amusements/NNP Inc>/NNP and/CC <MCV/NNP Holdings/NNP Inc>/NNP ./. The/DT company/NN said/VBD the/DT special/JJ committee/NN plans/VBZ to/TO meet/VB later/RB today/RB to/TO review/VB both/DT offers/NNS ./. Viacom/NNP said/VBD National/NNP Amusements/NNP '/POS Arsenal/NNP Holdings/NNPS Inc/NNP raised/VBD the/DT value/NN of/IN its/PRP$ offer/NN for/IN the/DT Viacom/NNP shares/NNS not/RB held/VBN by/IN National/NNP Amusements/NNP in/IN three/CD areas/NNS ./. National/NNP Amusements/NNP holds/VBZ 19.6/CD pct/NN of/IN Viacom/NNP 's/POS stock/NN ./. The/DT cash/NN value/NN of/IN the/DT offer/NN was/VBD raised/VBN to/TO 42.00/CD dlrs/NNS from/IN the/DT 40.50/CD dlrs/NNS a/DT Viacom/NNP share/NN offered/VBD February/NNP 23/CD while/IN the/DT value/NN of/IN the/DT fraction/NN of/IN a/DT share/NN of/IN exchangeable/JJ preferred/VBN being/VBG offered/VBD was/VBD increased/VBN to/TO 7.50/CD dlrs/NNS a/DT share/NN from/IN six/CD dlrs/NNS ./. The/DT interest/NN rate/NN to/TO be/VB used/VBN to/TO increase/VB the/DT cash/NN value/NN of/IN the/DT merger/NN ,/, if/IN delayed/VBN beyond/IN April/NNP 30/CD ,/, was/VBD raised/VBN to/TO nine/CD pct/NN from/IN eight/CD pct/NN and/CC 12/CD pct/NN after/IN May/NNP 31/CD ./. A/DT Viacom/NNP spokesman/NN said/VBD the/DT Arsenal/NNP Holdings/NNP 's/POS offer/NN continues/VBZ to/TO include/VB a/DT 20/CD pct/JJ interest/NN in/IN Arsenal/NNP for/IN present/JJ Viacom/NNP shareholders/NNS ./. Viacom/NNP said/VBD MCV/NNP Holdings/NNP ,/, a/DT group/NN which/WDT includes/VBZ the/DT company/NN 's/POS senior/JJ management/NN and/CC the/DT Equitable/NNP Life/NNP Assurance/NNP Society/NNP of/IN the/DT United/NNP States/NNP ,/, raised/VBD the/DT value/NN of/IN its/PRP$ offer/NN by/IN increasing/VBG the/DT value/NN of/IN the/DT preferred/VBN being/NN offered/VBD to/TO 8.50/CD dlrs/NNS from/IN 8.00/CD dlrs/NNS a/DT share/NN and/CC raising/VBG the/DT ownership/NN in/IN the/DT new/JJ company/NN to/TO be/VB held/VBN by/IN present/JJ Viacom/NNP shareholders/NNS to/TO 45/CD pct/NN from/IN 25/CD pct/NN ./. MCV/NNP called/VBD its/PRP$ previous/JJ offer/NN ,/, made/VBN February/NNP 26/CD ,/, the/DT \"final/JJ \"/`` proposed/VBN revision/NN of/IN its/PRP$ agreement/NN with/IN Viacom/NNP ./. Reuter/NNP"
+
+$`393`$POStags
+  [1] "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "VBD"  "VBN"  "NN"   "NNS"  "IN"  
+ [11] "NNP"  "NNP"  "NNP"  "CC"   "NNP"  "NNP"  "NNP"  "."    "DT"   "NN"  
+ [21] "VBD"  "DT"   "JJ"   "NN"   "VBZ"  "TO"   "VB"   "RB"   "RB"   "TO"  
+ [31] "VB"   "DT"   "NNS"  "."    "NNP"  "VBD"  "NNP"  "NNP"  "POS"  "NNP" 
+ [41] "NNPS" "NNP"  "VBD"  "DT"   "NN"   "IN"   "PRP$" "NN"   "IN"   "DT"  
+ [51] "NNP"  "NNS"  "RB"   "VBN"  "IN"   "NNP"  "NNP"  "IN"   "CD"   "NNS" 
+ [61] "."    "NNP"  "NNP"  "VBZ"  "CD"   "NN"   "IN"   "NNP"  "POS"  "NN"  
+ [71] "."    "DT"   "NN"   "NN"   "IN"   "DT"   "NN"   "VBD"  "VBN"  "TO"  
+ [81] "CD"   "NNS"  "IN"   "DT"   "CD"   "NNS"  "DT"   "NNP"  "NN"   "VBD" 
+ [91] "NNP"  "CD"   "IN"   "DT"   "NN"   "IN"   "DT"   "NN"   "IN"   "DT"  
+[101] "NN"   "IN"   "JJ"   "VBN"  "VBG"  "VBD"  "VBD"  "VBN"  "TO"   "CD"  
+[111] "NNS"  "DT"   "NN"   "IN"   "CD"   "NNS"  "."    "DT"   "NN"   "NN"  
+[121] "TO"   "VB"   "VBN"  "TO"   "VB"   "DT"   "NN"   "NN"   "IN"   "DT"  
+[131] "NN"   ","    "IN"   "VBN"  "IN"   "NNP"  "CD"   ","    "VBD"  "VBN" 
+[141] "TO"   "CD"   "NN"   "IN"   "CD"   "NN"   "CC"   "CD"   "NN"   "IN"  
+[151] "NNP"  "CD"   "."    "DT"   "NNP"  "NN"   "VBD"  "DT"   "NNP"  "NNP" 
+[161] "POS"  "NN"   "VBZ"  "TO"   "VB"   "DT"   "CD"   "JJ"   "NN"   "IN"  
+[171] "NNP"  "IN"   "JJ"   "NNP"  "NNS"  "."    "NNP"  "VBD"  "NNP"  "NNP" 
+[181] ","    "DT"   "NN"   "WDT"  "VBZ"  "DT"   "NN"   "POS"  "JJ"   "NN"  
+[191] "CC"   "DT"   "NNP"  "NNP"  "NNP"  "NNP"  "IN"   "DT"   "NNP"  "NNP" 
+[201] ","    "VBD"  "DT"   "NN"   "IN"   "PRP$" "NN"   "IN"   "VBG"  "DT"  
+[211] "NN"   "IN"   "DT"   "VBN"  "NN"   "VBD"  "TO"   "CD"   "NNS"  "IN"  
+[221] "CD"   "NNS"  "DT"   "NN"   "CC"   "VBG"  "DT"   "NN"   "IN"   "DT"  
+[231] "JJ"   "NN"   "TO"   "VB"   "VBN"  "IN"   "JJ"   "NNP"  "NNS"  "TO"  
+[241] "CD"   "NN"   "IN"   "CD"   "NN"   "."    "NNP"  "VBD"  "PRP$" "JJ"  
+[251] "NN"   ","    "VBN"  "NNP"  "CD"   ","    "DT"   "JJ"   "``"   "VBN" 
+[261] "NN"   "IN"   "PRP$" "NN"   "IN"   "NNP"  "."    "NNP" 
+
+
+$`401`
+$`401`$POStagged
+[1] "<Miller/NNP Tabak/NNP Hirsch/NNP and/CC Co>/NNP said/VBD it/PRP has/VBZ received/VBN an/DT accepted/JJ 3,424,729/CD common/JJ shares/NNS of/IN Penn/NNP Traffic/NNP Co/NNP in/IN response/NN to/TO its/PRP$ 31.60/CD dlr/NN per/IN share/NN tender/NN offer/NN that/WDT expired/VBD Friday/NNP ,/, and/CC together/RB with/IN the/DT 380,728/CD shares/NNS it/PRP already/RB owned/VBD ,/, it/PRP now/RB has/VBZ about/IN 91.8/CD pct/NN of/IN Penn/NNP Traffic/NNP ./. The/DT company/NN said/VBD Penn/NNP Traffic/NNP is/VBZ expected/VBN to/TO hold/VB a/DT special/JJ shareholders/NNS '/POS meeting/NN later/RBR this/DT month/NN to/TO approve/VB a/DT merger/NN into/IN Miller/NNP Tabak/NNP at/IN the/DT tender/NN price/NN ./. It/PRP said/VBD two/CD Miller/NNP Tabak/NNP representatives/NNS will/MD be/VB named/VBN to/TO the/DT Penn/NNP Traffic/NNP board/NN on/IN March/NNP Four/CD to/TO serve/VB as/IN the/DT only/JJ directors/NNS with/IN Penn/NNP Traffic/NNP president/NN and/CC chief/JJ executive/NN officer/NN Guido/NNP Malacarne/NNP ./. The/DT company/NN said/VBD it/PRP received/VBD financing/NN for/IN the/DT transaction/NN from/IN First/NNP National/NNP Bank/NNP of/IN Minneapolis/NNP and/CC Salomon/NNP Inc/NNP <SB>/NNP ./. Reuter/NNP"
+
+$`401`$POStags
+  [1] "NNP"  "NNP"  "NNP"  "CC"   "NNP"  "VBD"  "PRP"  "VBZ"  "VBN"  "DT"  
+ [11] "JJ"   "CD"   "JJ"   "NNS"  "IN"   "NNP"  "NNP"  "NNP"  "IN"   "NN"  
+ [21] "TO"   "PRP$" "CD"   "NN"   "IN"   "NN"   "NN"   "NN"   "WDT"  "VBD" 
+ [31] "NNP"  ","    "CC"   "RB"   "IN"   "DT"   "CD"   "NNS"  "PRP"  "RB"  
+ [41] "VBD"  ","    "PRP"  "RB"   "VBZ"  "IN"   "CD"   "NN"   "IN"   "NNP" 
+ [51] "NNP"  "."    "DT"   "NN"   "VBD"  "NNP"  "NNP"  "VBZ"  "VBN"  "TO"  
+ [61] "VB"   "DT"   "JJ"   "NNS"  "POS"  "NN"   "RBR"  "DT"   "NN"   "TO"  
+ [71] "VB"   "DT"   "NN"   "IN"   "NNP"  "NNP"  "IN"   "DT"   "NN"   "NN"  
+ [81] "."    "PRP"  "VBD"  "CD"   "NNP"  "NNP"  "NNS"  "MD"   "VB"   "VBN" 
+ [91] "TO"   "DT"   "NNP"  "NNP"  "NN"   "IN"   "NNP"  "CD"   "TO"   "VB"  
+[101] "IN"   "DT"   "JJ"   "NNS"  "IN"   "NNP"  "NNP"  "NN"   "CC"   "JJ"  
+[111] "NN"   "NN"   "NNP"  "NNP"  "."    "DT"   "NN"   "VBD"  "PRP"  "VBD" 
+[121] "NN"   "IN"   "DT"   "NN"   "IN"   "NNP"  "NNP"  "NNP"  "IN"   "NNP" 
+[131] "CC"   "NNP"  "NNP"  "NNP"  "."    "NNP" 
+
+
+$`408`
+$`408`$POStagged
+[1] "Pittston/NNP Co/NNP said/VBD it/PRP has/VBZ tentatively/RB agreed/VBN to/TO acquire/VB WTC/NNP International/NNP N.V./NNP in/IN a/DT tax-free/JJ exchange/NN of/IN stock/NN ./. Pittston/NNP said/VBD it/PRP agreed/VBD to/TO exchange/VB 0.523/CD common/JJ share/NN for/IN each/DT of/IN the/DT about/RB 8,612,000/CD WTC/NNP common/JJ shares/NNS outstanding/JJ ./. Pittston/NNP said/VBD WTC/NNP 's/POS three/CD principal/JJ shareholders/NNS ,/, who/WP own/VBP 62/CD pct/NN of/IN its/PRP$ stock/NN ,/, are/VBP parties/NNS to/TO this/DT agreement/NN ./. They/PRP have/VBP granted/VBN Pittston/NNP the/DT right/NN of/IN first/JJ refusal/NN to/TO their/PRP$ shares/NNS ./. WTC/NNP has/VBZ granted/VBN Pittston/NNP an/DT option/NN to/TO buy/VB WTC/NNP shares/NNS equal/JJ to/TO 18.5/CD poct/NN of/IN its/PRP$ outstanding/JJ stock/NN ./. The/DT agreement/NN is/VBZ subject/JJ to/TO approval/NN of/IN both/DT boards/NNS and/CC WTC/NNP shareholders/NNS ./. Pittston/NNP said/VBD described/VBN WTC/NNP as/IN a/DT fast/RB growing/VBG air/NN freight/NN forwarding/VBG company/NN with/IN operations/NNS throughout/IN the/DT world/NN ./. Its/PRP$ revenues/NNS totaled/VBD nearly/RB 200/CD mln/NN dlrs/NNS in/IN the/DT year/NN ended/VBD November/NNP 30/CD and/CC for/IN the/DT quarter/NN ended/VBD on/IN that/DT date/NN it/PRP earned/VBD 1.3/CD mln/NN dlrs/NNS on/IN revenues/NNS of/IN 55.8/CD mln/NN dlrs/NNS ./. Pittston/NNP said/VBD its/PRP$ Burlington/NNP Air/NNP Express/NNP subsidiary/NN generates/VBZ about/IN two-thirds/NNS of/IN its/PRP$ 450/CD mln/JJ dlrs/NNS in/IN annual/JJ revenes/NNS with/IN its/PRP$ domestic/JJ air/NN freight/NN services/NNS ./. Reuter/NNP"
+
+$`408`$POStags
+  [1] "NNP"  "NNP"  "VBD"  "PRP"  "VBZ"  "RB"   "VBN"  "TO"   "VB"   "NNP" 
+ [11] "NNP"  "NNP"  "IN"   "DT"   "JJ"   "NN"   "IN"   "NN"   "."    "NNP" 
+ [21] "VBD"  "PRP"  "VBD"  "TO"   "VB"   "CD"   "JJ"   "NN"   "IN"   "DT"  
+ [31] "IN"   "DT"   "RB"   "CD"   "NNP"  "JJ"   "NNS"  "JJ"   "."    "NNP" 
+ [41] "VBD"  "NNP"  "POS"  "CD"   "JJ"   "NNS"  ","    "WP"   "VBP"  "CD"  
+ [51] "NN"   "IN"   "PRP$" "NN"   ","    "VBP"  "NNS"  "TO"   "DT"   "NN"  
+ [61] "."    "PRP"  "VBP"  "VBN"  "NNP"  "DT"   "NN"   "IN"   "JJ"   "NN"  
+ [71] "TO"   "PRP$" "NNS"  "."    "NNP"  "VBZ"  "VBN"  "NNP"  "DT"   "NN"  
+ [81] "TO"   "VB"   "NNP"  "NNS"  "JJ"   "TO"   "CD"   "NN"   "IN"   "PRP$"
+ [91] "JJ"   "NN"   "."    "DT"   "NN"   "VBZ"  "JJ"   "TO"   "NN"   "IN"  
+[101] "DT"   "NNS"  "CC"   "NNP"  "NNS"  "."    "NNP"  "VBD"  "VBN"  "NNP" 
+[111] "IN"   "DT"   "RB"   "VBG"  "NN"   "NN"   "VBG"  "NN"   "IN"   "NNS" 
+[121] "IN"   "DT"   "NN"   "."    "PRP$" "NNS"  "VBD"  "RB"   "CD"   "NN"  
+[131] "NNS"  "IN"   "DT"   "NN"   "VBD"  "NNP"  "CD"   "CC"   "IN"   "DT"  
+[141] "NN"   "VBD"  "IN"   "DT"   "NN"   "PRP"  "VBD"  "CD"   "NN"   "NNS" 
+[151] "IN"   "NNS"  "IN"   "CD"   "NN"   "NNS"  "."    "NNP"  "VBD"  "PRP$"
+[161] "NNP"  "NNP"  "NNP"  "NN"   "VBZ"  "IN"   "NNS"  "IN"   "PRP$" "CD"  
+[171] "JJ"   "NNS"  "IN"   "JJ"   "NNS"  "IN"   "PRP$" "JJ"   "NN"   "NN"  
+[181] "NNS"  "."    "NNP" 
+
+
+$`424`
+$`424`$POStagged
+[1] "Diagnostic/NNP Retrieval/NNP Systems/NNPS Inc/NNP said/VBD it/PRP has/VBZ made/VBN an/DT offer/NN to/TO acquire/VB ,/, through/IN a/DT wholly/RB owned/VBN unit/NN ,/, all/DT outstanding/JJ shares/NNS of/IN Rospatch/NNP Corp/NNP 's/POS common/JJ stock/NN for/IN 22/CD dlrs/NNS a/DT share/NN cash/NN ,/, or/CC about/IN 53/CD mln/NN dlrs/NNS ./. DRS/NNP ,/, a/DT warfare/NN systems/NNS producer/NN ,/, said/VBD it/PRP would/MD make/VB the/DT transaction/NN through/IN a/DT cash/NN tender/NN offer/NN for/IN all/DT ,/, but/CC not/RB less/JJR than/IN 51/CD pct/NN ,/, of/IN Rospatch/NNP 's/POS outstanding/JJ common/JJ stock/NN followed/VBN by/IN a/DT merger/NN with/IN Rospatch/NNP ,/, a/DT labels/NNS ,/, high/JJ technology/NN and/CC wood/NN producer/NN ,/, at/IN the/DT same/JJ purchase/NN price/NN per/IN share/NN ./. DRS/NNP said/VBD the/DT deal/NN is/VBZ subject/JJ to/TO approval/NN by/IN the/DT Rospatch/NNP board/NN ,/, and/CC the/DT tender/NN offer/NN expires/VBZ on/IN March/NNP 6/CD ,/, 1986/CD ./. Reuter/NNP"
+
+$`424`$POStags
+  [1] "NNP"  "NNP"  "NNPS" "NNP"  "VBD"  "PRP"  "VBZ"  "VBN"  "DT"   "NN"  
+ [11] "TO"   "VB"   ","    "IN"   "DT"   "RB"   "VBN"  "NN"   ","    "DT"  
+ [21] "JJ"   "NNS"  "IN"   "NNP"  "NNP"  "POS"  "JJ"   "NN"   "IN"   "CD"  
+ [31] "NNS"  "DT"   "NN"   "NN"   ","    "CC"   "IN"   "CD"   "NN"   "NNS" 
+ [41] "."    "NNP"  ","    "DT"   "NN"   "NNS"  "NN"   ","    "VBD"  "PRP" 
+ [51] "MD"   "VB"   "DT"   "NN"   "IN"   "DT"   "NN"   "NN"   "NN"   "IN"  
+ [61] "DT"   ","    "CC"   "RB"   "JJR"  "IN"   "CD"   "NN"   ","    "IN"  
+ [71] "NNP"  "POS"  "JJ"   "JJ"   "NN"   "VBN"  "IN"   "DT"   "NN"   "IN"  
+ [81] "NNP"  ","    "DT"   "NNS"  ","    "JJ"   "NN"   "CC"   "NN"   "NN"  
+ [91] ","    "IN"   "DT"   "JJ"   "NN"   "NN"   "IN"   "NN"   "."    "NNP" 
+[101] "VBD"  "DT"   "NN"   "VBZ"  "JJ"   "TO"   "NN"   "IN"   "DT"   "NNP" 
+[111] "NN"   ","    "CC"   "DT"   "NN"   "NN"   "VBZ"  "IN"   "NNP"  "CD"  
+[121] ","    "CD"   "."    "NNP" 
+
+
+$`436`
+$`436`$POStagged
+[1] "The/DT Japan/NNP Fund/NNP Inc/NNP said/VBD it/PRP has/VBZ received/VBN an/DT unsolicited/JJ offer/NN from/IN <Sterling/JJ Grace/NNP Capital/NNP Management/NNP LP>/NNP ,/, acting/VBG together/RB with/IN certain/JJ other/JJ persons/NNS and/CC entities/NNS ,/, to/TO purchase/VB all/PDT the/DT assets/NNS of/IN the/DT fund/NN at/IN five/CD pct/NN below/IN its/PRP$ aggregate/JJ net/JJ asset/NN value/NN ./. The/DT Japan/NNP Find/VB said/VBD tne/NN deal/NN is/VBZ subject/JJ to/TO obtaining/VBG satisfactory/JJ financing/NN and/CC a/DT due/JJ diligence/NN review/NN ./. It/PRP added/VBD that/IN the/DT proposal/NN has/VBZ been/VBN referred/VBN to/TO its/PRP$ Board/NNP of/IN Directors/NNS for/IN consideration/NN ./. Reuter/NNP"
+
+$`436`$POStags
+ [1] "DT"   "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "VBZ"  "VBN"  "DT"   "JJ"  
+[11] "NN"   "IN"   "JJ"   "NNP"  "NNP"  "NNP"  "NNP"  ","    "VBG"  "RB"  
+[21] "IN"   "JJ"   "JJ"   "NNS"  "CC"   "NNS"  ","    "TO"   "VB"   "PDT" 
+[31] "DT"   "NNS"  "IN"   "DT"   "NN"   "IN"   "CD"   "NN"   "IN"   "PRP$"
+[41] "JJ"   "JJ"   "NN"   "NN"   "."    "DT"   "NNP"  "VB"   "VBD"  "NN"  
+[51] "NN"   "VBZ"  "JJ"   "TO"   "VBG"  "JJ"   "NN"   "CC"   "DT"   "JJ"  
+[61] "NN"   "NN"   "."    "PRP"  "VBD"  "IN"   "DT"   "NN"   "VBZ"  "VBN" 
+[71] "VBN"  "TO"   "PRP$" "NNP"  "IN"   "NNS"  "IN"   "NN"   "."    "NNP" 
+
+
+$`441`
+$`441`$POStagged
+[1] "Bank/NNP of/IN New/NNP York/NNP Co/NNP said/VBD it/PRP and/CC the/DT management/NN of/IN RMJ/NNP Securities/NNPS Corp/NNP have/VBP agreed/VBN to/TO sell/VB 80/CD pct/NN of/IN their/PRP$ interests/NNS in/IN RMJ/NNP Holding/NNP Corp/NNP to/TO <British/JJ and/CC Commonwealth/NNP Holdings/NNP PLC/NNP >/NNP and/CC Bank/NNP of/IN New/NNP York/NNP expects/VBZ to/TO realize/VB a/DT substantial/JJ gain/NN on/IN the/DT transaction/NN ./. RMJ/NNP Holding/NNP is/VBZ the/DT holding/VBG company/NN for/IN RMJ/NNP Securities/NNP ,/, a/DT large/JJ broker/NN of/IN U.S./NNP government/NN securities/NNS and/CC agency/NN obligations/NNS Bank/NNP of/IN New/NNP York/NNP owns/VBZ a/DT majority/NN interest/NN in/IN RMJ/NNP Holding/NNP and/CC management/NN of/IN RMJ/NNP Securities/NNP the/DT remainder/NN ./. Bank/NNP of/IN New/NNP York/NNP said/VBD the/DT sale/NN is/VBZ expected/VBN to/TO be/VB completed/VBN during/IN the/DT second/JJ quarter/NN ./. It/PRP said/VBD it/PRP and/CC RMJ/NNP Securities/NNPS management/NN will/MD continue/VB to/TO own/VB 20/CD pct/NN of/IN RMJ/NNP Holding/NNP for/IN now/RB ,/, but/CC the/DT agreement/NN provides/VBZ for/IN the/DT sale/NN of/IN that/DT remaining/VBG interest/NN to/TO British/NNP and/CC Commonwealth/NNP over/IN the/DT next/JJ six/CD years/NNS ./. Reuter/NNP"
+
+$`441`$POStags
+  [1] "NNP"  "IN"   "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "CC"   "DT"   "NN"  
+ [11] "IN"   "NNP"  "NNPS" "NNP"  "VBP"  "VBN"  "TO"   "VB"   "CD"   "NN"  
+ [21] "IN"   "PRP$" "NNS"  "IN"   "NNP"  "NNP"  "NNP"  "TO"   "JJ"   "CC"  
+ [31] "NNP"  "NNP"  "NNP"  "NNP"  "CC"   "NNP"  "IN"   "NNP"  "NNP"  "VBZ" 
+ [41] "TO"   "VB"   "DT"   "JJ"   "NN"   "IN"   "DT"   "NN"   "."    "NNP" 
+ [51] "NNP"  "VBZ"  "DT"   "VBG"  "NN"   "IN"   "NNP"  "NNP"  ","    "DT"  
+ [61] "JJ"   "NN"   "IN"   "NNP"  "NN"   "NNS"  "CC"   "NN"   "NNS"  "NNP" 
+ [71] "IN"   "NNP"  "NNP"  "VBZ"  "DT"   "NN"   "NN"   "IN"   "NNP"  "NNP" 
+ [81] "CC"   "NN"   "IN"   "NNP"  "NNP"  "DT"   "NN"   "."    "NNP"  "IN"  
+ [91] "NNP"  "NNP"  "VBD"  "DT"   "NN"   "VBZ"  "VBN"  "TO"   "VB"   "VBN" 
+[101] "IN"   "DT"   "JJ"   "NN"   "."    "PRP"  "VBD"  "PRP"  "CC"   "NNP" 
+[111] "NNPS" "NN"   "MD"   "VB"   "TO"   "VB"   "CD"   "NN"   "IN"   "NNP" 
+[121] "NNP"  "IN"   "RB"   ","    "CC"   "DT"   "NN"   "VBZ"  "IN"   "DT"  
+[131] "NN"   "IN"   "DT"   "VBG"  "NN"   "TO"   "NNP"  "CC"   "NNP"  "IN"  
+[141] "DT"   "JJ"   "CD"   "NNS"  "."    "NNP" 
+
+
+$`442`
+$`442`$POStagged
+[1] "Corning/NNP Glass/NNP Works/NNP said/VBD the/DT exchange/NN ratio/NN for/IN its/PRP$ previously/RB announced/VBN acquisition/NN of/IN Hazleton/NNP Laboratories/NNP Corp/NNP has/VBZ been/VBN established/VBN at/IN 0.5165/CD Corning/NNP common/JJ share/NN for/IN each/DT Hazleton/NNP common/JJ share/NN ./. Corning/NNP said/VBD the/DT prospectus/NN regarding/VBG the/DT merger/NN is/VBZ expected/VBN to/TO be/VB mailed/VBN tomorrow/NN to/TO all/DT Hazleton/NNP holders/NNS of/IN record/NN February/NNP 18/CD ./. Hazleton/NNP shareholders/NNS will/MD vote/VB on/IN the/DT proposed/VBN merger/NN at/IN a/DT special/JJ meeting/NN on/IN March/NNP 31/CD ./. Reuter/NNP"
+
+$`442`$POStags
+ [1] "NNP"  "NNP"  "NNP"  "VBD"  "DT"   "NN"   "NN"   "IN"   "PRP$" "RB"  
+[11] "VBN"  "NN"   "IN"   "NNP"  "NNP"  "NNP"  "VBZ"  "VBN"  "VBN"  "IN"  
+[21] "CD"   "NNP"  "JJ"   "NN"   "IN"   "DT"   "NNP"  "JJ"   "NN"   "."   
+[31] "NNP"  "VBD"  "DT"   "NN"   "VBG"  "DT"   "NN"   "VBZ"  "VBN"  "TO"  
+[41] "VB"   "VBN"  "NN"   "TO"   "DT"   "NNP"  "NNS"  "IN"   "NN"   "NNP" 
+[51] "CD"   "."    "NNP"  "NNS"  "MD"   "VB"   "IN"   "DT"   "VBN"  "NN"  
+[61] "IN"   "DT"   "JJ"   "NN"   "IN"   "NNP"  "CD"   "."    "NNP" 
+
+
+$`447`
+$`447`$POStagged
+[1] "Bally/NNP Manufacturing/NNP Corp/NNP said/VBD it/PRP completed/VBD the/DT acquisition/NN of/IN the/DT Golden/NNP Nugget/NNP Casino/NNP Hotel/NNP in/IN Atlantic/NNP City/NNP ,/, New/NNP Jersey/NNP from/IN Golden/NNP Nugget/NNP Inc./NNP Bally/NNP also/RB acquired/VBD from/IN Golden/NNP Nugget/NNP various/JJ parcels/NNS of/IN real/JJ estate/NN in/IN Atlantic/NNP City/NNP ,/, it/PRP noted/VBD ./. The/DT transaction/NN included/VBD 140/CD mln/JJ dlrs/NNS in/IN cash/NN and/CC stock/NN and/CC the/DT assumption/NN of/IN a/DT 299/CD mln/NN dlrs/NNS mortgage/NN ./. Reuter/NNP"
+
+$`447`$POStags
+ [1] "NNP" "NNP" "NNP" "VBD" "PRP" "VBD" "DT"  "NN"  "IN"  "DT"  "NNP" "NNP"
+[13] "NNP" "NNP" "IN"  "NNP" "NNP" ","   "NNP" "NNP" "IN"  "NNP" "NNP" "NNP"
+[25] "NNP" "RB"  "VBD" "IN"  "NNP" "NNP" "JJ"  "NNS" "IN"  "JJ"  "NN"  "IN" 
+[37] "NNP" "NNP" ","   "PRP" "VBD" "."   "DT"  "NN"  "VBD" "CD"  "JJ"  "NNS"
+[49] "IN"  "NN"  "CC"  "NN"  "CC"  "DT"  "NN"  "IN"  "DT"  "CD"  "NN"  "NNS"
+[61] "NN"  "."   "NNP"
+
+
+$`448`
+$`448`$POStagged
+[1] "<Consolidated/VBN TVX/NNP Mining/NNP Corp>/NNP said/VBD it/PRP agreed/VBD to/TO issue/VB 7.8/CD mln/NN treasury/NN shares/NNS to/TO acquire/VB interests/NNS in/IN three/CD gold/JJ mining/NN companies/NNS in/IN Brazil/NNP and/CC an/DT option/NN to/TO increase/VB the/DT company/NN 's/POS interest/NN in/IN a/DT platinum/NN property/NN ./. The/DT company/NN said/VBD the/DT transactions/NNS will/MD bring/VB immediate/JJ production/NN and/CC earnings/NNS to/TO Consolidated/NNP TVX/NNP ,/, enhance/VB its/PRP$ precious/JJ metal/NN potential/NN and/CC is/VBZ expected/VBN to/TO improve/VB cash/NN flow/NN and/CC earnings/NNS on/IN a/DT per/FW share/NN basis/NN ./. The/DT company/NN did/VBD not/RB give/VB specific/JJ figures/NNS ./. Consolidated/NNP TVX/NNP said/VBD it/PRP will/MD acquire/VB 29/CD pct/NN of/IN CMP/NNP ,/, a/DT public/JJ gold/NN mining/NN company/NN in/IN which/WDT TVX/NNP already/RB holds/VBZ a/DT 15/CD pct/JJ interest/NN ,/, making/VBG TVX/NNP the/DT largest/JJS single/JJ shareholder/NN ./. The/DT company/NN also/RB agreed/VBD to/TO acquire/VB a/DT 19/CD pct/NN stake/NN in/IN Novo/NNP Astro/NNP ,/, a/DT private/JJ company/NN ,/, and/CC a/DT 16/CD pct/JJ interest/NN in/IN Teles/NNP Pires/NNP Mining/NNP ,/, increasing/VBG the/DT TVX/NNP 's/POS ownership/NN to/TO 51/CD pct/NN ./. In/IN addition/NN ,/, Consolidated/NNP TVX/NNP said/VBD it/PRP will/MD acquire/VB the/DT right/NN to/TO add/VB a/DT 10/CD pct/JJ interest/NN to/TO a/DT platinum/NN property/NN in/IN which/WDT it/PRP already/RB owns/VBZ a/DT 29.4/CD pct/NN stake/NN ./. CMP/NNP earned/VBD 11/CD mln/NN Canadian/JJ dlrs/NNS in/IN 1986/CD and/CC expects/VBZ to/TO produce/VB 42,000/CD ounces/NNS of/IN gold/NN in/IN 1987/CD at/IN a/DT cost/NN of/IN 160/CD U.S./NNP dlrs/NNS an/DT ounce/NN ,/, Consolidated/NNP TVX/NNP said/VBD ./. Novo/NNP Astro/NNP operates/VBZ Brazil/NNP 's/POS richest/JJS gold/NN mine/NN located/VBN in/IN Amapa/NNP State/NNP ,/, with/IN an/DT average/JJ grade/NN of/IN 0.8/CD ounces/NNS of/IN gold/NN a/DT ton/NN in/IN a/DT hardrock/NN quartz/NN vein/NN ,/, Consolidated/NNP TVX/NNP said/VBD ./. Mining/NNP of/IN eluvial/JJ surface/NN material/NN produced/VBD 25,000/CD ounces/NNS in/IN 1986/CD and/CC is/VBZ expected/VBN to/TO produce/VB 60,000/CD ounces/NNS in/IN 1987/CD ./. It/PRP also/RB said/VBD Teles/NNP Pires/NNP Mining/NNP controls/VBZ rights/NNS to/TO a/DT 350/CD kilometer/NN section/NN of/IN the/DT Teles/NNP Pires/NNP River/NNP ,/, where/WRB one/CD dredge/NN is/VBZ expected/VBN to/TO produce/VB 10,000/CD ounces/NNS of/IN gold/NN in/IN 1987/CD ./. Reuter/NNP"
+
+$`448`$POStags
+  [1] "VBN"  "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "VBD"  "TO"   "VB"   "CD"  
+ [11] "NN"   "NN"   "NNS"  "TO"   "VB"   "NNS"  "IN"   "CD"   "JJ"   "NN"  
+ [21] "NNS"  "IN"   "NNP"  "CC"   "DT"   "NN"   "TO"   "VB"   "DT"   "NN"  
+ [31] "POS"  "NN"   "IN"   "DT"   "NN"   "NN"   "."    "DT"   "NN"   "VBD" 
+ [41] "DT"   "NNS"  "MD"   "VB"   "JJ"   "NN"   "CC"   "NNS"  "TO"   "NNP" 
+ [51] "NNP"  ","    "VB"   "PRP$" "JJ"   "NN"   "NN"   "CC"   "VBZ"  "VBN" 
+ [61] "TO"   "VB"   "NN"   "NN"   "CC"   "NNS"  "IN"   "DT"   "FW"   "NN"  
+ [71] "NN"   "."    "DT"   "NN"   "VBD"  "RB"   "VB"   "JJ"   "NNS"  "."   
+ [81] "NNP"  "NNP"  "VBD"  "PRP"  "MD"   "VB"   "CD"   "NN"   "IN"   "NNP" 
+ [91] ","    "DT"   "JJ"   "NN"   "NN"   "NN"   "IN"   "WDT"  "NNP"  "RB"  
+[101] "VBZ"  "DT"   "CD"   "JJ"   "NN"   ","    "VBG"  "NNP"  "DT"   "JJS" 
+[111] "JJ"   "NN"   "."    "DT"   "NN"   "RB"   "VBD"  "TO"   "VB"   "DT"  
+[121] "CD"   "NN"   "NN"   "IN"   "NNP"  "NNP"  ","    "DT"   "JJ"   "NN"  
+[131] ","    "CC"   "DT"   "CD"   "JJ"   "NN"   "IN"   "NNP"  "NNP"  "NNP" 
+[141] ","    "VBG"  "DT"   "NNP"  "POS"  "NN"   "TO"   "CD"   "NN"   "."   
+[151] "IN"   "NN"   ","    "NNP"  "NNP"  "VBD"  "PRP"  "MD"   "VB"   "DT"  
+[161] "NN"   "TO"   "VB"   "DT"   "CD"   "JJ"   "NN"   "TO"   "DT"   "NN"  
+[171] "NN"   "IN"   "WDT"  "PRP"  "RB"   "VBZ"  "DT"   "CD"   "NN"   "NN"  
+[181] "."    "NNP"  "VBD"  "CD"   "NN"   "JJ"   "NNS"  "IN"   "CD"   "CC"  
+[191] "VBZ"  "TO"   "VB"   "CD"   "NNS"  "IN"   "NN"   "IN"   "CD"   "IN"  
+[201] "DT"   "NN"   "IN"   "CD"   "NNP"  "NNS"  "DT"   "NN"   ","    "NNP" 
+[211] "NNP"  "VBD"  "."    "NNP"  "NNP"  "VBZ"  "NNP"  "POS"  "JJS"  "NN"  
+[221] "NN"   "VBN"  "IN"   "NNP"  "NNP"  ","    "IN"   "DT"   "JJ"   "NN"  
+[231] "IN"   "CD"   "NNS"  "IN"   "NN"   "DT"   "NN"   "IN"   "DT"   "NN"  
+[241] "NN"   "NN"   ","    "NNP"  "NNP"  "VBD"  "."    "NNP"  "IN"   "JJ"  
+[251] "NN"   "NN"   "VBD"  "CD"   "NNS"  "IN"   "CD"   "CC"   "VBZ"  "VBN" 
+[261] "TO"   "VB"   "CD"   "NNS"  "IN"   "CD"   "."    "PRP"  "RB"   "VBD" 
+[271] "NNP"  "NNP"  "NNP"  "VBZ"  "NNS"  "TO"   "DT"   "CD"   "NN"   "NN"  
+[281] "IN"   "DT"   "NNP"  "NNP"  "NNP"  ","    "WRB"  "CD"   "NN"   "VBZ" 
+[291] "VBN"  "TO"   "VB"   "CD"   "NNS"  "IN"   "NN"   "IN"   "CD"   "."   
+[301] "NNP" 
+
+
+$`467`
+$`467`$POStagged
+[1] "American/NNP Nursery/NNP Products/NNPS Inc/NNP said/VBD it/PRP purchased/VBD Miami-based/JJ Heinl/NNP 's/POS Nursery/NN Inc/NNP ,/, for/IN undisclosed/JJ terms/NNS ./. Heinl/NNP 's/POS Nursery/NN has/VBZ sales/NNS of/IN about/RB 4.5/CD mln/NN dlrs/NNS and/CC owns/VBZ 100/CD acres/NNS ,/, of/IN which/WDT 75/CD are/VBP in/IN shade/NN houses/NNS and/CC about/IN 58,300/CD square/JJ feet/NNS cover/VBP greenhouses/NNS ,/, shipping/NN and/CC office/NN facilities/NNS ./. Reuter/NNP"
+
+$`467`$POStags
+ [1] "NNP"  "NNP"  "NNPS" "NNP"  "VBD"  "PRP"  "VBD"  "JJ"   "NNP"  "POS" 
+[11] "NN"   "NNP"  ","    "IN"   "JJ"   "NNS"  "."    "NNP"  "POS"  "NN"  
+[21] "VBZ"  "NNS"  "IN"   "RB"   "CD"   "NN"   "NNS"  "CC"   "VBZ"  "CD"  
+[31] "NNS"  ","    "IN"   "WDT"  "CD"   "VBP"  "IN"   "NN"   "NNS"  "CC"  
+[41] "IN"   "CD"   "JJ"   "NNS"  "VBP"  "NNS"  ","    "NN"   "CC"   "NN"  
+[51] "NNS"  "."    "NNP" 
+
+
+$`473`
+$`473`$POStagged
+[1] "<Multi-Step/NN Products/NNP Inc>/NNP ,/, earlier/RB reporting/VBG an/DT initial/JJ six/CD month/NN loss/NN ,/, said/VBD it/PRP agreed/VBD to/TO sell/VB wholly/RB owned/VBN Multi-Step/NNP Manufacturing/NNP Inc/NNP for/IN 100,000/CD dlrs/NNS cash/NN ,/, subject/JJ to/TO shareholder/NN and/CC regulatory/JJ approval/NN ./. Multi-Step/VB also/RB said/VBD it/PRP will/MD pay/VB 900,000/CD dlrs/NNS to/TO cancel/VB 711,192/CD of/IN its/PRP$ own/JJ shares/NNS ,/, which/WDT will/MD be/VB acquired/VBN from/IN Michael/NNP Penhale/NNP and/CC his/PRP$ benficiaries/NNS ./. Penhale/NNP will/MD control/VB and/CC manage/VB Multi-Step/NNP Manufacturing/NNP ,/, following/VBG the/DT transactions/NNS ./. Multi-Step/NN had/VBD a/DT 739,146/CD dlr/JJ loss/NN for/IN the/DT six/CD months/NNS ended/VBN December/NNP 31/CD ./. The/DT company/NN received/VBD its/PRP$ initial/JJ public/JJ listing/NN in/IN December/NNP ./. The/DT company/NN said/VBD its/PRP$ ladder-making/JJ unit/NN has/VBZ been/VBN losing/VBG 300,000/CD dlrs/NNS quarterly/JJ ./. The/DT sale/NN ,/, expected/VBN to/TO close/VB in/IN April/NNP ,/, also/RB calls/VBZ for/IN retirement/NN of/IN the/DT unit/NN 's/POS 400,000/CD dlr/JJ bank/NN debt/NN ,/, Multi-Step/NNP said/VBD ./. The/DT unit/NN also/RB has/VBZ agreed/VBN to/TO pay/VB a/DT debt/NN of/IN 400,000/CD dlrs/NNS to/TO Tarxien/NNP Company/NNP Ltd/NNP ,/, which/WDT is/VBZ 40/CD pct/NN owned/VBN by/IN Multi-Step./NNP Multi-Step/NNP previously/RB said/VBD it/PRP agreed/VBD to/TO acquire/VB the/DT remaining/VBG 60/CD pct/NN of/IN Tarxien/NNP it/PRP does/VBZ not/RB already/RB own/JJ ./. Reuter/NNP"
+
+$`473`$POStags
+  [1] "NN"   "NNP"  "NNP"  ","    "RB"   "VBG"  "DT"   "JJ"   "CD"   "NN"  
+ [11] "NN"   ","    "VBD"  "PRP"  "VBD"  "TO"   "VB"   "RB"   "VBN"  "NNP" 
+ [21] "NNP"  "NNP"  "IN"   "CD"   "NNS"  "NN"   ","    "JJ"   "TO"   "NN"  
+ [31] "CC"   "JJ"   "NN"   "."    "VB"   "RB"   "VBD"  "PRP"  "MD"   "VB"  
+ [41] "CD"   "NNS"  "TO"   "VB"   "CD"   "IN"   "PRP$" "JJ"   "NNS"  ","   
+ [51] "WDT"  "MD"   "VB"   "VBN"  "IN"   "NNP"  "NNP"  "CC"   "PRP$" "NNS" 
+ [61] "."    "NNP"  "MD"   "VB"   "CC"   "VB"   "NNP"  "NNP"  ","    "VBG" 
+ [71] "DT"   "NNS"  "."    "NN"   "VBD"  "DT"   "CD"   "JJ"   "NN"   "IN"  
+ [81] "DT"   "CD"   "NNS"  "VBN"  "NNP"  "CD"   "."    "DT"   "NN"   "VBD" 
+ [91] "PRP$" "JJ"   "JJ"   "NN"   "IN"   "NNP"  "."    "DT"   "NN"   "VBD" 
+[101] "PRP$" "JJ"   "NN"   "VBZ"  "VBN"  "VBG"  "CD"   "NNS"  "JJ"   "."   
+[111] "DT"   "NN"   ","    "VBN"  "TO"   "VB"   "IN"   "NNP"  ","    "RB"  
+[121] "VBZ"  "IN"   "NN"   "IN"   "DT"   "NN"   "POS"  "CD"   "JJ"   "NN"  
+[131] "NN"   ","    "NNP"  "VBD"  "."    "DT"   "NN"   "RB"   "VBZ"  "VBN" 
+[141] "TO"   "VB"   "DT"   "NN"   "IN"   "CD"   "NNS"  "TO"   "NNP"  "NNP" 
+[151] "NNP"  ","    "WDT"  "VBZ"  "CD"   "NN"   "VBN"  "IN"   "NNP"  "NNP" 
+[161] "RB"   "VBD"  "PRP"  "VBD"  "TO"   "VB"   "DT"   "VBG"  "CD"   "NN"  
+[171] "IN"   "NNP"  "PRP"  "VBZ"  "RB"   "RB"   "JJ"   "."    "NNP" 
+
+
+$`474`
+$`474`$POStagged
+[1] "Esselte/NNP Business/NNP Systems/NNPS Inc/NNP 's/POS Esselte/NNP Meto/NNP division/NN said/VBD it/PRP has/VBZ acquired/VBN the/DT Antonson/NNP America/NNP Co/NNP ,/, a/DT subsidiary/NN of/IN <Antonson/NNP Machines/NNP AB>/NNP ,/, of/IN Sweden/NNP ./. Esselte/NNP said/VBD the/DT Antonson/NNP unit/NN ,/, based/VBN in/IN LaPorte/NNP ,/, Indiana/NNP ,/, manufactures/VBZ scales/NNS and/CC label/NN printers/NNS ./. The/DT company/NN said/VBD the/DT purchase/NN is/VBZ part/NN of/IN a/DT plan/NN to/TO increase/VB the/DT range/NN of/IN retail/JJ electronic/JJ scales/NNS being/VBG offered/VBN by/IN Esselte/NNP in/IN the/DT U.S./NNP It/PRP said/VBD the/DT acquisition/NN will/MD enble/VB Esselte/NNP to/TO increase/VB its/PRP$ distribution/NN base/NN in/IN its/PRP$ effort/NN to/TO grow/VB in/IN the/DT U.S./NNP Reuter/NNP"
+
+$`474`$POStags
+ [1] "NNP"  "NNP"  "NNPS" "NNP"  "POS"  "NNP"  "NNP"  "NN"   "VBD"  "PRP" 
+[11] "VBZ"  "VBN"  "DT"   "NNP"  "NNP"  "NNP"  ","    "DT"   "NN"   "IN"  
+[21] "NNP"  "NNP"  "NNP"  ","    "IN"   "NNP"  "."    "NNP"  "VBD"  "DT"  
+[31] "NNP"  "NN"   ","    "VBN"  "IN"   "NNP"  ","    "NNP"  ","    "VBZ" 
+[41] "NNS"  "CC"   "NN"   "NNS"  "."    "DT"   "NN"   "VBD"  "DT"   "NN"  
+[51] "VBZ"  "NN"   "IN"   "DT"   "NN"   "TO"   "VB"   "DT"   "NN"   "IN"  
+[61] "JJ"   "JJ"   "NNS"  "VBG"  "VBN"  "IN"   "NNP"  "IN"   "DT"   "NNP" 
+[71] "PRP"  "VBD"  "DT"   "NN"   "MD"   "VB"   "NNP"  "TO"   "VB"   "PRP$"
+[81] "NN"   "NN"   "IN"   "PRP$" "NN"   "TO"   "VB"   "IN"   "DT"   "NNP" 
+[91] "NNP" 
+
+
+$`478`
+$`478`$POStagged
+[1] "<Four/NN Seasons/NNS Hotels/NNP Inc>/NNP and/CC VMS/NNP Realty/NNP Partners/NNPS said/VBD they/PRP agreed/VBD to/TO acquire/VB the/DT Santa/NNP Barbara/NNP Biltmore/NNP Hotel/NNP in/IN California/NNP from/IN Marriott/NNP Corp/NNP ,/, for/IN undisclosed/JJ terms/NNS ./. Closing/NN was/VBD expected/VBN by/IN March/NNP 31/CD ,/, they/PRP added/VBD ./. The/DT companies/NNS said/VBD they/PRP would/MD jointly/RB own/VB the/DT hotel/NN and/CC rename/NN it/PRP the/DT Four/CD Seasons/NNPS Biltmore/NNP at/IN Santa/NNP Barbara/NNP ./. They/PRP said/VBD they/PRP would/MD spend/VB more/JJR than/IN 13/CD mln/JJ U.S./NNP dlrs/NNS \"/`` to/TO enhance/VB the/DT Biltmore/NNP 's/POS position/NN as/IN one/CD of/IN the/DT finest/JJS resort/NN hotels/NNS in/IN North/NNP America/NNP ./. \"/'' Chicago-based/JJ VMS/NNP Realty/NNP is/VBZ a/DT real/JJ estate/NN and/CC development/NN firm/NN ./. Reuter/NNP"
+
+$`478`$POStags
+  [1] "NN"   "NNS"  "NNP"  "NNP"  "CC"   "NNP"  "NNP"  "NNPS" "VBD"  "PRP" 
+ [11] "VBD"  "TO"   "VB"   "DT"   "NNP"  "NNP"  "NNP"  "NNP"  "IN"   "NNP" 
+ [21] "IN"   "NNP"  "NNP"  ","    "IN"   "JJ"   "NNS"  "."    "NN"   "VBD" 
+ [31] "VBN"  "IN"   "NNP"  "CD"   ","    "PRP"  "VBD"  "."    "DT"   "NNS" 
+ [41] "VBD"  "PRP"  "MD"   "RB"   "VB"   "DT"   "NN"   "CC"   "NN"   "PRP" 
+ [51] "DT"   "CD"   "NNPS" "NNP"  "IN"   "NNP"  "NNP"  "."    "PRP"  "VBD" 
+ [61] "PRP"  "MD"   "VB"   "JJR"  "IN"   "CD"   "JJ"   "NNP"  "NNS"  "``"  
+ [71] "TO"   "VB"   "DT"   "NNP"  "POS"  "NN"   "IN"   "CD"   "IN"   "DT"  
+ [81] "JJS"  "NN"   "NNS"  "IN"   "NNP"  "NNP"  "."    "''"   "JJ"   "NNP" 
+ [91] "NNP"  "VBZ"  "DT"   "JJ"   "NN"   "CC"   "NN"   "NN"   "."    "NNP" 
+
+
+$`496`
+$`496`$POStagged
+[1] "Investor/NNP Sumner/NNP Redstone/NNP ,/, who/WP leads/VBZ one/CD of/IN the/DT two/CD groups/NNS vying/VBG for/IN control/NN of/IN Viacom/NNP International/NNP Inc/NNP ,/, offered/VBD to/TO sweeten/VB his/PRP$ bid/NN for/IN the/DT company/NN by/IN 1.50/CD dlrs/NNS a/DT share/NN cash/NN and/CC 1.50/CD dlrs/NNS in/IN securities/NNS ./. In/IN a/DT filing/NN with/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP ,/, Redstone/NNP ,/, who/WP controls/VBZ Dedham/NNP ,/, Mass.,-based/JJ National/NNP Amusements/NNP Inc/NNP ,/, a/DT theater/NN chain/NN operator/NN ,/, offered/VBD to/TO raise/VB the/DT cash/NN portion/NN of/IN its/PRP$ Viacom/NNP offer/NN to/TO 42/CD dlrs/NNS a/DT share/NN from/IN 40.50/CD dlrs/NNS ./. Redstone/NN also/RB raised/VBD the/DT face/NN value/NN of/IN the/DT preferred/JJ stock/NN he/PRP is/VBZ offering/VBG to/TO 7.50/CD dlrs/NNS from/IN six/CD dlrs/NNS ./. The/DT Redstone/NNP offer/NN ,/, which/WDT is/VBZ being/VBG made/VBN through/IN Arsenal/NNP Holdings/NNP Inc/NNP ,/, a/DT National/NNP Amusements/NNP subsidiary/NN set/VBN up/RP for/IN that/DT purpose/NN ,/, which/WDT also/RB give/VBP Viacom/NNP shareholders/NNS one-fifth/NN of/IN a/DT share/NN of/IN Arsenal/NNP common/JJ stock/NN after/IN the/DT takeover/NN ./. Viacom/NNP said/VBD earlier/JJR today/NN it/PRP received/VBD revised/VBN takeover/NN bids/NNS from/IN Redstone/NNP and/CC MCV/NNP Holdings/NNP Inc/NNP ,/, a/DT group/NN led/VBN by/IN Viacom/NNP management/NN which/WDT is/VBZ competing/VBG with/IN Redstone/NN for/IN control/NN of/IN the/DT company/NN and/CC already/RB has/VBZ a/DT formal/JJ merger/NN agreement/NN with/IN Viacom/NNP ./. The/DT company/NN did/VBD not/RB disclose/VB the/DT details/NNS of/IN the/DT revised/JJ offers/NNS ,/, but/CC said/VBD a/DT special/JJ committee/NN of/IN its/PRP$ board/NN would/MD review/VB them/PRP later/RB today/RB ./. The/DT Redstone/NNP group/NN ,/, which/WDT has/VBZ a/DT 19.5/CD pct/NN stake/NN in/IN Viacom/NNP ,/, and/CC the/DT management/NN group/NN ,/, which/WDT has/VBZ a/DT 5.4/CD pct/NN stake/NN ,/, have/VBP both/DT agreed/VBD not/RB to/TO buy/VB more/JJR shares/NNS of/IN the/DT company/NN until/IN a/DT merger/NN is/VBZ completed/VBN ,/, unless/IN the/DT purchases/NNS are/VBP part/NN of/IN a/DT tender/NN offer/NN for/IN at/IN least/JJS half/NN of/IN the/DT outstanding/JJ stock/NN ./. The/DT two/CD rivals/NNS also/RB signed/VBD confidentiality/NN agreements/NNS ,/, which/WDT give/VBP them/PRP access/NN to/TO Viacom/NNP 's/POS financial/JJ records/NNS provided/VBN they/PRP keep/VB the/DT information/NN secret/NN ./. In/IN his/PRP$ SEC/NNP filing/NN ,/, Redstone/NNP ,/, who/WP estimated/VBD his/PRP$ cost/NN of/IN completing/VBG the/DT takeover/NN at/IN 2.95/CD billion/CD dlrs/NNS ,/, said/VBD Bank/NNP of/IN America/NNP is/VBZ confident/JJ it/PRP can/MD raise/VB 2.275/CD billion/CD dlrs/NNS ./. Besides/IN the/DT financing/NN it/PRP would/MD raise/VB through/IN a/DT bank/NN syndicate/NN ,/, Bank/NNP of/IN America/NNP has/VBZ also/RB agreed/VBN to/TO provide/VB a/DT separate/JJ 25/CD mln/NN dlr/NN for/IN the/DT limited/JJ purpose/NN of/IN partial/JJ financing/NN and/CC has/VBZ committed/VBN to/TO provide/VB another/DT 592/CD mln/NN dlrs/NNS ,/, Redstone/NNP said/VBD ./. Merrill/NNP Lynch/NNP ,/, Pierce/NNP Fenner/NNP and/CC Smith/NNP Inc/NNP has/VBZ increased/VBN its/PRP$ underwriting/NN commitment/NN to/TO 175/CD mln/JJ dlrs/NNS of/IN subordinated/JJ financing/NN debt/NN for/IN the/DT Viacom/NNP takeover/NN ,/, from/IN the/DT 150/CD mln/NN dlrs/NNS it/PRP agreed/VBD to/TO underwrite/VB earlier/JJR ,/, Redstone/NNP said/VBD ./. Redstone/NNP said/VBD his/PRP$ group/NN would/MD contribute/VB more/JJR than/IN 475/CD mln/NN dlrs/NNS in/IN equity/NN toward/IN the/DT takeover/NN ./. The/DT Redstone/NN equity/NN contribution/NN to/TO the/DT takeover/NN would/MD consist/VB of/IN all/DT of/IN his/PRP$ group/NN 's/POS 6,881,800/CD Viacom/NNP common/JJ shares/NNS and/CC at/IN least/JJS 118/CD mln/NN dlrs/NNS cash/NN ,/, he/PRP said/VBD ./. The/DT new/JJ offer/NN ,/, the/DT second/JJ sweetened/JJ deal/NN Redstone/NNP has/VBZ proposed/VBN in/IN his/PRP$ month-long/JJ bidding/NN war/NN with/IN management/NN ,/, also/RB contains/VBZ newly/RB drawn/VBN up/RP proposed/VBN merger/NN documents/NNS ,/, he/PRP said/VBD ./. Last/JJ week/NN ,/, the/DT management/NN group/NN submitted/VBD what/WP it/PRP called/VBD its/PRP$ last/JJ offer/NN for/IN the/DT company/NN ,/, valued/VBN at/IN 3.1/CD mln/NN dlrs/NNS and/CC consisting/VBG of/IN 38.50/CD dlrs/NNS a/DT share/NN cash/NN ,/, preferred/VBN stock/NN valued/VBN at/IN eight/CD dlrs/NNS a/DT share/NN and/CC equity/NN in/IN the/DT new/JJ company/NN ./. Redstone/NN 's/POS previous/JJ offer/NN had/VBD been/VBN valued/VBN at/IN 3.2/CD billion/CD dlrs/NNS ./. Reuter/NNP"
+
+$`496`$POStags
+  [1] "NNP"  "NNP"  "NNP"  ","    "WP"   "VBZ"  "CD"   "IN"   "DT"   "CD"  
+ [11] "NNS"  "VBG"  "IN"   "NN"   "IN"   "NNP"  "NNP"  "NNP"  ","    "VBD" 
+ [21] "TO"   "VB"   "PRP$" "NN"   "IN"   "DT"   "NN"   "IN"   "CD"   "NNS" 
+ [31] "DT"   "NN"   "NN"   "CC"   "CD"   "NNS"  "IN"   "NNS"  "."    "IN"  
+ [41] "DT"   "NN"   "IN"   "DT"   "NNPS" "CC"   "NNP"  "NNP"  ","    "NNP" 
+ [51] ","    "WP"   "VBZ"  "NNP"  ","    "JJ"   "NNP"  "NNP"  "NNP"  ","   
+ [61] "DT"   "NN"   "NN"   "NN"   ","    "VBD"  "TO"   "VB"   "DT"   "NN"  
+ [71] "NN"   "IN"   "PRP$" "NNP"  "NN"   "TO"   "CD"   "NNS"  "DT"   "NN"  
+ [81] "IN"   "CD"   "NNS"  "."    "NN"   "RB"   "VBD"  "DT"   "NN"   "NN"  
+ [91] "IN"   "DT"   "JJ"   "NN"   "PRP"  "VBZ"  "VBG"  "TO"   "CD"   "NNS" 
+[101] "IN"   "CD"   "NNS"  "."    "DT"   "NNP"  "NN"   ","    "WDT"  "VBZ" 
+[111] "VBG"  "VBN"  "IN"   "NNP"  "NNP"  "NNP"  ","    "DT"   "NNP"  "NNP" 
+[121] "NN"   "VBN"  "RP"   "IN"   "DT"   "NN"   ","    "WDT"  "RB"   "VBP" 
+[131] "NNP"  "NNS"  "NN"   "IN"   "DT"   "NN"   "IN"   "NNP"  "JJ"   "NN"  
+[141] "IN"   "DT"   "NN"   "."    "NNP"  "VBD"  "JJR"  "NN"   "PRP"  "VBD" 
+[151] "VBN"  "NN"   "NNS"  "IN"   "NNP"  "CC"   "NNP"  "NNP"  "NNP"  ","   
+[161] "DT"   "NN"   "VBN"  "IN"   "NNP"  "NN"   "WDT"  "VBZ"  "VBG"  "IN"  
+[171] "NN"   "IN"   "NN"   "IN"   "DT"   "NN"   "CC"   "RB"   "VBZ"  "DT"  
+[181] "JJ"   "NN"   "NN"   "IN"   "NNP"  "."    "DT"   "NN"   "VBD"  "RB"  
+[191] "VB"   "DT"   "NNS"  "IN"   "DT"   "JJ"   "NNS"  ","    "CC"   "VBD" 
+[201] "DT"   "JJ"   "NN"   "IN"   "PRP$" "NN"   "MD"   "VB"   "PRP"  "RB"  
+[211] "RB"   "."    "DT"   "NNP"  "NN"   ","    "WDT"  "VBZ"  "DT"   "CD"  
+[221] "NN"   "NN"   "IN"   "NNP"  ","    "CC"   "DT"   "NN"   "NN"   ","   
+[231] "WDT"  "VBZ"  "DT"   "CD"   "NN"   "NN"   ","    "VBP"  "DT"   "VBD" 
+[241] "RB"   "TO"   "VB"   "JJR"  "NNS"  "IN"   "DT"   "NN"   "IN"   "DT"  
+[251] "NN"   "VBZ"  "VBN"  ","    "IN"   "DT"   "NNS"  "VBP"  "NN"   "IN"  
+[261] "DT"   "NN"   "NN"   "IN"   "IN"   "JJS"  "NN"   "IN"   "DT"   "JJ"  
+[271] "NN"   "."    "DT"   "CD"   "NNS"  "RB"   "VBD"  "NN"   "NNS"  ","   
+[281] "WDT"  "VBP"  "PRP"  "NN"   "TO"   "NNP"  "POS"  "JJ"   "NNS"  "VBN" 
+[291] "PRP"  "VB"   "DT"   "NN"   "NN"   "."    "IN"   "PRP$" "NNP"  "NN"  
+[301] ","    "NNP"  ","    "WP"   "VBD"  "PRP$" "NN"   "IN"   "VBG"  "DT"  
+[311] "NN"   "IN"   "CD"   "CD"   "NNS"  ","    "VBD"  "NNP"  "IN"   "NNP" 
+[321] "VBZ"  "JJ"   "PRP"  "MD"   "VB"   "CD"   "CD"   "NNS"  "."    "IN"  
+[331] "DT"   "NN"   "PRP"  "MD"   "VB"   "IN"   "DT"   "NN"   "NN"   ","   
+[341] "NNP"  "IN"   "NNP"  "VBZ"  "RB"   "VBN"  "TO"   "VB"   "DT"   "JJ"  
+[351] "CD"   "NN"   "NN"   "IN"   "DT"   "JJ"   "NN"   "IN"   "JJ"   "NN"  
+[361] "CC"   "VBZ"  "VBN"  "TO"   "VB"   "DT"   "CD"   "NN"   "NNS"  ","   
+[371] "NNP"  "VBD"  "."    "NNP"  "NNP"  ","    "NNP"  "NNP"  "CC"   "NNP" 
+[381] "NNP"  "VBZ"  "VBN"  "PRP$" "NN"   "NN"   "TO"   "CD"   "JJ"   "NNS" 
+[391] "IN"   "JJ"   "NN"   "NN"   "IN"   "DT"   "NNP"  "NN"   ","    "IN"  
+[401] "DT"   "CD"   "NN"   "NNS"  "PRP"  "VBD"  "TO"   "VB"   "JJR"  ","   
+[411] "NNP"  "VBD"  "."    "NNP"  "VBD"  "PRP$" "NN"   "MD"   "VB"   "JJR" 
+[421] "IN"   "CD"   "NN"   "NNS"  "IN"   "NN"   "IN"   "DT"   "NN"   "."   
+[431] "DT"   "NN"   "NN"   "NN"   "TO"   "DT"   "NN"   "MD"   "VB"   "IN"  
+[441] "DT"   "IN"   "PRP$" "NN"   "POS"  "CD"   "NNP"  "JJ"   "NNS"  "CC"  
+[451] "IN"   "JJS"  "CD"   "NN"   "NNS"  "NN"   ","    "PRP"  "VBD"  "."   
+[461] "DT"   "JJ"   "NN"   ","    "DT"   "JJ"   "JJ"   "NN"   "NNP"  "VBZ" 
+[471] "VBN"  "IN"   "PRP$" "JJ"   "NN"   "NN"   "IN"   "NN"   ","    "RB"  
+[481] "VBZ"  "RB"   "VBN"  "RP"   "VBN"  "NN"   "NNS"  ","    "PRP"  "VBD" 
+[491] "."    "JJ"   "NN"   ","    "DT"   "NN"   "NN"   "VBD"  "WP"   "PRP" 
+[501] "VBD"  "PRP$" "JJ"   "NN"   "IN"   "DT"   "NN"   ","    "VBN"  "IN"  
+[511] "CD"   "NN"   "NNS"  "CC"   "VBG"  "IN"   "CD"   "NNS"  "DT"   "NN"  
+[521] "NN"   ","    "VBN"  "NN"   "VBN"  "IN"   "CD"   "NNS"  "DT"   "NN"  
+[531] "CC"   "NN"   "IN"   "DT"   "JJ"   "NN"   "."    "NN"   "POS"  "JJ"  
+[541] "NN"   "VBD"  "VBN"  "VBN"  "IN"   "CD"   "CD"   "NNS"  "."    "NNP" 
+
+
+$`497`
+$`497`$POStagged
+[1] "Montedison/NNP Spa/NNP <MONI.MI>/NNP said/VBD it/PRP has/VBZ concluded/VBN its/PRP$ negotiations/NNS with/IN Spanish/JJ pharmaceuticals/NNS company/NN <Antibioticos/NNS SA>/NNP ./. A/DT company/NN spokesman/NN told/VBD Reuters/NNP \"/`` We/PRP have/VBP concluded/VBN the/DT talks/NNS and/CC we/PRP are/VBP now/RB awaiting/VBG authorization/NN from/IN Spanish/JJ authorities/NNS ./. \"/'' He/PRP declined/VBD to/TO comment/VB further/RBR ./. Earlier/JJR today/NN the/DT Italian/JJ company/NN postponed/VBD a/DT scheduled/VBN press/NN conference/NN on/IN its/PRP$ talks/NNS with/IN Antibioticos/NNP ./. An/DT Italian/JJ press/NN report/NN today/NN said/VBD Montedison/NNP has/VBZ agreed/VBN to/TO acquire/VB Antibioticos/NNP for/IN 500/CD billion/CD lire/NNS ./. REUTER/NN"
+
+$`497`$POStags
+ [1] "NNP"  "NNP"  "NNP"  "VBD"  "PRP"  "VBZ"  "VBN"  "PRP$" "NNS"  "IN"  
+[11] "JJ"   "NNS"  "NN"   "NNS"  "NNP"  "."    "DT"   "NN"   "NN"   "VBD" 
+[21] "NNP"  "``"   "PRP"  "VBP"  "VBN"  "DT"   "NNS"  "CC"   "PRP"  "VBP" 
+[31] "RB"   "VBG"  "NN"   "IN"   "JJ"   "NNS"  "."    "''"   "PRP"  "VBD" 
+[41] "TO"   "VB"   "RBR"  "."    "JJR"  "NN"   "DT"   "JJ"   "NN"   "VBD" 
+[51] "DT"   "VBN"  "NN"   "NN"   "IN"   "PRP$" "NNS"  "IN"   "NNP"  "."   
+[61] "DT"   "JJ"   "NN"   "NN"   "NN"   "VBD"  "NNP"  "VBZ"  "VBN"  "TO"  
+[71] "VB"   "NNP"  "IN"   "CD"   "CD"   "NNS"  "."    "NN"  
+
+
+$`498`
+$`498`$POStagged
+[1] "UtiliCorp/NNP United/NNP Inc/NNP said/VBD it/PRP completed/VBD the/DT acquisition/NN of/IN West/NNP Virginia/NNP Power/NNP from/IN Dominion/NNP Resources/NNP for/IN about/RB 21/CD mln/NN dlrs/NNS ./. The/DT sale/NN was/VBD approved/VBN by/IN the/DT West/NNP Virginia/NNP Public/NNP Service/NNP Commission/NNP in/IN January/NNP and/CC became/VBD effective/JJ March/NNP one/CD ./. West/NNP Virginia/NNP 's/POS management/NN will/MD continue/VB to/TO be/VB responsible/JJ for/IN operating/VBG the/DT utility/NN ,/, it/PRP said/VBD ./. Reuter/NNP"
+
+$`498`$POStags
+ [1] "NNP" "NNP" "NNP" "VBD" "PRP" "VBD" "DT"  "NN"  "IN"  "NNP" "NNP" "NNP"
+[13] "IN"  "NNP" "NNP" "IN"  "RB"  "CD"  "NN"  "NNS" "."   "DT"  "NN"  "VBD"
+[25] "VBN" "IN"  "DT"  "NNP" "NNP" "NNP" "NNP" "NNP" "IN"  "NNP" "CC"  "VBD"
+[37] "JJ"  "NNP" "CD"  "."   "NNP" "NNP" "POS" "NN"  "MD"  "VB"  "TO"  "VB" 
+[49] "JJ"  "IN"  "VBG" "DT"  "NN"  ","   "PRP" "VBD" "."   "NNP"
+
+
+$`504`
+$`504`$POStagged
+[1] "Union/NNP Carbide/NNP Corp/NNP is/VBZ looking/VBG to/TO acquisitions/NNS and/CC joint/JJ ventures/NNS to/TO aid/VB its/PRP$ chemicals/NNS and/CC plastics/NNS growth/NN ,/, according/VBG the/DT H.W./NNP Lichtenberger/NNP ,/, president/NN of/IN Chemicals/NNP and/CC Plastics/NNPS ./. Describing/VBG this/DT as/IN a/DT major/JJ departure/NN in/IN the/DT company/NN 's/POS approach/NN to/TO commercial/JJ development/NN ,/, he/PRP told/VBD the/DT annual/JJ new/JJ business/NN forum/NN of/IN the/DT Commercial/NNP Development/NNP Association/NNP \"/`` We/PRP are/VBP looking/VBG to/TO acquisitions/NNS and/CC joint/JJ ventures/NNS when/WRB they/PRP look/VBP like/IN the/DT fastest/JJS and/CC most/RBS promising/JJ routes/NNS to/TO the/DT growth/NN markets/NNS we/PRP 've/VBP identified/VBN ./. \"/`` Not/RB very/RB long/RB ago/IN Union/NNP Carbide/NNP had/VBD the/DT attitude/NN \"/`` that/IN if/IN we/PRP could/MD n't/RB do/VB it/PRP ourselves/PRP ,/, it/PRP was/VBD n't/RB worth/JJ doing/VBG ./. Or/CC ,/, if/IN it/PRP was/VBD worth/JJ doing/VBG ,/, we/PRP had/VBD to/TO go/VB it/PRP alone/RB ,/, \"/'' Lichtenberger/NNP explained/VBD ./. He/PRP said/VBD \"/`` there/EX are/VBP times/NNS when/WRB exploiting/VBG a/DT profitable/JJ market/NN is/VBZ done/VBN best/RB with/IN a/DT partner/NN ./. Nor/CC do/VBP we/PRP see/VB any/DT need/NN to/TO plow/VB resources/NNS into/IN a/DT technology/NN we/PRP may/MD not/RB have/VB if/IN we/PRP can/MD link/VB up/RP profitably/RB with/IN someone/NN who/WP is/VBZ already/RB there/RB ./. \"/'' He/PRP said/VBD Carbide/NNP has/VBZ extended/VBN its/PRP$ catalyst/NN business/NN that/IN way/NN and/CC is/VBZ now/RB extending/VBG its/PRP$ specialty/NN chemicals/NNS business/NN in/IN the/DT same/JJ way/NN ./. Reuter/NNP"
+
+$`504`$POStags
+  [1] "NNP"  "NNP"  "NNP"  "VBZ"  "VBG"  "TO"   "NNS"  "CC"   "JJ"   "NNS" 
+ [11] "TO"   "VB"   "PRP$" "NNS"  "CC"   "NNS"  "NN"   ","    "VBG"  "DT"  
+ [21] "NNP"  "NNP"  ","    "NN"   "IN"   "NNP"  "CC"   "NNPS" "."    "VBG" 
+ [31] "DT"   "IN"   "DT"   "JJ"   "NN"   "IN"   "DT"   "NN"   "POS"  "NN"  
+ [41] "TO"   "JJ"   "NN"   ","    "PRP"  "VBD"  "DT"   "JJ"   "JJ"   "NN"  
+ [51] "NN"   "IN"   "DT"   "NNP"  "NNP"  "NNP"  "``"   "PRP"  "VBP"  "VBG" 
+ [61] "TO"   "NNS"  "CC"   "JJ"   "NNS"  "WRB"  "PRP"  "VBP"  "IN"   "DT"  
+ [71] "JJS"  "CC"   "RBS"  "JJ"   "NNS"  "TO"   "DT"   "NN"   "NNS"  "PRP" 
+ [81] "VBP"  "VBN"  "."    "``"   "RB"   "RB"   "RB"   "IN"   "NNP"  "NNP" 
+ [91] "VBD"  "DT"   "NN"   "``"   "IN"   "IN"   "PRP"  "MD"   "RB"   "VB"  
+[101] "PRP"  "PRP"  ","    "PRP"  "VBD"  "RB"   "JJ"   "VBG"  "."    "CC"  
+[111] ","    "IN"   "PRP"  "VBD"  "JJ"   "VBG"  ","    "PRP"  "VBD"  "TO"  
+[121] "VB"   "PRP"  "RB"   ","    "''"   "NNP"  "VBD"  "."    "PRP"  "VBD" 
+[131] "``"   "EX"   "VBP"  "NNS"  "WRB"  "VBG"  "DT"   "JJ"   "NN"   "VBZ" 
+[141] "VBN"  "RB"   "IN"   "DT"   "NN"   "."    "CC"   "VBP"  "PRP"  "VB"  
+[151] "DT"   "NN"   "TO"   "VB"   "NNS"  "IN"   "DT"   "NN"   "PRP"  "MD"  
+[161] "RB"   "VB"   "IN"   "PRP"  "MD"   "VB"   "RP"   "RB"   "IN"   "NN"  
+[171] "WP"   "VBZ"  "RB"   "RB"   "."    "''"   "PRP"  "VBD"  "NNP"  "VBZ" 
+[181] "VBN"  "PRP$" "NN"   "NN"   "IN"   "NN"   "CC"   "VBZ"  "RB"   "VBG" 
+[191] "PRP$" "NN"   "NNS"  "NN"   "IN"   "DT"   "JJ"   "NN"   "."    "NNP" 
+
+
